@@ -1,0 +1,3749 @@
+﻿******************** # 1 *************************
+
+FullTiltPoker Game #26224399007: Step 1 (203481150), Table 1 - 15/30 - No Limit Hold'em - 11:38:12 ET - 2010/12/08
+
+Seat 1: Player1 (1,500)
+Seat 2: Player2 (1,500)
+Seat 3: Player3 (1,500)
+Seat 4: Player4 (1,500)
+Seat 5: Player5 (1,500)
+Seat 6: Player6 (1,500)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,500)
+Seat 9: Player9 (1,500)
+Player1 posts the small blind of 15
+Player2 posts the big blind of 30
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [3s 9s]
+Player3 calls 30
+Player4 folds
+Player5 calls 30
+Player6 calls 30
+Player7 folds
+Player8 folds
+Player9 folds
+Player1 calls 15
+Player2 checks
+*** FLOP *** [8c 4s 5s]
+Player1 bets 30
+Player2 raises to 120
+Player3 folds
+Player5 has 15 seconds left to act
+Player5 calls 120
+Player6 folds
+Player1 calls 90
+*** TURN *** [8c 4s 5s] [4h]
+Player1 checks
+Player2 checks
+Player5 bets 120
+Player1 calls 120
+Player2 calls 120
+*** RIVER *** [8c 4s 5s 4h] [6s]
+Player1 checks
+Player2 checks
+Player5 has 15 seconds left to act
+Player5 is feeling angry
+Player5 bets 240
+Player1 folds
+Player2 calls 240
+Player5 is feeling happy
+*** SHOW DOWN ***
+Player5 shows [8d 7d] a straight, Eight high
+Player2 mucks
+Player5 wins the pot (1,350) with a straight, Eight high
+*** SUMMARY ***
+Duration 82s
+Total pot 1,350 | Rake 0
+Board: [8c 4s 5s 4h 6s]
+Seat 1: Player1 (small blind) folded on the River
+Seat 2: Player2 (big blind) mucked [6h 8h] - two pair, Eights and Sixes
+Seat 3: Player3 folded on the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 showed [8d 7d] and won (1,350) with a straight, Eight high
+Seat 6: Player6 folded on the Flop
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 2 *************************
+
+FullTiltPoker Game #26224427010: Step 1 (203481150), Table 1 - 15/30 - No Limit Hold'em - 11:39:35 ET - 2010/12/08
+
+Seat 1: Player1 (1,230)
+Seat 2: Player2 (990)
+Seat 3: Player3 (1,470)
+Seat 4: Player4 (1,500)
+Seat 5: Player5 (2,340)
+Seat 6: Player6 (1,470)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,500)
+Seat 9: Player9 (1,500)
+Player2 posts the small blind of 15
+Player3 posts the big blind of 30
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player8 [Th Jh]
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 raises to 90
+Player9 has 15 seconds left to act
+Player9 folds
+Player1 calls 90
+Player2 folds
+Player3 folds
+*** FLOP *** [8h Jc 5d]
+Player8 bets 90
+Player1 calls 90
+*** TURN *** [8h Jc 5d] [Js]
+Player8 bets 90
+Player1 calls 90
+*** RIVER *** [8h Jc 5d Js] [7c]
+Player4 has been disconnected
+Player8 bets 585
+Player4 has reconnected
+Player1 folds
+Uncalled bet of 585 returned to Player8
+Player8 mucks
+Player8 wins the pot (585)
+*** SUMMARY ***
+Duration 48s
+Total pot 585 | Rake 0
+Board: [8h Jc 5d Js 7c]
+Seat 1: Player1 (button) folded on the River
+Seat 2: Player2 (small blind) folded before the Flop
+Seat 3: Player3 (big blind) folded before the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 collected (585)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 3 *************************
+
+FullTiltPoker Game #26224443460: Step 1 (203481150), Table 1 - 15/30 - No Limit Hold'em - 11:40:24 ET - 2010/12/08
+
+Seat 1: Player1 (960)
+Seat 2: Player2 (975)
+Seat 3: Player3 (1,440)
+Seat 4: Player4 (1,500)
+Seat 5: Player5 (2,340)
+Seat 6: Player6 (1,470)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,815)
+Seat 9: Player9 (1,500)
+Player3 posts the small blind of 15
+Player4 posts the big blind of 30
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Player8 [3c Qh]
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 raises to 60
+Player1 calls 60
+Player2 raises to 180
+Player3 folds
+Player4 folds
+Player9 calls 120
+Player1 calls 120
+*** FLOP *** [Jh 9h 8c]
+Player9 has 15 seconds left to act
+Player9 bets 1,320, and is all in
+Player1 calls 780, and is all in
+Player2 folds
+Player9 shows [Td 8d]
+Player1 shows [Qd Th]
+Uncalled bet of 540 returned to Player9
+*** TURN *** [Jh 9h 8c] [9c]
+*** RIVER *** [Jh 9h 8c 9c] [9s]
+Player9 shows a full house, Nines full of Eights
+Player1 shows a straight, Queen high
+Player9 wins the pot (2,145) with a full house, Nines full of Eights
+*** SUMMARY ***
+Duration 46s
+Total pot 2,145 | Rake 0
+Board: [Jh 9h 8c 9c 9s]
+Seat 1: Player1 showed [Qd Th] and lost with a straight, Queen high
+Seat 2: Player2 (button) folded on the Flop
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 showed [Td 8d] and won (2,145) with a full house, Nines full of Eights
+
+
+******************** # 4 *************************
+
+FullTiltPoker Game #26224459444: Step 1 (203481150), Table 1 - 15/30 - No Limit Hold'em - 11:41:10 ET - 2010/12/08
+
+Seat 2: Player2 (795)
+Seat 3: Player3 (1,425)
+Seat 4: Player4 (1,470)
+Seat 5: Player5 (2,340)
+Seat 6: Player6 (1,470)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,815)
+Seat 9: Player9 (2,685)
+Player4 posts the small blind of 15
+Player5 posts the big blind of 30
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [7c 4c]
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 folds
+Player2 folds
+Player3 folds
+Player4 has 15 seconds left to act
+Player4 folds
+Uncalled bet of 15 returned to Player5
+Player5 mucks
+Player5 wins the pot (30)
+*** SUMMARY ***
+Duration 20s
+Total pot 30 | Rake 0
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 5: Player5 (big blind) collected (30)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 5 *************************
+
+FullTiltPoker Game #26224466355: Step 1 (203481150), Table 1 - 15/30 - No Limit Hold'em - 11:41:31 ET - 2010/12/08
+
+Seat 2: Player2 (795)
+Seat 3: Player3 (1,425)
+Seat 4: Player4 (1,455)
+Seat 5: Player5 (2,355)
+Seat 6: Player6 (1,470)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,815)
+Seat 9: Player9 (2,685)
+Player5 posts the small blind of 15
+Player6 posts the big blind of 30
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [4d 5h]
+Player7 folds
+Player1 (Observer): WTF was that
+Player8 folds
+Player9 folds
+Player2 raises to 120
+Player3 folds
+Player4 folds
+Player8 has been disconnected
+Player8 has reconnected
+Player5 has 15 seconds left to act
+Player5 folds
+Player6 folds
+Uncalled bet of 90 returned to Player2
+Player2 mucks
+Player2 wins the pot (75)
+*** SUMMARY ***
+Duration 34s
+Total pot 75 | Rake 0
+Seat 2: Player2 collected (75)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 5: Player5 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded before the Flop
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 6 *************************
+
+FullTiltPoker Game #26224478127: Step 1 (203481150), Table 1 - 15/30 - No Limit Hold'em - 11:42:05 ET - 2010/12/08
+
+Seat 2: Player2 (840)
+Seat 3: Player3 (1,425)
+Seat 4: Player4 (1,455)
+Seat 5: Player5 (2,340)
+Seat 6: Player6 (1,440)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,815)
+Seat 9: Player9 (2,685)
+Player6 posts the small blind of 15
+Player7 posts the big blind of 30
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player8 [Qh Ad]
+Player8 raises to 105
+Player9 folds
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 calls 75
+*** FLOP *** [Td 6d Tc]
+Player7 checks
+Player8 checks
+*** TURN *** [Td 6d Tc] [Js]
+Player7 bets 30
+Player8 calls 30
+*** RIVER *** [Td 6d Tc Js] [Th]
+Player7 checks
+Player8 checks
+*** SHOW DOWN ***
+Player7 shows [Ks Qc] three of a kind, Tens
+Player8 shows [Qh Ad] three of a kind, Tens
+Player8 wins the pot (285) with three of a kind, Tens
+*** SUMMARY ***
+Duration 34s
+Total pot 285 | Rake 0
+Board: [Td 6d Tc Js Th]
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) showed [Ks Qc] and lost with three of a kind, Tens
+Seat 8: Player8 showed [Qh Ad] and won (285) with three of a kind, Tens
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 7 *************************
+
+FullTiltPoker Game #26224489950: Step 1 (203481150), Table 1 - 15/30 - No Limit Hold'em - 11:42:40 ET - 2010/12/08
+
+Seat 2: Player2 (840)
+Seat 3: Player3 (1,425)
+Seat 4: Player4 (1,455)
+Seat 5: Player5 (2,340)
+Seat 6: Player6 (1,425)
+Seat 7: Player7 (1,365)
+Seat 8: Player8 (1,965)
+Seat 9: Player9 (2,685)
+Player7 posts the small blind of 15
+Player8 posts the big blind of 30
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player8 [2h 3d]
+Player9 folds
+Player2 raises to 120
+Player3 folds
+Player4 folds
+Player5 calls 120
+Player6 folds
+Player7 folds
+Player8 folds
+*** FLOP *** [Ks Kd 5s]
+Player2 bets 720, and is all in
+Player5 folds
+Uncalled bet of 720 returned to Player2
+Player2 mucks
+Player2 wins the pot (285)
+*** SUMMARY ***
+Duration 29s
+Total pot 285 | Rake 0
+Board: [Ks Kd 5s]
+Seat 2: Player2 collected (285)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 folded on the Flop
+Seat 6: Player6 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) folded before the Flop
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 8 *************************
+
+FullTiltPoker Game #26224500996: Step 1 (203481150), Table 1 - 15/30 - No Limit Hold'em - 11:43:10 ET - 2010/12/08
+
+Seat 2: Player2 (1,005)
+Seat 3: Player3 (1,425)
+Seat 4: Player4 (1,455)
+Seat 5: Player5 (2,220)
+Seat 6: Player6 (1,425)
+Seat 7: Player7 (1,350)
+Seat 8: Player8 (1,935)
+Seat 9: Player9 (2,685)
+Player8 posts the small blind of 15
+Player9 posts the big blind of 30
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [Ah Th]
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 raises to 120
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 folds
+Uncalled bet of 90 returned to Player5
+Player5 mucks
+Player5 wins the pot (75)
+*** SUMMARY ***
+Duration 23s
+Total pot 75 | Rake 0
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 collected (75)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) folded before the Flop
+
+
+******************** # 9 *************************
+
+FullTiltPoker Game #26224508932: Step 1 (203481150), Table 1 - 15/30 - No Limit Hold'em - 11:43:33 ET - 2010/12/08
+
+Seat 2: Player2 (1,005)
+Seat 3: Player3 (1,425)
+Seat 4: Player4 (1,455)
+Seat 5: Player5 (2,265)
+Seat 6: Player6 (1,425)
+Seat 7: Player7 (1,350)
+Seat 8: Player8 (1,920)
+Seat 9: Player9 (2,655)
+Player9 posts the small blind of 15
+Player2 posts the big blind of 30
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [8d 3h]
+Player3 folds
+Player4 folds
+Player5 calls 30
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 folds
+Player2 checks
+*** FLOP *** [4c Qd Tc]
+Player2 checks
+Player5 checks
+*** TURN *** [4c Qd Tc] [Jh]
+Player2 checks
+Player5 checks
+*** RIVER *** [4c Qd Tc Jh] [4s]
+Player2 checks
+Player5 checks
+*** SHOW DOWN ***
+Player2 shows [3s 5s] a pair of Fours
+Player5 shows [2h 2s] two pair, Fours and Twos
+Player5 wins the pot (75) with two pair, Fours and Twos
+*** SUMMARY ***
+Duration 43s
+Total pot 75 | Rake 0
+Board: [4c Qd Tc Jh 4s]
+Seat 2: Player2 (big blind) showed [3s 5s] and lost with a pair of Fours
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 showed [2h 2s] and won (75) with two pair, Fours and Twos
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 10 ************************
+
+FullTiltPoker Game #26224523641: Step 1 (203481150), Table 1 - 20/40 - No Limit Hold'em - 11:44:16 ET - 2010/12/08
+
+Seat 2: Player2 (975)
+Seat 3: Player3 (1,425)
+Seat 4: Player4 (1,455)
+Seat 5: Player5 (2,310)
+Seat 6: Player6 (1,425)
+Seat 7: Player7 (1,350)
+Seat 8: Player8 (1,920)
+Seat 9: Player9 (2,640)
+Player2 posts the small blind of 20
+Player3 posts the big blind of 40
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [Jh 3s]
+Player4 folds
+Player5 folds
+Player6 raises to 120
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 has timed out
+Player8 folds
+Player9 folds
+Player2 folds
+Player3 folds
+Uncalled bet of 80 returned to Player6
+Player6 mucks
+Player6 wins the pot (100)
+*** SUMMARY ***
+Duration 42s
+Total pot 100 | Rake 0
+Seat 2: Player2 (small blind) folded before the Flop
+Seat 3: Player3 (big blind) folded before the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 collected (100)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 11 ************************
+
+FullTiltPoker Game #26224538412: Step 1 (203481150), Table 1 - 20/40 - No Limit Hold'em - 11:44:59 ET - 2010/12/08
+
+Seat 2: Player2 (955)
+Seat 3: Player3 (1,385)
+Seat 4: Player4 (1,455)
+Seat 5: Player5 (2,310)
+Seat 6: Player6 (1,485)
+Seat 7: Player7 (1,350)
+Seat 8: Player8 (1,920), is sitting out
+Seat 9: Player9 (2,640)
+Player3 posts the small blind of 20
+Player4 posts the big blind of 40
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Player8 [Kc Ah]
+Player5 has 15 seconds left to act
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 raises to 140
+Player9 folds
+Player2 folds
+Player3 calls 120
+Player4 folds
+*** FLOP *** [8d 4d Ts]
+Player3 checks
+Player8 bets 260
+Player3 folds
+Uncalled bet of 260 returned to Player8
+Player8 mucks
+Player8 wins the pot (320)
+*** SUMMARY ***
+Duration 38s
+Total pot 320 | Rake 0
+Board: [8d 4d Ts]
+Seat 2: Player2 (button) didn't bet (folded)
+Seat 3: Player3 (small blind) folded on the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 collected (320)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 12 ************************
+
+FullTiltPoker Game #26224552305: Step 1 (203481150), Table 1 - 20/40 - No Limit Hold'em - 11:45:37 ET - 2010/12/08
+
+Seat 2: Player2 (955)
+Seat 3: Player3 (1,245)
+Seat 4: Player4 (1,415)
+Seat 5: Player5 (2,310)
+Seat 6: Player6 (1,485)
+Seat 7: Player7 (1,350)
+Seat 8: Player8 (2,100)
+Seat 9: Player9 (2,640)
+Player4 posts the small blind of 20
+Player5 posts the big blind of 40
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [9c 3h]
+Player6 raises to 120
+Player7 folds
+Player8 folds
+Player9 folds
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Uncalled bet of 80 returned to Player6
+Player6 mucks
+Player6 wins the pot (100)
+*** SUMMARY ***
+Duration 15s
+Total pot 100 | Rake 0
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 5: Player5 (big blind) folded before the Flop
+Seat 6: Player6 collected (100)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 13 ************************
+
+FullTiltPoker Game #26224557918: Step 1 (203481150), Table 1 - 20/40 - No Limit Hold'em - 11:45:53 ET - 2010/12/08
+
+Seat 2: Player2 (955)
+Seat 3: Player3 (1,245)
+Seat 4: Player4 (1,395)
+Seat 5: Player5 (2,270)
+Seat 6: Player6 (1,545)
+Seat 7: Player7 (1,350)
+Seat 8: Player8 (2,100)
+Seat 9: Player9 (2,640)
+Player5 posts the small blind of 20
+Player6 posts the big blind of 40
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [8c 4s]
+Player7 folds
+Player8 folds
+Player9 folds
+Player2 raises to 120
+Player3 calls 120
+Player4 folds
+Player5 folds
+Player6 calls 80
+*** FLOP *** [7s Ac Jc]
+Player6 checks
+Player2 checks
+Player3 bets 120
+Player6 folds
+Player2 folds
+Uncalled bet of 120 returned to Player3
+Player3 mucks
+Player3 wins the pot (380)
+*** SUMMARY ***
+Duration 35s
+Total pot 380 | Rake 0
+Board: [7s Ac Jc]
+Seat 2: Player2 folded on the Flop
+Seat 3: Player3 collected (380)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 5: Player5 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded on the Flop
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 14 ************************
+
+FullTiltPoker Game #26224570771: Step 1 (203481150), Table 1 - 20/40 - No Limit Hold'em - 11:46:29 ET - 2010/12/08
+
+Seat 2: Player2 (835)
+Seat 3: Player3 (1,505)
+Seat 4: Player4 (1,395)
+Seat 5: Player5 (2,250)
+Seat 6: Player6 (1,425)
+Seat 7: Player7 (1,350), is sitting out
+Seat 8: Player8 (2,100)
+Seat 9: Player9 (2,640)
+Player6 posts the small blind of 20
+Player7 posts the big blind of 40
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player8 [4s 5h]
+Player8 folds
+Player9 raises to 80
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 folds
+Uncalled bet of 40 returned to Player9
+Player9 mucks
+Player9 wins the pot (100)
+*** SUMMARY ***
+Duration 15s
+Total pot 100 | Rake 0
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) folded before the Flop
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 collected (100)
+
+
+******************** # 15 ************************
+
+FullTiltPoker Game #26224576492: Step 1 (203481150), Table 1 - 20/40 - No Limit Hold'em - 11:46:46 ET - 2010/12/08
+
+Seat 2: Player2 (835)
+Seat 3: Player3 (1,505)
+Seat 4: Player4 (1,395)
+Seat 5: Player5 (2,250)
+Seat 6: Player6 (1,405)
+Seat 7: Player7 (1,310), is sitting out
+Seat 8: Player8 (2,100)
+Seat 9: Player9 (2,700)
+Player7 posts the small blind of 20
+Player8 posts the big blind of 40
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player8 [Td 5c]
+Player9 folds
+Player2 folds
+Player3 calls 40
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 checks
+*** FLOP *** [Kh 5h 5d]
+Player8 has 15 seconds left to act
+Player8 checks
+Player3 bets 120
+Player8 raises to 240
+Player3 calls 120
+*** TURN *** [Kh 5h 5d] [6h]
+Player8 checks
+Player3 bets 160
+Player8 calls 160
+*** RIVER *** [Kh 5h 5d 6h] [4h]
+Player8 checks
+Player3 checks
+Player4 has been disconnected
+*** SHOW DOWN ***
+Player3 shows [9h Ah] a flush, Ace high
+Player8 mucks
+Player3 wins the pot (900) with a flush, Ace high
+Player4 has reconnected
+*** SUMMARY ***
+Duration 69s
+Total pot 900 | Rake 0
+Board: [Kh 5h 5d 6h 4h]
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 showed [9h Ah] and won (900) with a flush, Ace high
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) mucked [Td 5c] - three of a kind, Fives
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 16 ************************
+
+FullTiltPoker Game #26224601216: Step 1 (203481150), Table 1 - 20/40 - No Limit Hold'em - 11:47:55 ET - 2010/12/08
+
+Seat 2: Player2 (835)
+Seat 3: Player3 (1,965)
+Seat 4: Player4 (1,395)
+Seat 5: Player5 (2,250)
+Seat 6: Player6 (1,405)
+Seat 7: Player7 (1,290)
+Seat 8: Player8 (1,660)
+Seat 9: Player9 (2,700)
+Player8 posts the small blind of 20
+Player9 posts the big blind of 40
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [3s Qd]
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 calls 40
+Player6 folds
+Player7 calls 40
+Player8 folds
+Player9 checks
+*** FLOP *** [Ac Ks 5s]
+Player9 checks
+Player5 checks
+Player7 bets 80
+Player9 folds
+Player5 folds
+Uncalled bet of 80 returned to Player7
+Player7 mucks
+Player7 wins the pot (140)
+*** SUMMARY ***
+Duration 39s
+Total pot 140 | Rake 0
+Board: [Ac Ks 5s]
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 folded on the Flop
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 (button) collected (140)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) folded on the Flop
+
+
+******************** # 17 ************************
+
+FullTiltPoker Game #26224615377: Step 1 (203481150), Table 1 - 20/40 - No Limit Hold'em - 11:48:35 ET - 2010/12/08
+
+Seat 2: Player2 (835)
+Seat 3: Player3 (1,965)
+Seat 4: Player4 (1,395)
+Seat 5: Player5 (2,210)
+Seat 6: Player6 (1,405)
+Seat 7: Player7 (1,390)
+Seat 8: Player8 (1,640)
+Seat 9: Player9 (2,660)
+Player9 posts the small blind of 20
+Player2 posts the big blind of 40
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [9d Ks]
+Player3 folds
+Player4 has 15 seconds left to act
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 raises to 120
+Player8 folds
+Player9 folds
+Player2 raises to 835, and is all in
+Player7 calls 715
+Player2 shows [Ad 7h]
+Player7 shows [As Kc]
+*** FLOP *** [Jc Tc 3h]
+*** TURN *** [Jc Tc 3h] [8d]
+*** RIVER *** [Jc Tc 3h 8d] [4d]
+Player2 shows Ace Jack high
+Player7 shows Ace King high
+Player7 wins the pot (1,690) with Ace King high
+*** SUMMARY ***
+Duration 40s
+Total pot 1,690 | Rake 0
+Board: [Jc Tc 3h 8d 4d]
+Seat 2: Player2 (big blind) showed [Ad 7h] and lost with Ace Jack high
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 showed [As Kc] and won (1,690) with Ace King high
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 18 ************************
+
+FullTiltPoker Game #26224629985: Step 1 (203481150), Table 1 - 20/40 - No Limit Hold'em - 11:49:15 ET - 2010/12/08
+
+Seat 3: Player3 (1,965)
+Seat 4: Player4 (1,395)
+Seat 5: Player5 (2,210)
+Seat 6: Player6 (1,405)
+Seat 7: Player7 (2,245)
+Seat 8: Player8 (1,640)
+Seat 9: Player9 (2,640)
+Player3 posts the big blind of 40
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [2c 9s]
+Player4 folds
+Player5 has 15 seconds left to act
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 raises to 80
+Player3 folds
+Uncalled bet of 40 returned to Player9
+Player9 mucks
+Player9 wins the pot (80)
+*** SUMMARY ***
+Duration 19s
+Total pot 80 | Rake 0
+Seat 3: Player3 (big blind) folded before the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) collected (80)
+
+
+******************** # 19 ************************
+
+FullTiltPoker Game #26224636901: Step 1 (203481150), Table 1 - 20/40 - No Limit Hold'em - 11:49:35 ET - 2010/12/08
+
+Seat 3: Player3 (1,925)
+Seat 4: Player4 (1,395)
+Seat 5: Player5 (2,210)
+Seat 6: Player6 (1,405)
+Seat 7: Player7 (2,245)
+Seat 8: Player8 (1,640)
+Seat 9: Player9 (2,680)
+Player3 posts the small blind of 20
+Player4 posts the big blind of 40
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Player8 [3d 9c]
+Player5 raises to 120
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 folds
+Player3 calls 100
+Player4 has 15 seconds left to act
+Player4 folds
+*** FLOP *** [Jh Td 6h]
+Player3 checks
+Player5 checks
+*** TURN *** [Jh Td 6h] [8d]
+Player3 bets 120
+Player5 calls 120
+*** RIVER *** [Jh Td 6h 8d] [6s]
+Player3 bets 160
+Player5 calls 160
+*** SHOW DOWN ***
+Player3 shows [Qh Ad] a pair of Sixes
+Player5 shows [Ac 8c] two pair, Eights and Sixes
+Player5 wins the pot (840) with two pair, Eights and Sixes
+*** SUMMARY ***
+Duration 63s
+Total pot 840 | Rake 0
+Board: [Jh Td 6h 8d 6s]
+Seat 3: Player3 (small blind) showed [Qh Ad] and lost with a pair of Sixes
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 5: Player5 showed [Ac 8c] and won (840) with two pair, Eights and Sixes
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 20 ************************
+
+FullTiltPoker Game #26224659413: Step 1 (203481150), Table 1 - 25/50 - No Limit Hold'em - 11:50:38 ET - 2010/12/08
+
+Seat 3: Player3 (1,525)
+Seat 4: Player4 (1,355)
+Seat 5: Player5 (2,650)
+Seat 6: Player6 (1,405)
+Seat 7: Player7 (2,245)
+Seat 8: Player8 (1,640)
+Seat 9: Player9 (2,680)
+Player4 posts the small blind of 25
+Player5 posts the big blind of 50
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [Jh Ts]
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 folds
+Player3 folds
+Player4 raises to 150
+Player5 raises to 450
+Player4 folds
+Uncalled bet of 300 returned to Player5
+Player5 mucks
+Player5 wins the pot (300)
+*** SUMMARY ***
+Duration 25s
+Total pot 300 | Rake 0
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 5: Player5 (big blind) collected (300)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 21 ************************
+
+FullTiltPoker Game #26224668553: Step 1 (203481150), Table 1 - 25/50 - No Limit Hold'em - 11:51:04 ET - 2010/12/08
+
+Seat 3: Player3 (1,525)
+Seat 4: Player4 (1,205)
+Seat 5: Player5 (2,800)
+Seat 6: Player6 (1,405)
+Seat 7: Player7 (2,245)
+Seat 8: Player8 (1,640)
+Seat 9: Player9 (2,680)
+Player5 posts the small blind of 25
+Player6 posts the big blind of 50
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [7d 3s]
+Player7 folds
+Player8 folds
+Player9 folds
+Player3 folds
+Player4 has 15 seconds left to act
+Player4 calls 50
+Player5 calls 25
+Player6 checks
+*** FLOP *** [2d 3c 9c]
+Player5 checks
+Player6 bets 100
+Player4 calls 100
+Player5 calls 100
+*** TURN *** [2d 3c 9c] [Qd]
+Player5 checks
+Player6 bets 200
+Player4 folds
+Player5 folds
+Uncalled bet of 200 returned to Player6
+Player6 mucks
+Player6 wins the pot (450)
+*** SUMMARY ***
+Duration 60s
+Total pot 450 | Rake 0
+Board: [2d 3c 9c Qd]
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) folded on the Turn
+Seat 5: Player5 (small blind) folded on the Turn
+Seat 6: Player6 (big blind) collected (450)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 22 ************************
+
+FullTiltPoker Game #26224689862: Step 1 (203481150), Table 1 - 25/50 - No Limit Hold'em - 11:52:04 ET - 2010/12/08
+
+Seat 3: Player3 (1,525)
+Seat 4: Player4 (1,055)
+Seat 5: Player5 (2,650)
+Seat 6: Player6 (1,705)
+Seat 7: Player7 (2,245)
+Seat 8: Player8 (1,640)
+Seat 9: Player9 (2,680)
+Player6 posts the small blind of 25
+Player7 posts the big blind of 50
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player8 [8d Qh]
+Player8 folds
+Player9 folds
+Player3 calls 50
+Player4 raises to 150
+Player5 folds
+Player6 folds
+Player7 folds
+Player3 calls 100
+*** FLOP *** [9c 4d Tc]
+Player3 checks
+Player4 bets 200
+Player3 folds
+Uncalled bet of 200 returned to Player4
+Player4 mucks
+Player4 wins the pot (375)
+*** SUMMARY ***
+Duration 32s
+Total pot 375 | Rake 0
+Board: [9c 4d Tc]
+Seat 3: Player3 folded on the Flop
+Seat 4: Player4 collected (375)
+Seat 5: Player5 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) folded before the Flop
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 23 ************************
+
+FullTiltPoker Game #26224701327: Step 1 (203481150), Table 1 - 25/50 - No Limit Hold'em - 11:52:37 ET - 2010/12/08
+
+Seat 3: Player3 (1,375)
+Seat 4: Player4 (1,280)
+Seat 5: Player5 (2,650)
+Seat 6: Player6 (1,680)
+Seat 7: Player7 (2,195)
+Seat 8: Player8 (1,640)
+Seat 9: Player9 (2,680)
+Player7 posts the small blind of 25
+Player8 posts the big blind of 50
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player8 [7h Js]
+Player9 folds
+Player3 folds
+Player4 has 15 seconds left to act
+Player4 raises to 150
+Player5 folds
+Player6 folds
+Player7 calls 125
+Player8 folds
+*** FLOP *** [7d Qc 2d]
+Player7 checks
+Player4 bets 200
+Player7 folds
+Uncalled bet of 200 returned to Player4
+Player4 mucks
+Player4 wins the pot (350)
+*** SUMMARY ***
+Duration 32s
+Total pot 350 | Rake 0
+Board: [7d Qc 2d]
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 collected (350)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded on the Flop
+Seat 8: Player8 (big blind) folded before the Flop
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 24 ************************
+
+FullTiltPoker Game #26224712753: Step 1 (203481150), Table 1 - 25/50 - No Limit Hold'em - 11:53:09 ET - 2010/12/08
+
+Seat 3: Player3 (1,375)
+Seat 4: Player4 (1,480)
+Seat 5: Player5 (2,650)
+Seat 6: Player6 (1,680)
+Seat 7: Player7 (2,045)
+Seat 8: Player8 (1,590)
+Seat 9: Player9 (2,680)
+Player8 posts the small blind of 25
+Player9 posts the big blind of 50
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [4s 5h]
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 folds
+Uncalled bet of 25 returned to Player9
+Player9 mucks
+Player9 wins the pot (50)
+*** SUMMARY ***
+Duration 12s
+Total pot 50 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) collected (50)
+
+
+******************** # 25 ************************
+
+FullTiltPoker Game #26224717235: Step 1 (203481150), Table 1 - 25/50 - No Limit Hold'em - 11:53:22 ET - 2010/12/08
+
+Seat 3: Player3 (1,375)
+Seat 4: Player4 (1,480)
+Seat 5: Player5 (2,650)
+Seat 6: Player6 (1,680)
+Seat 7: Player7 (2,045)
+Seat 8: Player8 (1,565)
+Seat 9: Player9 (2,705)
+Player9 posts the small blind of 25
+Player3 posts the big blind of 50
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [Ad 4c]
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 has timed out
+Player8 folds
+Player9 has 15 seconds left to act
+Player9 raises to 125
+Player3 folds
+Uncalled bet of 75 returned to Player9
+Player9 mucks
+Player9 wins the pot (100)
+*** SUMMARY ***
+Duration 49s
+Total pot 100 | Rake 0
+Seat 3: Player3 (big blind) folded before the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) collected (100)
+
+
+******************** # 26 ************************
+
+FullTiltPoker Game #26224734494: Step 1 (203481150), Table 1 - 25/50 - No Limit Hold'em - 11:54:11 ET - 2010/12/08
+
+Seat 3: Player3 (1,325)
+Seat 4: Player4 (1,480)
+Seat 5: Player5 (2,650)
+Seat 6: Player6 (1,680)
+Seat 7: Player7 (2,045)
+Seat 8: Player8 (1,565), is sitting out
+Seat 9: Player9 (2,755)
+Player3 posts the small blind of 25
+Player4 posts the big blind of 50
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [Kd 7s]
+Player5 folds
+Player6 raises to 100
+Player7 folds
+Player8 folds
+Player9 folds
+Player3 folds
+Player4 calls 50
+*** FLOP *** [8c 3s 9h]
+Player4 checks
+Player6 bets 50
+Player4 has 15 seconds left to act
+Player4 calls 50
+*** TURN *** [8c 3s 9h] [6h]
+Player4 checks
+Player6 bets 100
+Player4 folds
+Uncalled bet of 100 returned to Player6
+Player6 mucks
+Player6 wins the pot (325)
+*** SUMMARY ***
+Duration 50s
+Total pot 325 | Rake 0
+Board: [8c 3s 9h 6h]
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded on the Turn
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 collected (325)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 27 ************************
+
+FullTiltPoker Game #26224752176: Step 1 (203481150), Table 1 - 25/50 - No Limit Hold'em - 11:55:02 ET - 2010/12/08
+
+Seat 3: Player3 (1,300)
+Seat 4: Player4 (1,330)
+Seat 5: Player5 (2,650)
+Seat 6: Player6 (1,855)
+Seat 7: Player7 (2,045)
+Seat 8: Player8 (1,565)
+Seat 9: Player9 (2,755)
+Player4 posts the small blind of 25
+Player5 posts the big blind of 50
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [Kd 7c]
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 folds
+Player3 folds
+Player4 folds
+Uncalled bet of 25 returned to Player5
+Player5 mucks
+Player5 wins the pot (50)
+*** SUMMARY ***
+Duration 18s
+Total pot 50 | Rake 0
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 5: Player5 (big blind) collected (50)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 28 ************************
+
+FullTiltPoker Game #26224757260: Step 1 (203481150), Table 1 - 25/50 - No Limit Hold'em - 11:55:20 ET - 2010/12/08
+
+Seat 3: Player3 (1,300)
+Seat 4: Player4 (1,305)
+Seat 5: Player5 (2,675)
+Seat 6: Player6 (1,855)
+Seat 7: Player7 (2,045)
+Seat 8: Player8 (1,565)
+Seat 9: Player9 (2,755)
+Player5 posts the small blind of 25
+Player6 posts the big blind of 50
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [6c 7s]
+Player7 has 15 seconds left to act
+Player7 raises to 100
+Player8 folds
+Player9 raises to 300
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 raises to 1,855, and is all in
+Player7 folds
+Player9 calls 1,555
+Player6 shows [9s 9d]
+Player9 shows [Ks Kh]
+*** FLOP *** [3c Jh 5h]
+*** TURN *** [3c Jh 5h] [Jc]
+*** RIVER *** [3c Jh 5h Jc] [Ac]
+Player6 shows two pair, Jacks and Nines
+Player9 shows two pair, Kings and Jacks
+Player9 wins the pot (3,835) with two pair, Kings and Jacks
+Player4 has been disconnected
+*** SUMMARY ***
+Duration 47s
+Total pot 3,835 | Rake 0
+Board: [3c Jh 5h Jc Ac]
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 5: Player5 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) showed [9s 9d] and lost with two pair, Jacks and Nines
+Seat 7: Player7 folded before the Flop
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 showed [Ks Kh] and won (3,835) with two pair, Kings and Jacks
+
+
+******************** # 29 ************************
+
+FullTiltPoker Game #26224770249: Step 1 (203481150), Table 1 - 25/50 - No Limit Hold'em - 11:56:08 ET - 2010/12/08
+
+Seat 3: Player3 (1,300)
+Seat 4: Player4 (1,305)
+Seat 5: Player5 (2,650)
+Seat 7: Player7 (1,945)
+Seat 8: Player8 (1,565)
+Seat 9: Player9 (4,735)
+Player7 posts the big blind of 50
+Player4 has reconnected
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player8 [Qh 6s]
+Player8 folds
+Player9 raises to 100
+Player3 calls 100
+Player4 folds
+Player5 folds
+Player7 folds
+*** FLOP *** [Tc 3d As]
+Player9 checks
+Player3 checks
+*** TURN *** [Tc 3d As] [8c]
+Player9 bets 150
+Player3 calls 150
+*** RIVER *** [Tc 3d As 8c] [8h]
+Player9 bets 300
+Player3 folds
+Uncalled bet of 300 returned to Player9
+Player9 mucks
+Player9 wins the pot (550)
+*** SUMMARY ***
+Duration 49s
+Total pot 550 | Rake 0
+Board: [Tc 3d As 8c 8h]
+Seat 3: Player3 folded on the River
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 (button) didn't bet (folded)
+Seat 7: Player7 (big blind) folded before the Flop
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 collected (550)
+
+
+******************** # 30 ************************
+
+FullTiltPoker Game #26224783951: Step 1 (203481150), Table 1 - 30/60 - No Limit Hold'em - 11:56:57 ET - 2010/12/08
+
+Seat 3: Player3 (1,050)
+Seat 4: Player4 (1,305)
+Seat 5: Player5 (2,650)
+Seat 7: Player7 (1,895)
+Seat 8: Player8 (1,565)
+Seat 9: Player9 (5,035)
+Player7 posts the small blind of 30
+Player8 posts the big blind of 60
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player8 [8c 3c]
+Player9 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Player7 calls 30
+Player8 checks
+*** FLOP *** [8h Qc 2c]
+Player7 checks
+Player8 bets 60
+Player7 calls 60
+*** TURN *** [8h Qc 2c] [Qs]
+Player7 checks
+Player8 bets 60
+Player7 calls 60
+*** RIVER *** [8h Qc 2c Qs] [8s]
+Player7 bets 60
+Player8 raises to 540
+Player7 has 15 seconds left to act
+Player7 folds
+Uncalled bet of 480 returned to Player8
+Player8 mucks
+Player8 wins the pot (480)
+*** SUMMARY ***
+Duration 48s
+Total pot 480 | Rake 0
+Board: [8h Qc 2c Qs 8s]
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 7: Player7 (small blind) folded on the River
+Seat 8: Player8 (big blind) collected (480)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 31 ************************
+
+FullTiltPoker Game #26224797418: Step 1 (203481150), Table 1 - 30/60 - No Limit Hold'em - 11:57:45 ET - 2010/12/08
+
+Seat 3: Player3 (1,050)
+Seat 4: Player4 (1,305)
+Seat 5: Player5 (2,650)
+Seat 7: Player7 (1,655)
+Seat 8: Player8 (1,805)
+Seat 9: Player9 (5,035)
+Player8 posts the small blind of 30
+Player9 posts the big blind of 60
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [6d Qd]
+Player3 calls 60
+Player4 folds
+Player5 has 15 seconds left to act
+Player5 calls 60
+Player7 folds
+Player8 folds
+Player9 checks
+*** FLOP *** [Td Js 8d]
+Player9 checks
+Player3 bets 180
+Player5 calls 180
+Player9 calls 180
+*** TURN *** [Td Js 8d] [Jc]
+Player9 checks
+Player3 bets 180
+Player5 calls 180
+Player9 calls 180
+*** RIVER *** [Td Js 8d Jc] [Ac]
+Player9 has 15 seconds left to act
+Player9 checks
+Player3 bets 300
+Player5 calls 300
+Player9 calls 300
+*** SHOW DOWN ***
+Player3 shows [8h 8s] a full house, Eights full of Jacks
+Player5 mucks
+Player9 mucks
+Player3 wins the pot (2,190) with a full house, Eights full of Jacks
+*** SUMMARY ***
+Duration 79s
+Total pot 2,190 | Rake 0
+Board: [Td Js 8d Jc Ac]
+Seat 3: Player3 showed [8h 8s] and won (2,190) with a full house, Eights full of Jacks
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 mucked [Kd Jh] - three of a kind, Jacks
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) mucked [9s As] - two pair, Aces and Jacks
+
+
+******************** # 32 ************************
+
+FullTiltPoker Game #26224820167: Step 1 (203481150), Table 1 - 30/60 - No Limit Hold'em - 11:59:06 ET - 2010/12/08
+
+Seat 3: Player3 (2,520)
+Seat 4: Player4 (1,305)
+Seat 5: Player5 (1,930)
+Seat 7: Player7 (1,655)
+Seat 8: Player8 (1,775)
+Seat 9: Player9 (4,315)
+Player9 posts the small blind of 30
+Player3 posts the big blind of 60
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [4s Qd]
+Player4 folds
+Player5 calls 60
+Player7 folds
+Player8 folds
+Player9 folds
+Player3 checks
+*** FLOP *** [Qs Qc 9s]
+Player3 checks
+Player5 bets 240
+Player3 folds
+Uncalled bet of 240 returned to Player5
+Player5 mucks
+Player5 wins the pot (150)
+*** SUMMARY ***
+Duration 30s
+Total pot 150 | Rake 0
+Board: [Qs Qc 9s]
+Seat 3: Player3 (big blind) folded on the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 collected (150)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 33 ************************
+
+FullTiltPoker Game #26224828903: Step 1 (203481150), Table 1 - 30/60 - No Limit Hold'em - 11:59:36 ET - 2010/12/08
+
+Seat 3: Player3 (2,460)
+Seat 4: Player4 (1,305)
+Seat 5: Player5 (2,020)
+Seat 7: Player7 (1,655)
+Seat 8: Player8 (1,775)
+Seat 9: Player9 (4,285)
+Player3 posts the small blind of 30
+Player4 posts the big blind of 60
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [8s Td]
+Player5 folds
+Player7 folds
+Player8 folds
+Player9 folds
+Player3 raises to 120
+Player4 calls 60
+*** FLOP *** [7d 7h As]
+Player3 bets 180
+Player4 raises to 360
+Player3 has 15 seconds left to act
+Player3 folds
+Uncalled bet of 180 returned to Player4
+Player4 mucks
+Player4 wins the pot (600)
+*** SUMMARY ***
+Duration 37s
+Total pot 600 | Rake 0
+Board: [7d 7h As]
+Seat 3: Player3 (small blind) folded on the Flop
+Seat 4: Player4 (big blind) collected (600)
+Seat 5: Player5 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 34 ************************
+
+FullTiltPoker Game #26224839712: Step 1 (203481150), Table 1 - 30/60 - No Limit Hold'em - 12:00:14 ET - 2010/12/08
+
+Seat 3: Player3 (2,160)
+Seat 4: Player4 (1,605)
+Seat 5: Player5 (2,020)
+Seat 7: Player7 (1,655)
+Seat 8: Player8 (1,775)
+Seat 9: Player9 (4,285)
+Player4 posts the small blind of 30
+Player5 posts the big blind of 60
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [7h 9d]
+Player7 folds
+Player8 folds
+Player9 raises to 120
+Player3 folds
+Player4 folds
+Player5 folds
+Uncalled bet of 60 returned to Player9
+Player9 mucks
+Player9 wins the pot (150)
+*** SUMMARY ***
+Duration 16s
+Total pot 150 | Rake 0
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 5: Player5 (big blind) folded before the Flop
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 collected (150)
+
+
+******************** # 35 ************************
+
+FullTiltPoker Game #26224844742: Step 1 (203481150), Table 1 - 30/60 - No Limit Hold'em - 12:00:31 ET - 2010/12/08
+
+Seat 3: Player3 (2,160)
+Seat 4: Player4 (1,575)
+Seat 5: Player5 (1,960)
+Seat 7: Player7 (1,655)
+Seat 8: Player8 (1,775)
+Seat 9: Player9 (4,375)
+Player5 posts the small blind of 30
+Player7 posts the big blind of 60
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [Qh 2d]
+Player8 folds
+Player9 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Uncalled bet of 30 returned to Player7
+Player7 mucks
+Player7 wins the pot (60)
+*** SUMMARY ***
+Duration 17s
+Total pot 60 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 5: Player5 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) collected (60)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 36 ************************
+
+FullTiltPoker Game #26224850175: Step 1 (203481150), Table 1 - 30/60 - No Limit Hold'em - 12:00:49 ET - 2010/12/08
+
+Seat 3: Player3 (2,160)
+Seat 4: Player4 (1,575)
+Seat 5: Player5 (1,930)
+Seat 7: Player7 (1,685)
+Seat 8: Player8 (1,775)
+Seat 9: Player9 (4,375)
+Player7 posts the small blind of 30
+Player8 posts the big blind of 60
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player8 [4s Ac]
+Player9 raises to 120
+Player3 calls 120
+Player4 folds
+Player5 folds
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 has timed out
+Player8 folds
+*** FLOP *** [7s 3c 9c]
+Player8 has been disconnected
+Player9 checks
+Player3 bets 120
+Player9 calls 120
+*** TURN *** [7s 3c 9c] [6s]
+Player9 checks
+Player3 bets 180
+Player9 raises to 360
+Player3 calls 180
+*** RIVER *** [7s 3c 9c 6s] [7c]
+Player8 has reconnected
+Player9 bets 750
+Player3 folds
+Uncalled bet of 750 returned to Player9
+Player9 mucks
+Player9 wins the pot (1,290)
+*** SUMMARY ***
+Duration 77s
+Total pot 1,290 | Rake 0
+Board: [7s 3c 9c 6s 7c]
+Seat 3: Player3 folded on the River
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) folded before the Flop
+Seat 9: Player9 collected (1,290)
+
+
+******************** # 37 ************************
+
+FullTiltPoker Game #26224876319: Step 1 (203481150), Table 1 - 30/60 - No Limit Hold'em - 12:02:06 ET - 2010/12/08
+
+Seat 3: Player3 (1,560)
+Seat 4: Player4 (1,575)
+Seat 5: Player5 (1,930)
+Seat 7: Player7 (1,655)
+Seat 8: Player8 (1,715)
+Seat 9: Player9 (5,065)
+Player8 posts the small blind of 30
+Player9 posts the big blind of 60
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [4s Ah]
+Player3 calls 60
+Player4 folds
+Player5 folds
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 folds
+Player9 checks
+*** FLOP *** [Td 3s 2h]
+Player9 bets 90
+Player3 raises to 180
+Player9 calls 90
+*** TURN *** [Td 3s 2h] [Kh]
+Player9 checks
+Player3 bets 300
+Player9 folds
+Uncalled bet of 300 returned to Player3
+Player3 mucks
+Player3 wins the pot (510)
+*** SUMMARY ***
+Duration 49s
+Total pot 510 | Rake 0
+Board: [Td 3s 2h Kh]
+Seat 3: Player3 collected (510)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) folded on the Turn
+
+
+******************** # 38 ************************
+
+FullTiltPoker Game #26224893537: Step 1 (203481150), Table 1 - 40/80 - No Limit Hold'em - 12:02:56 ET - 2010/12/08
+
+Seat 3: Player3 (1,830)
+Seat 4: Player4 (1,575)
+Seat 5: Player5 (1,930)
+Seat 7: Player7 (1,655)
+Seat 8: Player8 (1,685)
+Seat 9: Player9 (4,825)
+Player9 posts the small blind of 40
+Player3 posts the big blind of 80
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [Kc 9d]
+Player4 folds
+Player5 folds
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 has timed out
+Player8 folds
+Player9 calls 40
+Player3 checks
+*** FLOP *** [Ac Td 8s]
+Player9 checks
+Player3 checks
+*** TURN *** [Ac Td 8s] [Kd]
+Player9 checks
+Player3 checks
+*** RIVER *** [Ac Td 8s Kd] [6s]
+Player9 checks
+Player3 checks
+*** SHOW DOWN ***
+Player9 shows [Tc Qd] a pair of Tens
+Player3 mucks
+Player9 wins the pot (160) with a pair of Tens
+*** SUMMARY ***
+Duration 59s
+Total pot 160 | Rake 0
+Board: [Ac Td 8s Kd 6s]
+Seat 3: Player3 (big blind) mucked [8d 9c] - a pair of Eights
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) showed [Tc Qd] and won (160) with a pair of Tens
+
+
+******************** # 39 ************************
+
+FullTiltPoker Game #26224914966: Step 1 (203481150), Table 1 - 40/80 - No Limit Hold'em - 12:03:56 ET - 2010/12/08
+
+Seat 3: Player3 (1,750)
+Seat 4: Player4 (1,575)
+Seat 5: Player5 (1,930)
+Seat 7: Player7 (1,655)
+Seat 8: Player8 (1,685)
+Seat 9: Player9 (4,905)
+Player3 posts the small blind of 40
+Player4 posts the big blind of 80
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [6d Ad]
+Player5 calls 80
+Player7 folds
+Player8 folds
+Player9 calls 80
+Player3 folds
+Player4 checks
+*** FLOP *** [5h 7s Jh]
+Player4 checks
+Player5 checks
+Player9 checks
+*** TURN *** [5h 7s Jh] [Qc]
+Player4 has 15 seconds left to act
+Player4 checks
+Player5 checks
+Player9 checks
+*** RIVER *** [5h 7s Jh Qc] [4d]
+Player4 checks
+Player5 bets 400
+Player9 folds
+Player4 folds
+Uncalled bet of 400 returned to Player5
+Player5 mucks
+Player5 wins the pot (280)
+*** SUMMARY ***
+Duration 54s
+Total pot 280 | Rake 0
+Board: [5h 7s Jh Qc 4d]
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded on the River
+Seat 5: Player5 collected (280)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) folded on the River
+
+
+******************** # 40 ************************
+
+FullTiltPoker Game #26224934719: Step 1 (203481150), Table 1 - 40/80 - No Limit Hold'em - 12:04:50 ET - 2010/12/08
+
+Seat 3: Player3 (1,710)
+Seat 4: Player4 (1,495)
+Seat 5: Player5 (2,130)
+Seat 7: Player7 (1,655)
+Seat 8: Player8 (1,685)
+Seat 9: Player9 (4,825)
+Player4 posts the small blind of 40
+Player5 posts the big blind of 80
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [Kh 4h]
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 folds
+Player9 folds
+Player3 folds
+Player4 folds
+Uncalled bet of 40 returned to Player5
+Player5 mucks
+Player5 wins the pot (80)
+*** SUMMARY ***
+Duration 23s
+Total pot 80 | Rake 0
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 5: Player5 (big blind) collected (80)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 41 ************************
+
+FullTiltPoker Game #26224943297: Step 1 (203481150), Table 1 - 40/80 - No Limit Hold'em - 12:05:14 ET - 2010/12/08
+
+Seat 3: Player3 (1,710)
+Seat 4: Player4 (1,455)
+Seat 5: Player5 (2,170)
+Seat 7: Player7 (1,655)
+Seat 8: Player8 (1,685)
+Seat 9: Player9 (4,825)
+Player5 posts the small blind of 40
+Player7 posts the big blind of 80
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [5s 7h]
+Player8 folds
+Player9 folds
+Player3 folds
+Player4 raises to 160
+Player5 folds
+Player7 folds
+Uncalled bet of 80 returned to Player4
+Player4 mucks
+Player4 wins the pot (200)
+*** SUMMARY ***
+Duration 19s
+Total pot 200 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) collected (200)
+Seat 5: Player5 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) folded before the Flop
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 42 ************************
+
+FullTiltPoker Game #26224950179: Step 1 (203481150), Table 1 - 40/80 - No Limit Hold'em - 12:05:33 ET - 2010/12/08
+
+Seat 3: Player3 (1,710)
+Seat 4: Player4 (1,575)
+Seat 5: Player5 (2,130)
+Seat 7: Player7 (1,575)
+Seat 8: Player8 (1,685)
+Seat 9: Player9 (4,825)
+Player7 posts the small blind of 40
+Player8 posts the big blind of 80
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player8 [Td 9s]
+Player9 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Player7 folds
+Uncalled bet of 40 returned to Player8
+Player8 mucks
+Player8 wins the pot (80)
+*** SUMMARY ***
+Duration 10s
+Total pot 80 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) collected (80)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 43 ************************
+
+FullTiltPoker Game #26224953951: Step 1 (203481150), Table 1 - 40/80 - No Limit Hold'em - 12:05:43 ET - 2010/12/08
+
+Seat 3: Player3 (1,710)
+Seat 4: Player4 (1,575)
+Seat 5: Player5 (2,130)
+Seat 7: Player7 (1,535)
+Seat 8: Player8 (1,725)
+Seat 9: Player9 (4,825)
+Player8 posts the small blind of 40
+Player9 posts the big blind of 80
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [8h Ks]
+Player3 raises to 160
+Player4 folds
+Player5 folds
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 folds
+Player9 folds
+Uncalled bet of 80 returned to Player3
+Player3 mucks
+Player3 wins the pot (200)
+*** SUMMARY ***
+Duration 24s
+Total pot 200 | Rake 0
+Seat 3: Player3 collected (200)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) folded before the Flop
+
+
+******************** # 44 ************************
+
+FullTiltPoker Game #26224962921: Step 1 (203481150), Table 1 - 40/80 - No Limit Hold'em - 12:06:08 ET - 2010/12/08
+
+Seat 3: Player3 (1,830)
+Seat 4: Player4 (1,575)
+Seat 5: Player5 (2,130)
+Seat 7: Player7 (1,535)
+Seat 8: Player8 (1,685)
+Seat 9: Player9 (4,745)
+Player9 posts the small blind of 40
+Player3 posts the big blind of 80
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [7d 3c]
+Player4 folds
+Player5 folds
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 folds
+Player9 raises to 160
+Player3 raises to 480
+Player9 calls 320
+*** FLOP *** [Js 8d 4c]
+Player9 checks
+Player3 bets 1,350, and is all in
+Player9 calls 1,350
+Player3 shows [Ks As]
+Player9 shows [Jc Ac]
+*** TURN *** [Js 8d 4c] [7h]
+*** RIVER *** [Js 8d 4c 7h] [Kd]
+Player3 shows a pair of Kings
+Player9 shows a pair of Jacks
+Player3 wins the pot (3,660) with a pair of Kings
+*** SUMMARY ***
+Duration 57s
+Total pot 3,660 | Rake 0
+Board: [Js 8d 4c 7h Kd]
+Seat 3: Player3 (big blind) showed [Ks As] and won (3,660) with a pair of Kings
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) showed [Jc Ac] and lost with a pair of Jacks
+
+
+******************** # 45 ************************
+
+FullTiltPoker Game #26224983556: Step 1 (203481150), Table 1 - 40/80 - No Limit Hold'em - 12:07:05 ET - 2010/12/08
+
+Seat 3: Player3 (3,660)
+Seat 4: Player4 (1,575)
+Seat 5: Player5 (2,130)
+Seat 7: Player7 (1,535)
+Seat 8: Player8 (1,685)
+Seat 9: Player9 (2,915)
+Player3 posts the small blind of 40
+Player4 posts the big blind of 80
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [7c 4h]
+Player5 folds
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 folds
+Player9 raises to 160
+Player3 folds
+Player4 folds
+Uncalled bet of 80 returned to Player9
+Player9 mucks
+Player9 wins the pot (200)
+*** SUMMARY ***
+Duration 32s
+Total pot 200 | Rake 0
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 5: Player5 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) collected (200)
+
+
+******************** # 46 ************************
+
+FullTiltPoker Game #26224995456: Step 1 (203481150), Table 1 - 40/80 - No Limit Hold'em - 12:07:38 ET - 2010/12/08
+
+Seat 3: Player3 (3,620)
+Seat 4: Player4 (1,495)
+Seat 5: Player5 (2,130)
+Seat 7: Player7 (1,535)
+Seat 8: Player8 (1,685)
+Seat 9: Player9 (3,035)
+Player4 posts the small blind of 40
+Player5 posts the big blind of 80
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [3d 9d]
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 folds
+Player9 folds
+Player3 raises to 240
+Player4 folds
+Player5 has 15 seconds left to act
+Player5 calls 160
+*** FLOP *** [Jh Ah 6d]
+Player5 bets 560
+Player3 raises to 3,380, and is all in
+Player5 calls 1,330, and is all in
+Player3 shows [Jc As]
+Player5 shows [5s Ad]
+Uncalled bet of 1,490 returned to Player3
+*** TURN *** [Jh Ah 6d] [4c]
+*** RIVER *** [Jh Ah 6d 4c] [Td]
+Player3 shows two pair, Aces and Jacks
+Player5 shows a pair of Aces
+Player3 wins the pot (4,300) with two pair, Aces and Jacks
+*** SUMMARY ***
+Duration 58s
+Total pot 4,300 | Rake 0
+Board: [Jh Ah 6d 4c Td]
+Seat 3: Player3 (button) showed [Jc As] and won (4,300) with two pair, Aces and Jacks
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 5: Player5 (big blind) showed [5s Ad] and lost with a pair of Aces
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 47 ************************
+
+FullTiltPoker Game #26225016483: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:08:36 ET - 2010/12/08
+
+Seat 3: Player3 (5,790)
+Seat 4: Player4 (1,455)
+Seat 7: Player7 (1,535)
+Seat 8: Player8 (1,685)
+Seat 9: Player9 (3,035)
+Player7 posts the big blind of 100
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [Ts 9h]
+Player8 folds
+Player9 raises to 200
+Player3 calls 200
+Player4 has been disconnected
+Player4 folds
+Player4 has reconnected
+Player7 calls 100
+*** FLOP *** [Qd 3s 6d]
+Player7 bets 300
+Player9 folds
+Player3 folds
+Uncalled bet of 300 returned to Player7
+Player7 mucks
+Player7 wins the pot (600)
+*** SUMMARY ***
+Duration 27s
+Total pot 600 | Rake 0
+Board: [Qd 3s 6d]
+Seat 3: Player3 folded on the Flop
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 7: Player7 (big blind) collected (600)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 folded on the Flop
+
+
+******************** # 48 ************************
+
+FullTiltPoker Game #26225026332: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:09:04 ET - 2010/12/08
+
+Seat 3: Player3 (5,590)
+Seat 4: Player4 (1,455)
+Seat 7: Player7 (1,935)
+Seat 8: Player8 (1,685)
+Seat 9: Player9 (2,835)
+Player7 posts the small blind of 50
+Player8 posts the big blind of 100
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player8 [Tc 5d]
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 raises to 200
+Player8 folds
+Uncalled bet of 100 returned to Player7
+Player7 mucks
+Player7 wins the pot (200)
+*** SUMMARY ***
+Duration 15s
+Total pot 200 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 (small blind) collected (200)
+Seat 8: Player8 (big blind) folded before the Flop
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 49 ************************
+
+FullTiltPoker Game #26225032075: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:09:20 ET - 2010/12/08
+
+Seat 3: Player3 (5,590)
+Seat 4: Player4 (1,455)
+Seat 7: Player7 (2,035)
+Seat 8: Player8 (1,585)
+Seat 9: Player9 (2,835)
+Player8 posts the small blind of 50
+Player9 posts the big blind of 100
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [8s Qs]
+Player3 folds
+Player4 has 15 seconds left to act
+Player4 has been disconnected
+Player4 has timed out
+Player4 folds
+Player7 folds
+Player8 raises to 300
+Player9 raises to 2,835, and is all in
+Player8 folds
+Uncalled bet of 2,535 returned to Player9
+Player9 mucks
+Player9 wins the pot (600)
+*** SUMMARY ***
+Duration 37s
+Total pot 600 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) collected (600)
+
+
+******************** # 50 ************************
+
+FullTiltPoker Game #26225045801: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:09:58 ET - 2010/12/08
+
+Seat 3: Player3 (5,590)
+Seat 4: Player4 (1,455), is sitting out
+Seat 7: Player7 (2,035)
+Seat 8: Player8 (1,285)
+Seat 9: Player9 (3,135)
+Player9 posts the small blind of 50
+Player3 posts the big blind of 100
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [4c 7s]
+Player4 folds
+Player7 calls 100
+Player8 folds
+Player9 folds
+Player3 checks
+*** FLOP *** [4d 3c 8h]
+Player3 bets 200
+Player7 calls 200
+*** TURN *** [4d 3c 8h] [3s]
+Player3 bets 300
+Player7 calls 300
+*** RIVER *** [4d 3c 8h 3s] [Th]
+Player3 bets 500
+Player7 calls 500
+*** SHOW DOWN ***
+Player3 shows [Kc 9s] a pair of Threes
+Player7 shows [5s 5h] two pair, Fives and Threes
+Player7 wins the pot (2,250) with two pair, Fives and Threes
+*** SUMMARY ***
+Duration 34s
+Total pot 2,250 | Rake 0
+Board: [4d 3c 8h 3s Th]
+Seat 3: Player3 (big blind) showed [Kc 9s] and lost with a pair of Threes
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 showed [5s 5h] and won (2,250) with two pair, Fives and Threes
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 51 ************************
+
+FullTiltPoker Game #26225058221: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:10:32 ET - 2010/12/08
+
+Seat 3: Player3 (4,490)
+Seat 4: Player4 (1,455), is sitting out
+Seat 7: Player7 (3,185)
+Seat 8: Player8 (1,285)
+Seat 9: Player9 (3,085)
+Player3 posts the small blind of 50
+Player4 posts the big blind of 100
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [2s Kd]
+Player7 raises to 350
+Player8 folds
+Player9 folds
+Player3 folds
+Player4 folds
+Uncalled bet of 250 returned to Player7
+Player7 mucks
+Player7 wins the pot (250)
+*** SUMMARY ***
+Duration 11s
+Total pot 250 | Rake 0
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 7: Player7 collected (250)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 52 ************************
+
+FullTiltPoker Game #26225062558: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:10:44 ET - 2010/12/08
+
+Seat 3: Player3 (4,440)
+Seat 4: Player4 (1,355), is sitting out
+Seat 7: Player7 (3,335)
+Seat 8: Player8 (1,285)
+Seat 9: Player9 (3,085)
+Player4 posts the small blind of 50
+Player7 posts the big blind of 100
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [6s Td]
+Player8 folds
+Player9 raises to 300
+Player3 folds
+Player4 folds
+Player7 folds
+Uncalled bet of 200 returned to Player9
+Player9 mucks
+Player9 wins the pot (250)
+*** SUMMARY ***
+Duration 14s
+Total pot 250 | Rake 0
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) folded before the Flop
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 collected (250)
+
+
+******************** # 53 ************************
+
+FullTiltPoker Game #26225067893: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:10:59 ET - 2010/12/08
+
+Seat 3: Player3 (4,440)
+Seat 4: Player4 (1,305), is sitting out
+Seat 7: Player7 (3,235)
+Seat 8: Player8 (1,285)
+Seat 9: Player9 (3,235)
+Player7 posts the small blind of 50
+Player8 posts the big blind of 100
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [4s Ks]
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 folds
+Uncalled bet of 50 returned to Player8
+Player8 mucks
+Player8 wins the pot (100)
+*** SUMMARY ***
+Duration 7s
+Total pot 100 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) collected (100)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 54 ************************
+
+FullTiltPoker Game #26225070626: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:11:07 ET - 2010/12/08
+
+Seat 3: Player3 (4,440)
+Seat 4: Player4 (1,305), is sitting out
+Seat 7: Player7 (3,185)
+Seat 8: Player8 (1,335)
+Seat 9: Player9 (3,235)
+Player8 posts the small blind of 50
+Player9 posts the big blind of 100
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [7c Qc]
+Player3 folds
+Player4 folds
+Player7 raises to 200
+Player8 folds
+Player9 calls 100
+*** FLOP *** [9d Qs Kd]
+Player9 checks
+Player7 bets 300
+Player9 has 15 seconds left to act
+Player9 folds
+Uncalled bet of 300 returned to Player7
+Player7 mucks
+Player7 wins the pot (450)
+*** SUMMARY ***
+Duration 33s
+Total pot 450 | Rake 0
+Board: [9d Qs Kd]
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 (button) collected (450)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) folded on the Flop
+
+
+******************** # 55 ************************
+
+FullTiltPoker Game #26225082869: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:11:41 ET - 2010/12/08
+
+Seat 3: Player3 (4,440)
+Seat 4: Player4 (1,305), is sitting out
+Seat 7: Player7 (3,435)
+Seat 8: Player8 (1,285)
+Seat 9: Player9 (3,035)
+Player9 posts the small blind of 50
+Player3 posts the big blind of 100
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [6s 8s]
+Player4 folds
+Player7 folds
+Player8 folds
+Player9 raises to 200
+Player3 calls 100
+*** FLOP *** [Ac Qh 5c]
+Player9 bets 200
+Player3 folds
+Uncalled bet of 200 returned to Player9
+Player9 mucks
+Player9 wins the pot (400)
+*** SUMMARY ***
+Duration 24s
+Total pot 400 | Rake 0
+Board: [Ac Qh 5c]
+Seat 3: Player3 (big blind) folded on the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) collected (400)
+
+
+******************** # 56 ************************
+
+FullTiltPoker Game #26225091739: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:12:06 ET - 2010/12/08
+
+Seat 3: Player3 (4,240)
+Seat 4: Player4 (1,305), is sitting out
+Seat 7: Player7 (3,435)
+Seat 8: Player8 (1,285)
+Seat 9: Player9 (3,235)
+Player3 posts the small blind of 50
+Player4 posts the big blind of 100
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [Td 8c]
+Player7 calls 100
+Player8 folds
+Player9 folds
+Player3 calls 50
+Player4 checks
+*** FLOP *** [Ac 2h 2d]
+Player3 checks
+Player4 checks
+Player7 checks
+*** TURN *** [Ac 2h 2d] [As]
+Player3 checks
+Player4 checks
+Player7 checks
+*** RIVER *** [Ac 2h 2d As] [Ts]
+Player3 checks
+Player4 checks
+Player7 bets 200
+Player3 folds
+Player4 folds
+Uncalled bet of 200 returned to Player7
+Player7 mucks
+Player7 wins the pot (300)
+*** SUMMARY ***
+Duration 31s
+Total pot 300 | Rake 0
+Board: [Ac 2h 2d As Ts]
+Seat 3: Player3 (small blind) folded on the River
+Seat 4: Player4 (big blind) folded on the River
+Seat 7: Player7 collected (300)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 57 ************************
+
+FullTiltPoker Game #26225103114: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:12:38 ET - 2010/12/08
+
+Seat 3: Player3 (4,140)
+Seat 4: Player4 (1,205), is sitting out
+Seat 7: Player7 (3,635)
+Seat 8: Player8 (1,285)
+Seat 9: Player9 (3,235)
+Player4 posts the small blind of 50
+Player7 posts the big blind of 100
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [5h Td]
+Player8 folds
+Player9 folds
+Player3 calls 100
+Player4 folds
+Player7 checks
+*** FLOP *** [9c 5s Ts]
+Player7 checks
+Player3 checks
+*** TURN *** [9c 5s Ts] [7h]
+Player7 checks
+Player3 checks
+*** RIVER *** [9c 5s Ts 7h] [8h]
+Player7 checks
+Player3 checks
+*** SHOW DOWN ***
+Player7 shows [3d 2c] Ten Nine high
+Player3 shows [2d 2s] a pair of Twos
+Player3 wins the pot (250) with a pair of Twos
+*** SUMMARY ***
+Duration 24s
+Total pot 250 | Rake 0
+Board: [9c 5s Ts 7h 8h]
+Seat 3: Player3 (button) showed [2d 2s] and won (250) with a pair of Twos
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) showed [3d 2c] and lost with Ten Nine high
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 58 ************************
+
+FullTiltPoker Game #26225111698: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:13:02 ET - 2010/12/08
+
+Seat 3: Player3 (4,290)
+Seat 4: Player4 (1,155), is sitting out
+Seat 7: Player7 (3,535)
+Seat 8: Player8 (1,285)
+Seat 9: Player9 (3,235)
+Player7 posts the small blind of 50
+Player8 posts the big blind of 100
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [9s 3c]
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 raises to 300
+Player8 folds
+Uncalled bet of 200 returned to Player7
+Player7 mucks
+Player7 wins the pot (200)
+*** SUMMARY ***
+Duration 19s
+Total pot 200 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) collected (200)
+Seat 8: Player8 (big blind) folded before the Flop
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 59 ************************
+
+FullTiltPoker Game #26225118768: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:13:21 ET - 2010/12/08
+
+Seat 3: Player3 (4,290)
+Seat 4: Player4 (1,155), is sitting out
+Seat 7: Player7 (3,635)
+Seat 8: Player8 (1,185)
+Seat 9: Player9 (3,235)
+Player8 posts the small blind of 50
+Player9 posts the big blind of 100
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [6c Tc]
+Player3 folds
+Player4 folds
+Player7 folds
+Player8 folds
+Uncalled bet of 50 returned to Player9
+Player9 mucks
+Player9 wins the pot (100)
+*** SUMMARY ***
+Duration 10s
+Total pot 100 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) collected (100)
+
+
+******************** # 60 ************************
+
+FullTiltPoker Game #26225122522: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:13:32 ET - 2010/12/08
+
+Seat 3: Player3 (4,290)
+Seat 4: Player4 (1,155), is sitting out
+Seat 7: Player7 (3,635)
+Seat 8: Player8 (1,135)
+Seat 9: Player9 (3,285)
+Player9 posts the small blind of 50
+Player3 posts the big blind of 100
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [Qh 7s]
+Player4 folds
+Player7 folds
+Player8 folds
+Player9 raises to 3,285, and is all in
+Player3 folds
+Uncalled bet of 3,185 returned to Player9
+Player9 mucks
+Player9 wins the pot (200)
+*** SUMMARY ***
+Duration 15s
+Total pot 200 | Rake 0
+Seat 3: Player3 (big blind) folded before the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) collected (200)
+
+
+******************** # 61 ************************
+
+FullTiltPoker Game #26225128375: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:13:48 ET - 2010/12/08
+
+Seat 3: Player3 (4,190)
+Seat 4: Player4 (1,155), is sitting out
+Seat 7: Player7 (3,635)
+Seat 8: Player8 (1,135)
+Seat 9: Player9 (3,385)
+Player3 posts the small blind of 50
+Player4 posts the big blind of 100
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [4s 6h]
+Player7 folds
+Player8 folds
+Player9 raises to 200
+Player3 folds
+Player4 folds
+Uncalled bet of 100 returned to Player9
+Player9 mucks
+Player9 wins the pot (250)
+*** SUMMARY ***
+Duration 12s
+Total pot 250 | Rake 0
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) collected (250)
+
+
+******************** # 62 ************************
+
+FullTiltPoker Game #26225132877: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:14:01 ET - 2010/12/08
+
+Seat 3: Player3 (4,140)
+Seat 4: Player4 (1,055), is sitting out
+Seat 7: Player7 (3,635)
+Seat 8: Player8 (1,135)
+Seat 9: Player9 (3,535)
+Player4 posts the small blind of 50
+Player7 posts the big blind of 100
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [Qc 8c]
+Player8 raises to 1,135, and is all in
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 folds
+Uncalled bet of 1,035 returned to Player8
+Player8 mucks
+Player8 wins the pot (250)
+*** SUMMARY ***
+Duration 10s
+Total pot 250 | Rake 0
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) folded before the Flop
+Seat 8: Player8 collected (250)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 63 ************************
+
+FullTiltPoker Game #26225136677: Step 1 (203481150), Table 1 - 50/100 - No Limit Hold'em - 12:14:11 ET - 2010/12/08
+
+Seat 3: Player3 (4,140)
+Seat 4: Player4 (1,005), is sitting out
+Seat 7: Player7 (3,535)
+Seat 8: Player8 (1,285)
+Seat 9: Player9 (3,535)
+Player7 posts the small blind of 50
+Player8 posts the big blind of 100
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [3c Ah]
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 folds
+Uncalled bet of 50 returned to Player8
+Player8 mucks
+Player8 wins the pot (100)
+*** SUMMARY ***
+Duration 7s
+Total pot 100 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) collected (100)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 64 ************************
+
+FullTiltPoker Game #26225139528: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:14:19 ET - 2010/12/08
+
+Seat 3: Player3 (4,140)
+Seat 4: Player4 (1,005), is sitting out
+Seat 7: Player7 (3,485)
+Seat 8: Player8 (1,335)
+Seat 9: Player9 (3,535)
+Player8 posts the small blind of 60
+Player9 posts the big blind of 120
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [6c 5c]
+Player3 folds
+Player4 folds
+Player7 folds
+Player8 calls 60
+Player9 checks
+*** FLOP *** [8d 6h Kh]
+Player8 checks
+Player9 checks
+*** TURN *** [8d 6h Kh] [9h]
+Player8 checks
+Player9 bets 120
+Player8 folds
+Uncalled bet of 120 returned to Player9
+Player9 mucks
+Player9 wins the pot (240)
+*** SUMMARY ***
+Duration 24s
+Total pot 240 | Rake 0
+Board: [8d 6h Kh 9h]
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded on the Turn
+Seat 9: Player9 (big blind) collected (240)
+
+
+******************** # 65 ************************
+
+FullTiltPoker Game #26225148352: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:14:44 ET - 2010/12/08
+
+Seat 3: Player3 (4,140)
+Seat 4: Player4 (1,005), is sitting out
+Seat 7: Player7 (3,485)
+Seat 8: Player8 (1,215)
+Seat 9: Player9 (3,655)
+Player9 posts the small blind of 60
+Player3 posts the big blind of 120
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [3s 8d]
+Player4 folds
+Player7 folds
+Player8 folds
+Player9 raises to 300
+Player3 calls 180
+*** FLOP *** [Jh Th 9h]
+Player9 checks
+Player3 bets 360
+Player9 folds
+Uncalled bet of 360 returned to Player3
+Player3 mucks
+Player3 wins the pot (600)
+*** SUMMARY ***
+Duration 27s
+Total pot 600 | Rake 0
+Board: [Jh Th 9h]
+Seat 3: Player3 (big blind) collected (600)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) folded on the Flop
+
+
+******************** # 66 ************************
+
+FullTiltPoker Game #26225158061: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:15:11 ET - 2010/12/08
+
+Seat 3: Player3 (4,440)
+Seat 4: Player4 (1,005), is sitting out
+Seat 7: Player7 (3,485)
+Seat 8: Player8 (1,215)
+Seat 9: Player9 (3,355)
+Player3 posts the small blind of 60
+Player4 posts the big blind of 120
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [4c 9s]
+Player7 folds
+Player8 folds
+Player9 folds
+Player3 raises to 360
+Player4 folds
+Uncalled bet of 240 returned to Player3
+Player3 mucks
+Player3 wins the pot (240)
+*** SUMMARY ***
+Duration 11s
+Total pot 240 | Rake 0
+Seat 3: Player3 (small blind) collected (240)
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 67 ************************
+
+FullTiltPoker Game #26225162241: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:15:23 ET - 2010/12/08
+
+Seat 3: Player3 (4,560)
+Seat 4: Player4 (885), is sitting out
+Seat 7: Player7 (3,485)
+Seat 8: Player8 (1,215)
+Seat 9: Player9 (3,355)
+Player4 posts the small blind of 60
+Player7 posts the big blind of 120
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [9c As]
+Player8 raises to 1,215, and is all in
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 folds
+Uncalled bet of 1,095 returned to Player8
+Player8 mucks
+Player8 wins the pot (300)
+*** SUMMARY ***
+Duration 10s
+Total pot 300 | Rake 0
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) folded before the Flop
+Seat 8: Player8 collected (300)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 68 ************************
+
+FullTiltPoker Game #26225166336: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:15:34 ET - 2010/12/08
+
+Seat 3: Player3 (4,560)
+Seat 4: Player4 (825), is sitting out
+Seat 7: Player7 (3,365)
+Seat 8: Player8 (1,395)
+Seat 9: Player9 (3,355)
+Player7 posts the small blind of 60
+Player8 posts the big blind of 120
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [Ac Ah]
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 folds
+Uncalled bet of 60 returned to Player8
+Player8 mucks
+Player8 wins the pot (120)
+*** SUMMARY ***
+Duration 7s
+Total pot 120 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) collected (120)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 69 ************************
+
+FullTiltPoker Game #26225169080: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:15:42 ET - 2010/12/08
+
+Seat 3: Player3 (4,560)
+Seat 4: Player4 (825), is sitting out
+Seat 7: Player7 (3,305)
+Seat 8: Player8 (1,455)
+Seat 9: Player9 (3,355)
+Player8 posts the small blind of 60
+Player9 posts the big blind of 120
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [5c 6c]
+Player3 folds
+Player4 folds
+Player7 folds
+Player8 folds
+Uncalled bet of 60 returned to Player9
+Player9 mucks
+Player9 wins the pot (120)
+*** SUMMARY ***
+Duration 7s
+Total pot 120 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) collected (120)
+
+
+******************** # 70 ************************
+
+FullTiltPoker Game #26225171886: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:15:50 ET - 2010/12/08
+
+Seat 3: Player3 (4,560)
+Seat 4: Player4 (825), is sitting out
+Seat 7: Player7 (3,305)
+Seat 8: Player8 (1,395)
+Seat 9: Player9 (3,415)
+Player9 posts the small blind of 60
+Player3 posts the big blind of 120
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [Ad 7d]
+Player4 folds
+Player7 folds
+Player8 raises to 420
+Player9 folds
+Player3 folds
+Uncalled bet of 300 returned to Player8
+Player8 mucks
+Player8 wins the pot (300)
+*** SUMMARY ***
+Duration 10s
+Total pot 300 | Rake 0
+Seat 3: Player3 (big blind) folded before the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) collected (300)
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 71 ************************
+
+FullTiltPoker Game #26225175725: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:16:00 ET - 2010/12/08
+
+Seat 3: Player3 (4,440)
+Seat 4: Player4 (825), is sitting out
+Seat 7: Player7 (3,305)
+Seat 8: Player8 (1,575)
+Seat 9: Player9 (3,355)
+Player3 posts the small blind of 60
+Player4 posts the big blind of 120
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [8c 7d]
+Player7 raises to 240
+Player8 folds
+Player9 folds
+Player3 folds
+Player4 folds
+Uncalled bet of 120 returned to Player7
+Player7 mucks
+Player7 wins the pot (300)
+*** SUMMARY ***
+Duration 8s
+Total pot 300 | Rake 0
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 7: Player7 collected (300)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 72 ************************
+
+FullTiltPoker Game #26225178962: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:16:09 ET - 2010/12/08
+
+Seat 3: Player3 (4,380)
+Seat 4: Player4 (705), is sitting out
+Seat 7: Player7 (3,485)
+Seat 8: Player8 (1,575)
+Seat 9: Player9 (3,355)
+Player4 posts the small blind of 60
+Player7 posts the big blind of 120
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [6d 6c]
+Player8 has 15 seconds left to act
+Player8 raises to 420
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 folds
+Uncalled bet of 300 returned to Player8
+Player8 mucks
+Player8 wins the pot (300)
+*** SUMMARY ***
+Duration 21s
+Total pot 300 | Rake 0
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) folded before the Flop
+Seat 8: Player8 collected (300)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 73 ************************
+
+FullTiltPoker Game #26225186796: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:16:31 ET - 2010/12/08
+
+Seat 3: Player3 (4,380)
+Seat 4: Player4 (645), is sitting out
+Seat 7: Player7 (3,365)
+Seat 8: Player8 (1,755)
+Seat 9: Player9 (3,355)
+Player7 posts the small blind of 60
+Player8 posts the big blind of 120
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [5s 3c]
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 folds
+Uncalled bet of 60 returned to Player8
+Player8 mucks
+Player8 wins the pot (120)
+*** SUMMARY ***
+Duration 10s
+Total pot 120 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) collected (120)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 74 ************************
+
+FullTiltPoker Game #26225190453: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:16:41 ET - 2010/12/08
+
+Seat 3: Player3 (4,380)
+Seat 4: Player4 (645), is sitting out
+Seat 7: Player7 (3,305)
+Seat 8: Player8 (1,815)
+Seat 9: Player9 (3,355)
+Player8 posts the small blind of 60
+Player9 posts the big blind of 120
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [Ks 3h]
+Player3 folds
+Player4 folds
+Player7 folds
+Player8 folds
+Uncalled bet of 60 returned to Player9
+Player9 mucks
+Player9 wins the pot (120)
+*** SUMMARY ***
+Duration 6s
+Total pot 120 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) collected (120)
+
+
+******************** # 75 ************************
+
+FullTiltPoker Game #26225192878: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:16:48 ET - 2010/12/08
+
+Seat 3: Player3 (4,380)
+Seat 4: Player4 (645), is sitting out
+Seat 7: Player7 (3,305)
+Seat 8: Player8 (1,755)
+Seat 9: Player9 (3,415)
+Player9 posts the small blind of 60
+Player3 posts the big blind of 120
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [Th 4c]
+Player4 folds
+Player7 folds
+Player8 folds
+Player9 calls 60
+Player3 raises to 360
+Player9 calls 240
+*** FLOP *** [Kh 8c 7h]
+Player9 has 15 seconds left to act
+Player9 bets 240
+Player3 calls 240
+*** TURN *** [Kh 8c 7h] [Jc]
+Player9 checks
+Player3 bets 360
+Player9 has 15 seconds left to act
+Player9 has been disconnected
+Player9 has reconnected
+Player9 has 15 seconds left to act
+Player9 folds
+Uncalled bet of 360 returned to Player3
+Player3 mucks
+Player3 wins the pot (1,200)
+*** SUMMARY ***
+Duration 114s
+Total pot 1,200 | Rake 0
+Board: [Kh 8c 7h Jc]
+Seat 3: Player3 (big blind) collected (1,200)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) folded on the Turn
+
+
+******************** # 76 ************************
+
+FullTiltPoker Game #26225233960: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:18:43 ET - 2010/12/08
+
+Seat 3: Player3 (4,980)
+Seat 4: Player4 (645), is sitting out
+Seat 7: Player7 (3,305)
+Seat 8: Player8 (1,755)
+Seat 9: Player9 (2,815)
+Player3 posts the small blind of 60
+Player4 posts the big blind of 120
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [Jh 8s]
+Player7 raises to 360
+Player8 folds
+Player9 folds
+Player3 folds
+Player4 folds
+Uncalled bet of 240 returned to Player7
+Player7 mucks
+Player7 wins the pot (300)
+*** SUMMARY ***
+Duration 10s
+Total pot 300 | Rake 0
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 7: Player7 collected (300)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 77 ************************
+
+FullTiltPoker Game #26225237626: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:18:53 ET - 2010/12/08
+
+Seat 3: Player3 (4,920)
+Seat 4: Player4 (525), is sitting out
+Seat 7: Player7 (3,485)
+Seat 8: Player8 (1,755)
+Seat 9: Player9 (2,815)
+Player4 posts the small blind of 60
+Player7 posts the big blind of 120
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [3c Kh]
+Player8 folds
+Player9 folds
+Player3 folds
+Player4 folds
+Uncalled bet of 60 returned to Player7
+Player7 mucks
+Player7 wins the pot (120)
+*** SUMMARY ***
+Duration 7s
+Total pot 120 | Rake 0
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) collected (120)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 78 ************************
+
+FullTiltPoker Game #26225240356: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:19:00 ET - 2010/12/08
+
+Seat 3: Player3 (4,920)
+Seat 4: Player4 (465), is sitting out
+Seat 7: Player7 (3,545)
+Seat 8: Player8 (1,755)
+Seat 9: Player9 (2,815)
+Player7 posts the small blind of 60
+Player8 posts the big blind of 120
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [2h 8h]
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 folds
+Uncalled bet of 60 returned to Player8
+Player8 mucks
+Player8 wins the pot (120)
+*** SUMMARY ***
+Duration 7s
+Total pot 120 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) collected (120)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 79 ************************
+
+FullTiltPoker Game #26225243131: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:19:08 ET - 2010/12/08
+
+Seat 3: Player3 (4,920)
+Seat 4: Player4 (465), is sitting out
+Seat 7: Player7 (3,485)
+Seat 8: Player8 (1,815)
+Seat 9: Player9 (2,815)
+Player8 posts the small blind of 60
+Player9 posts the big blind of 120
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [7c 5c]
+Player3 folds
+Player4 folds
+Player7 raises to 360
+Player8 folds
+Player9 raises to 2,815, and is all in
+Player7 calls 2,455
+Player9 shows [Ad Qs]
+Player7 shows [Td Ts]
+*** FLOP *** [7d Js 5d]
+*** TURN *** [7d Js 5d] [Kc]
+*** RIVER *** [7d Js 5d Kc] [Qc]
+Player9 shows a pair of Queens
+Player7 shows a pair of Tens
+Player9 wins the pot (5,690) with a pair of Queens
+*** SUMMARY ***
+Duration 22s
+Total pot 5,690 | Rake 0
+Board: [7d Js 5d Kc Qc]
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 (button) showed [Td Ts] and lost with a pair of Tens
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) showed [Ad Qs] and won (5,690) with a pair of Queens
+
+
+******************** # 80 ************************
+
+FullTiltPoker Game #26225251150: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:19:30 ET - 2010/12/08
+
+Seat 3: Player3 (4,920)
+Seat 4: Player4 (465), is sitting out
+Seat 7: Player7 (670)
+Seat 8: Player8 (1,755)
+Seat 9: Player9 (5,690)
+Player9 posts the small blind of 60
+Player3 posts the big blind of 120
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [5s 4h]
+Player4 folds
+Player7 raises to 240
+Player8 has 15 seconds left to act
+Player8 folds
+Player9 folds
+Player3 calls 120
+*** FLOP *** [Td 5h As]
+Player3 checks
+Player7 checks
+*** TURN *** [Td 5h As] [4s]
+Player3 checks
+Player7 checks
+*** RIVER *** [Td 5h As 4s] [8d]
+Player3 bets 480
+Player7 folds
+Uncalled bet of 480 returned to Player3
+Player3 mucks
+Player3 wins the pot (540)
+*** SUMMARY ***
+Duration 47s
+Total pot 540 | Rake 0
+Board: [Td 5h As 4s 8d]
+Seat 3: Player3 (big blind) collected (540)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 folded on the River
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 81 ************************
+
+FullTiltPoker Game #26225268167: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:20:18 ET - 2010/12/08
+
+Seat 3: Player3 (5,220)
+Seat 4: Player4 (465), is sitting out
+Seat 7: Player7 (430)
+Seat 8: Player8 (1,755)
+Seat 9: Player9 (5,630)
+Player3 posts the small blind of 60
+Player4 posts the big blind of 120
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [Qc Js]
+Player7 folds
+Player8 raises to 420
+Player9 folds
+Player3 folds
+Player4 folds
+Uncalled bet of 300 returned to Player8
+Player8 mucks
+Player8 wins the pot (300)
+*** SUMMARY ***
+Duration 12s
+Total pot 300 | Rake 0
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 collected (300)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 82 ************************
+
+FullTiltPoker Game #26225272753: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:20:31 ET - 2010/12/08
+
+Seat 3: Player3 (5,160)
+Seat 4: Player4 (345), is sitting out
+Seat 7: Player7 (430)
+Seat 8: Player8 (1,935)
+Seat 9: Player9 (5,630)
+Player4 posts the small blind of 60
+Player7 posts the big blind of 120
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [Qd 7d]
+Player8 has 15 seconds left to act
+Player8 folds
+Player9 folds
+Player3 raises to 480
+Player4 folds
+Player7 calls 310, and is all in
+Player3 shows [Ts Td]
+Player7 shows [Jc Tc]
+Uncalled bet of 50 returned to Player3
+*** FLOP *** [8h 5d Js]
+*** TURN *** [8h 5d Js] [7h]
+*** RIVER *** [8h 5d Js 7h] [5s]
+Player3 shows two pair, Tens and Fives
+Player7 shows two pair, Jacks and Fives
+Player7 wins the pot (920) with two pair, Jacks and Fives
+*** SUMMARY ***
+Duration 27s
+Total pot 920 | Rake 0
+Board: [8h 5d Js 7h 5s]
+Seat 3: Player3 (button) showed [Ts Td] and lost with two pair, Tens and Fives
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) showed [Jc Tc] and won (920) with two pair, Jacks and Fives
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 83 ************************
+
+FullTiltPoker Game #26225282609: Step 1 (203481150), Table 1 - 60/120 - No Limit Hold'em - 12:20:58 ET - 2010/12/08
+
+Seat 3: Player3 (4,730)
+Seat 4: Player4 (285), is sitting out
+Seat 7: Player7 (920)
+Seat 8: Player8 (1,935)
+Seat 9: Player9 (5,630)
+Player7 posts the small blind of 60
+Player8 posts the big blind of 120
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [Th Jd]
+Player9 folds
+Player3 raises to 360
+Player4 folds
+Player7 folds
+Player8 folds
+Uncalled bet of 240 returned to Player3
+Player3 mucks
+Player3 wins the pot (300)
+*** SUMMARY ***
+Duration 12s
+Total pot 300 | Rake 0
+Seat 3: Player3 collected (300)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) folded before the Flop
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 84 ************************
+
+FullTiltPoker Game #26225287074: Step 1 (203481150), Table 1 - 80/160 - No Limit Hold'em - 12:21:10 ET - 2010/12/08
+
+Seat 3: Player3 (4,910)
+Seat 4: Player4 (285), is sitting out
+Seat 7: Player7 (860)
+Seat 8: Player8 (1,815)
+Seat 9: Player9 (5,630)
+Player8 posts the small blind of 80
+Player9 posts the big blind of 160
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [2d 9c]
+Player3 folds
+Player4 folds
+Player7 folds
+Player8 folds
+Uncalled bet of 80 returned to Player9
+Player9 mucks
+Player9 wins the pot (160)
+*** SUMMARY ***
+Duration 7s
+Total pot 160 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) collected (160)
+
+
+******************** # 85 ************************
+
+FullTiltPoker Game #26225289828: Step 1 (203481150), Table 1 - 80/160 - No Limit Hold'em - 12:21:18 ET - 2010/12/08
+
+Seat 3: Player3 (4,910)
+Seat 4: Player4 (285), is sitting out
+Seat 7: Player7 (860)
+Seat 8: Player8 (1,735)
+Seat 9: Player9 (5,710)
+Player9 posts the small blind of 80
+Player3 posts the big blind of 160
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [Ts Jc]
+Player4 folds
+Player7 folds
+Player8 raises to 1,735, and is all in
+Player9 folds
+Player3 folds
+Uncalled bet of 1,575 returned to Player8
+Player8 mucks
+Player8 wins the pot (400)
+*** SUMMARY ***
+Duration 10s
+Total pot 400 | Rake 0
+Seat 3: Player3 (big blind) folded before the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) collected (400)
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 86 ************************
+
+FullTiltPoker Game #26225293707: Step 1 (203481150), Table 1 - 80/160 - No Limit Hold'em - 12:21:28 ET - 2010/12/08
+
+Seat 3: Player3 (4,750)
+Seat 4: Player4 (285), is sitting out
+Seat 7: Player7 (860)
+Seat 8: Player8 (1,975)
+Seat 9: Player9 (5,630)
+Player3 posts the small blind of 80
+Player4 posts the big blind of 160
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [9s 4h]
+Player7 folds
+Player8 folds
+Player9 raises to 320
+Player3 calls 240
+Player4 folds
+*** FLOP *** [7h Ah 7s]
+Player3 bets 320
+Player9 folds
+Uncalled bet of 320 returned to Player3
+Player3 mucks
+Player3 wins the pot (800)
+*** SUMMARY ***
+Duration 18s
+Total pot 800 | Rake 0
+Board: [7h Ah 7s]
+Seat 3: Player3 (small blind) collected (800)
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) folded on the Flop
+
+
+******************** # 87 ************************
+
+FullTiltPoker Game #26225300404: Step 1 (203481150), Table 1 - 80/160 - No Limit Hold'em - 12:21:47 ET - 2010/12/08
+
+Seat 3: Player3 (5,230)
+Seat 4: Player4 (125), is sitting out
+Seat 7: Player7 (860)
+Seat 8: Player8 (1,975)
+Seat 9: Player9 (5,310)
+Player4 posts the small blind of 80
+Player7 posts the big blind of 160
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [Js Tc]
+Player8 raises to 1,975, and is all in
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 calls 700, and is all in
+Player8 shows [Js Tc]
+Player7 shows [Kc Ah]
+Uncalled bet of 1,115 returned to Player8
+*** FLOP *** [4c 3h 6s]
+*** TURN *** [4c 3h 6s] [2h]
+*** RIVER *** [4c 3h 6s 2h] [Ks]
+Player8 shows King Jack high
+Player7 shows a pair of Kings
+Player7 wins the pot (1,800) with a pair of Kings
+*** SUMMARY ***
+Duration 22s
+Total pot 1,800 | Rake 0
+Board: [4c 3h 6s 2h Ks]
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) showed [Kc Ah] and won (1,800) with a pair of Kings
+Seat 8: Player8 showed [Js Tc] and lost with King Jack high
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 88 ************************
+
+FullTiltPoker Game #26225308574: Step 1 (203481150), Table 1 - 80/160 - No Limit Hold'em - 12:22:10 ET - 2010/12/08
+
+Seat 3: Player3 (5,230)
+Seat 4: Player4 (45), is sitting out
+Seat 7: Player7 (1,800)
+Seat 8: Player8 (1,115)
+Seat 9: Player9 (5,310)
+Player7 posts the small blind of 80
+Player8 posts the big blind of 160
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [Kd 5d]
+Player9 folds
+Player3 folds
+Player4 folds
+Player7 folds
+Uncalled bet of 80 returned to Player8
+Player8 mucks
+Player8 wins the pot (160)
+*** SUMMARY ***
+Duration 7s
+Total pot 160 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) collected (160)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 89 ************************
+
+FullTiltPoker Game #26225311299: Step 1 (203481150), Table 1 - 80/160 - No Limit Hold'em - 12:22:17 ET - 2010/12/08
+
+Seat 3: Player3 (5,230)
+Seat 4: Player4 (45), is sitting out
+Seat 7: Player7 (1,720)
+Seat 8: Player8 (1,195)
+Seat 9: Player9 (5,310)
+Player8 posts the small blind of 80
+Player9 posts the big blind of 160
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [9s 5s]
+Player3 calls 160
+Player4 folds
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 folds
+Player9 checks
+*** FLOP *** [Jh 2d 4d]
+Player9 checks
+Player3 bets 320
+Player9 folds
+Uncalled bet of 320 returned to Player3
+Player3 mucks
+Player3 wins the pot (400)
+*** SUMMARY ***
+Duration 36s
+Total pot 400 | Rake 0
+Board: [Jh 2d 4d]
+Seat 3: Player3 collected (400)
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) folded on the Flop
+
+
+******************** # 90 ************************
+
+FullTiltPoker Game #26225324376: Step 1 (203481150), Table 1 - 80/160 - No Limit Hold'em - 12:22:54 ET - 2010/12/08
+
+Seat 3: Player3 (5,470)
+Seat 4: Player4 (45), is sitting out
+Seat 7: Player7 (1,720)
+Seat 8: Player8 (1,115)
+Seat 9: Player9 (5,150)
+Player9 posts the small blind of 80
+Player3 posts the big blind of 160
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player8 [5d 4s]
+Player4 folds
+Player7 has 15 seconds left to act
+Player7 has timed out
+Player7 folds
+Player8 folds
+Player9 calls 80
+Player3 checks
+*** FLOP *** [8d 3c 6c]
+Player9 bets 320
+Player3 folds
+Uncalled bet of 320 returned to Player9
+Player9 mucks
+Player9 wins the pot (320)
+*** SUMMARY ***
+Duration 39s
+Total pot 320 | Rake 0
+Board: [8d 3c 6c]
+Seat 3: Player3 (big blind) folded on the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) collected (320)
+
+
+******************** # 91 ************************
+
+FullTiltPoker Game #26225338734: Step 1 (203481150), Table 1 - 80/160 - No Limit Hold'em - 12:23:34 ET - 2010/12/08
+
+Seat 3: Player3 (5,310)
+Seat 4: Player4 (45), is sitting out
+Seat 7: Player7 (1,720), is sitting out
+Seat 8: Player8 (1,115)
+Seat 9: Player9 (5,310)
+Player3 posts the small blind of 80
+Player4 posts the big blind of 45, and is all in
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player8 [4s As]
+Player7 folds
+Player8 calls 160
+Player9 folds
+Player3 calls 80
+*** FLOP *** [8s Jc Ah]
+Player3 checks
+Player8 checks
+*** TURN *** [8s Jc Ah] [Qd]
+Player3 checks
+Player8 checks
+*** RIVER *** [8s Jc Ah Qd] [3h]
+Player3 checks
+Player8 checks
+*** SHOW DOWN ***
+Player3 shows [8c Qs] two pair, Queens and Eights
+Player8 mucks
+Player3 wins the side pot (230) with two pair, Queens and Eights
+Player4 mucks
+Player3 wins the main pot (135) with two pair, Queens and Eights
+*** SUMMARY ***
+Duration 29s
+Total pot 365 Main pot 135. Side pot 230. | Rake 0
+Board: [8s Jc Ah Qd 3h]
+Seat 3: Player3 (small blind) showed [8c Qs] and won (365) with two pair, Queens and Eights
+Seat 4: Player4 (big blind) mucked [4d 6h] - Ace Queen high
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 mucked [4s As] - a pair of Aces
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 92 ************************
+
+FullTiltPoker Game #26225349185: Step 1 (203481150), Table 1 - 80/160 - No Limit Hold'em - 12:24:03 ET - 2010/12/08
+
+Seat 3: Player3 (5,515)
+Seat 7: Player7 (1,720)
+Seat 8: Player8 (955)
+Seat 9: Player9 (5,310)
+Player7 posts the big blind of 160
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player8 [6c Kc]
+Player8 has been disconnected
+Player8 has 15 seconds left to act
+Player8 has timed out
+Player8 folds
+Player9 raises to 320
+Player3 folds
+Player8 has reconnected
+Player7 has 15 seconds left to act
+Player7 has timed out
+Player7 folds
+Uncalled bet of 160 returned to Player9
+Player9 mucks
+Player9 wins the pot (320)
+*** SUMMARY ***
+Duration 53s
+Total pot 320 | Rake 0
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 7: Player7 (big blind) folded before the Flop
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 collected (320)
+
+
+******************** # 93 ************************
+
+FullTiltPoker Game #26225368504: Step 1 (203481150), Table 1 - 80/160 - No Limit Hold'em - 12:24:57 ET - 2010/12/08
+
+Seat 3: Player3 (5,515)
+Seat 7: Player7 (1,560), is sitting out
+Seat 8: Player8 (955)
+Seat 9: Player9 (5,470)
+Player7 posts the small blind of 80
+Player8 posts the big blind of 160
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player8 [6h 6c]
+Player9 folds
+Player3 folds
+Player7 folds
+Uncalled bet of 80 returned to Player8
+Player8 has been disconnected
+Player8 mucks
+Player8 wins the pot (160)
+*** SUMMARY ***
+Duration 9s
+Total pot 160 | Rake 0
+Seat 3: Player3 didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) collected (160)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 94 ************************
+
+FullTiltPoker Game #26225371807: Step 1 (203481150), Table 1 - 80/160 - No Limit Hold'em - 12:25:06 ET - 2010/12/08
+
+Seat 3: Player3 (5,515)
+Seat 7: Player7 (1,480), is sitting out
+Seat 8: Player8 (1,035)
+Seat 9: Player9 (5,470)
+Player8 posts the small blind of 80
+Player9 posts the big blind of 160
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player8 [5h 5d]
+Player3 folds
+Player7 folds
+Player8 has 15 seconds left to act
+Player8 has reconnected
+Player8 has 15 seconds left to act
+Player8 raises to 1,035, and is all in
+Player9 calls 875
+Player8 shows [5h 5d]
+Player9 shows [Qh Qd]
+*** FLOP *** [7h 2s 2c]
+*** TURN *** [7h 2s 2c] [4c]
+*** RIVER *** [7h 2s 2c 4c] [Ad]
+Player8 shows two pair, Fives and Twos
+Player9 shows two pair, Queens and Twos
+Player9 wins the pot (2,070) with two pair, Queens and Twos
+*** SUMMARY ***
+Duration 35s
+Total pot 2,070 | Rake 0
+Board: [7h 2s 2c 4c Ad]
+Seat 3: Player3 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) showed [5h 5d] and lost with two pair, Fives and Twos
+Seat 9: Player9 (big blind) showed [Qh Qd] and won (2,070) with two pair, Queens and Twos
+
+

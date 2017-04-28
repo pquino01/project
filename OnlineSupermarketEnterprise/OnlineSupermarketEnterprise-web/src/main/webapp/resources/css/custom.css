@@ -1,0 +1,103 @@
+
+.requiredLbl{
+    background-image:url(../resources/images/required-field.png);
+    background-position:top right;
+    background-repeat:no-repeat;
+    padding-right:10px;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+}
+
+.optionalLbl{
+    padding-right:10px;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+}
+
+#categoryBox{
+    height: 176px;
+    width: 212px;
+    margin: 21px 14px 6px;
+    float:inherit;
+    background-size: cover;
+}
+
+.categoryText{
+    line-height: 150px;
+    font-size: xx-large
+}
+
+#welcomeText{
+    font-size: x-large;
+}
+
+#leftColumn{
+    height: 450px;
+    width: 350px;
+    float: left;
+    background: #ccc;
+}
+
+#rightColumn{
+    height: 450px;
+    width: 500px;
+    float: left;
+    background: #eee;
+}
+
+#chat{
+    position: absolute;
+    top: 45px;
+    right: 5px;
+}
+
+#viewCart{
+    position: absolute;
+    top: 0px;
+    right: 5px; 
+}
+
+#register{
+    width: 450px;
+}
+
+#login{
+    width: 400px;
+}
+
+#forgotPassword{
+    width: 400px;
+}
+
+#payment{
+    width: 500px;
+}
+
+#listProducts{
+    width: 1200px;
+}
+
+#addToCart{
+    display: inline-block;
+    
+}
+
+#returnHome{
+    font-size: x-large;
+    background-color: white;
+    margin-bottom: 10px;
+    width: 350px;
+}
+
+.xlogo {
+    background-image:url(../resources/images/cart.png) !important;
+}
+
+
+
+
+
+
+

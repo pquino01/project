@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:c="http://xmlns.jcp.org/jsp/jstl/core">
+
+    <body>
+
+        <ui:composition template="./storeTemplate.xhtml">
+
+            <ui:define name="top">
+                <h2> On-line supermarket </h2>
+                <h:form id="loginLogoutRegister">
+                    <p:commandButton value="Login" action="storeLogin.xhtml" rendered="#{!selectCategoryManagedBean.loggedIn}" />
+                    <p:commandButton value="Logout" action="#{customerLoginManagedBean.logout()}" rendered="#{selectCategoryManagedBean.loggedIn}" />
+                    <h:commandLink action="storeRegister.xhtml" value="Register" rendered="#{!selectCategoryManagedBean.loggedIn}"/>
+                    <div id="viewCart">
+                        <h:graphicImage library="images" name="cart.png" alt="View Cart" width="20px"/>
+                        <h:commandLink action="viewCart.xhtml" value="View Cart"/>
+                    </div>
+                    <div>
+                        <h:commandLink action="administrationLogin.xhtml" value="Administration" />
+                    </div>
+                    <div id="chat">
+                        <h:commandLink action="customerSupportChatRoom.xhtml" value="Customer support chatroom"/>
+                    </div>
+                </h:form>
+            </ui:define>
+
+            <ui:define name="content">
+
+                <div id="leftColumn">
+                    <div id="welcomeText">
+                        <p><h:outputLabel value="Welcome to Birkbeck on-line supermarket!" /></p>
+                    </div>
+                </div>
+                <div id="rightColumn">
+                    <f:event listener="#{selectCategoryManagedBean.updateCategoriesAvailable()}" type="preRenderView" />
+                    <ui:repeat value="#{selectCategoryManagedBean.categories}" var="category">
+                        <div id="categoryBox" style="background-image: url(#{initParam.categoriesImgPath}#{category.name}.jpg)"> 
+                            <h:form>
+                                <h:commandLink action="#{selectCategoryManagedBean.displayCategoryPage(category)}" >
+                                    <span class="categoryText">#{category.name}</span> 
+                                </h:commandLink>
+                            </h:form>
+                        </div>
+                    </ui:repeat>
+                    
+                </div>
+                
+
+            </ui:define>
+
+        </ui:composition>
+
+    </body>
+</html>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui">
+
+    <body>
+
+        <ui:composition template="./storeTemplate.xhtml">
+
+            <ui:define name="top">
+                <h2> On-line supermarket </h2>
+                <h:form id="loginLogoutRegister">
+                    <h:commandLink action="storeRegister.xhtml" value="Register" rendered="#{!selectCategoryManagedBean.loggedIn}"/>
+                    <div id="language">
+                        <h:commandLink action="#{travellerSearchFlightsManagedBean.register()}" value="English" rendered="#{!travellerSearchFlightsManagedBean.loggedIn}"/>
+                        <h:commandLink action="#{travellerSearchFlightsManagedBean.register()}" value="/Spanish" rendered="#{!travellerSearchFlightsManagedBean.loggedIn}"/>
+                    </div>
+                </h:form>
+            </ui:define>
+
+            <ui:define name="content">
+                <h:form id="login">
+                    <p:messages/>
+                    <p:panel header="Supermarket Login">
+                        <h:panelGrid columns="2">
+                            <h:outputLabel for="user" value="User Name"/>
+                            <h:inputText id="user" label="User Name"
+                                         value="#{customerLoginManagedBean.userName}"
+                                         required="true"/>
+                            <h:outputLabel for="password" value="Password"/>
+                            <p:password id="password" required="true" value="#{customerLoginManagedBean.password}"/>
+                            <h:panelGroup/>
+                            <div>
+                                <p:commandButton
+                                    value="Login"
+                                    action="#{customerLoginManagedBean.login()}" update="login"/>
+                                <h:commandLink action="forgotPassword.xhtml" value="I forgot my password" />
+                            </div> 
+                        </h:panelGrid>
+                    </p:panel>
+                </h:form>
+            </ui:define>
+
+        </ui:composition>
+
+    </body>
+</html>

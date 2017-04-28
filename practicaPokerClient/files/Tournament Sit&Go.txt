@@ -1,0 +1,4260 @@
+﻿******************** # 1 *************************
+
+FullTiltPoker Game #27123230549: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 15/30 - No Limit Hold'em - 13:17:36 ET - 2011/01/09
+
+Seat 1: Player1 (1,500)
+Seat 2: Player2 (1,500)
+Seat 3: Player3 (1,500)
+Seat 4: Player4 (1,500)
+Seat 5: Player5 (1,500)
+Seat 6: Player6 (1,500)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,500)
+Seat 9: Player9 (1,500)
+Player1 posts the small blind of 15
+Player2 posts the big blind of 30
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player6 [Tc 4c]
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 calls 30
+Player1 calls 15
+Player2 checks
+*** FLOP *** [7s Qd Ah]
+Player1 has 15 seconds left to act
+Player1 checks
+Player2 checks
+Player9 bets 90
+Player1 has 15 seconds left to act
+Player1 folds
+Player2 folds
+Uncalled bet of 90 returned to Player9
+Player9 mucks
+Player9 wins the pot (90)
+*** SUMMARY ***
+Duration 54s
+Total pot 90 | Rake 0
+Board: [7s Qd Ah]
+Seat 1: Player1 (small blind) folded on the Flop
+Seat 2: Player2 (big blind) folded on the Flop
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) collected (90)
+
+
+******************** # 2 *************************
+
+FullTiltPoker Game #27123257941: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 15/30 - No Limit Hold'em - 13:18:31 ET - 2011/01/09
+
+Seat 1: Player1 (1,470)
+Seat 2: Player2 (1,470)
+Seat 3: Player3 (1,500)
+Seat 4: Player4 (1,500)
+Seat 5: Player5 (1,500)
+Seat 6: Player6 (1,500)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,500)
+Seat 9: Player9 (1,560)
+Player2 posts the small blind of 15
+Player3 posts the big blind of 30
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [5h Th]
+Player4 has 15 seconds left to act
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 folds
+Player1 folds
+Player2 folds
+Uncalled bet of 15 returned to Player3
+Player3 mucks
+Player3 wins the pot (30)
+*** SUMMARY ***
+Duration 25s
+Total pot 30 | Rake 0
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 2: Player2 (small blind) folded before the Flop
+Seat 3: Player3 (big blind) collected (30)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 3 *************************
+
+FullTiltPoker Game #27123271163: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 15/30 - No Limit Hold'em - 13:18:57 ET - 2011/01/09
+
+Seat 1: Player1 (1,470)
+Seat 2: Player2 (1,455)
+Seat 3: Player3 (1,515)
+Seat 4: Player4 (1,500)
+Seat 5: Player5 (1,500)
+Seat 6: Player6 (1,500)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,500)
+Seat 9: Player9 (1,560)
+Player3 posts the small blind of 15
+Player4 posts the big blind of 30
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Player6 [8h Ts]
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 folds
+Player1 has 15 seconds left to act
+Player1 folds
+Player2 folds
+Player3 calls 15
+Player4 checks
+*** FLOP *** [Kc Qc 7h]
+Player3 bets 60
+Player4 folds
+Uncalled bet of 60 returned to Player3
+Player3 mucks
+Player3 wins the pot (60)
+*** SUMMARY ***
+Duration 35s
+Total pot 60 | Rake 0
+Board: [Kc Qc 7h]
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 (button) didn't bet (folded)
+Seat 3: Player3 (small blind) collected (60)
+Seat 4: Player4 (big blind) folded on the Flop
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 4 *************************
+
+FullTiltPoker Game #27123289083: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 15/30 - No Limit Hold'em - 13:19:33 ET - 2011/01/09
+
+Seat 1: Player1 (1,470)
+Seat 2: Player2 (1,455)
+Seat 3: Player3 (1,545)
+Seat 4: Player4 (1,470)
+Seat 5: Player5 (1,500)
+Seat 6: Player6 (1,500)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,500)
+Seat 9: Player9 (1,560)
+Player4 posts the small blind of 15
+Player5 posts the big blind of 30
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player6 [Ah 2d]
+Player6 folds
+Player7 folds
+Player8 folds
+Player9 folds
+Player1 folds
+Player2 calls 30
+Player3 folds
+Player4 has 15 seconds left to act
+Player4 calls 15
+Player5 checks
+*** FLOP *** [Qh 3s 5h]
+Player4 checks
+Player5 checks
+Player2 checks
+*** TURN *** [Qh 3s 5h] [Qd]
+Player4 checks
+Player5 checks
+Player2 checks
+*** RIVER *** [Qh 3s 5h Qd] [7h]
+Player4 checks
+Player5 checks
+Player2 checks
+*** SHOW DOWN ***
+Player4 shows [Tc Kh] a pair of Queens
+Player5 shows [2c 5d] two pair, Queens and Fives
+Player2 mucks
+Player5 wins the pot (90) with two pair, Queens and Fives
+*** SUMMARY ***
+Duration 73s
+Total pot 90 | Rake 0
+Board: [Qh 3s 5h Qd 7h]
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 mucked [6c Jc] - a pair of Queens
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) showed [Tc Kh] and lost with a pair of Queens
+Seat 5: Player5 (big blind) showed [2c 5d] and won (90) with two pair, Queens and Fives
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 5 *************************
+
+FullTiltPoker Game #27123326065: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 20/40 - No Limit Hold'em - 13:20:46 ET - 2011/01/09
+
+Seat 1: Player1 (1,470)
+Seat 2: Player2 (1,425)
+Seat 3: Player3 (1,545)
+Seat 4: Player4 (1,440)
+Seat 5: Player5 (1,560)
+Seat 6: Player6 (1,500)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,500)
+Seat 9: Player9 (1,560)
+Player5 posts the small blind of 20
+Player6 posts the big blind of 40
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [5c 6c]
+Player7 folds
+Player8 folds
+Player9 folds
+Player1 folds
+Player2 folds
+Player3 raises to 80
+Player4 folds
+Player5 folds
+Player6 folds
+Uncalled bet of 40 returned to Player3
+Player3 mucks
+Player3 wins the pot (100)
+*** SUMMARY ***
+Duration 20s
+Total pot 100 | Rake 0
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 collected (100)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 5: Player5 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded before the Flop
+Seat 7: Player7 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 6 *************************
+
+FullTiltPoker Game #27123336530: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 20/40 - No Limit Hold'em - 13:21:07 ET - 2011/01/09
+
+Seat 1: Player1 (1,470)
+Seat 2: Player2 (1,425)
+Seat 3: Player3 (1,605)
+Seat 4: Player4 (1,440)
+Seat 5: Player5 (1,540)
+Seat 6: Player6 (1,460)
+Seat 7: Player7 (1,500)
+Seat 8: Player8 (1,500)
+Seat 9: Player9 (1,560)
+Player6 posts the small blind of 20
+Player7 posts the big blind of 40
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player6 [4s 5h]
+Player8 folds
+Player9 folds
+Player1 folds
+Player2 calls 40
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 checks
+*** FLOP *** [Qs 8s Qh]
+Player7 checks
+Player2 bets 40
+Player7 folds
+Uncalled bet of 40 returned to Player2
+Player2 mucks
+Player2 wins the pot (100)
+*** SUMMARY ***
+Duration 38s
+Total pot 100 | Rake 0
+Board: [Qs 8s Qh]
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 collected (100)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) folded on the Flop
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 7 *************************
+
+FullTiltPoker Game #27123355749: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 20/40 - No Limit Hold'em - 13:21:45 ET - 2011/01/09
+
+Seat 1: Player1 (1,470)
+Seat 2: Player2 (1,485)
+Seat 3: Player3 (1,605)
+Seat 4: Player4 (1,440)
+Seat 5: Player5 (1,540)
+Seat 6: Player6 (1,440)
+Seat 7: Player7 (1,460)
+Seat 8: Player8 (1,500)
+Seat 9: Player9 (1,560)
+Player7 posts the small blind of 20
+Player8 posts the big blind of 40
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [Jd Ad]
+Player9 has 15 seconds left to act
+Player9 raises to 160
+Player1 calls 160
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 calls 120
+*** FLOP *** [4h 2d 9c]
+Player8 checks
+Player9 bets 1,400, and is all in
+Player1 folds
+Player8 folds
+Uncalled bet of 1,400 returned to Player9
+Player9 mucks
+Player9 wins the pot (500)
+*** SUMMARY ***
+Duration 39s
+Total pot 500 | Rake 0
+Board: [4h 2d 9c]
+Seat 1: Player1 folded on the Flop
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 (button) didn't bet (folded)
+Seat 7: Player7 (small blind) folded before the Flop
+Seat 8: Player8 (big blind) folded on the Flop
+Seat 9: Player9 collected (500)
+
+
+******************** # 8 *************************
+
+FullTiltPoker Game #27123375487: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 20/40 - No Limit Hold'em - 13:22:25 ET - 2011/01/09
+
+Seat 1: Player1 (1,310)
+Seat 2: Player2 (1,485)
+Seat 3: Player3 (1,605)
+Seat 4: Player4 (1,440)
+Seat 5: Player5 (1,540)
+Seat 6: Player6 (1,440)
+Seat 7: Player7 (1,440)
+Seat 8: Player8 (1,340)
+Seat 9: Player9 (1,900)
+Player8 posts the small blind of 20
+Player9 posts the big blind of 40
+The button is in seat #7
+*** HOLE CARDS ***
+Dealt to Player6 [3c Kh]
+Player1 calls 40
+Player2 folds
+Player3 folds
+Player4 has 15 seconds left to act
+Player4 folds
+Player5 folds
+Player6 folds
+Player7 folds
+Player8 calls 20
+Player9 checks
+*** FLOP *** [2c 7c As]
+Player8 bets 120
+Player9 folds
+Player1 calls 120
+*** TURN *** [2c 7c As] [Jc]
+Player8 bets 120
+Player1 calls 120
+*** RIVER *** [2c 7c As Jc] [Ts]
+Player8 bets 200
+Player1 raises to 400
+Player8 calls 200
+*** SHOW DOWN ***
+Player1 shows [7d 7s] three of a kind, Sevens
+Player8 mucks
+Player1 wins the pot (1,400) with three of a kind, Sevens
+*** SUMMARY ***
+Duration 43s
+Total pot 1,400 | Rake 0
+Board: [2c 7c As Jc Ts]
+Seat 1: Player1 showed [7d 7s] and won (1,400) with three of a kind, Sevens
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 7: Player7 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) mucked [Ac 5s] - a pair of Aces
+Seat 9: Player9 (big blind) folded on the Flop
+
+
+******************** # 9 *************************
+
+FullTiltPoker Game #27123397498: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 20/40 - No Limit Hold'em - 13:23:08 ET - 2011/01/09
+
+Seat 1: Player1 (2,030)
+Seat 2: Player2 (1,485)
+Seat 3: Player3 (1,605)
+Seat 4: Player4 (1,440)
+Seat 5: Player5 (1,540)
+Seat 6: Player6 (1,440)
+Seat 7: Player7 (1,440)
+Seat 8: Player8 (660)
+Seat 9: Player9 (1,860)
+Player9 posts the small blind of 20
+Player1 posts the big blind of 40
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player6 [Kd Ad]
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 has 15 seconds left to act
+Player6 raises to 120
+Player7 calls 120
+Player8 folds
+Player9 calls 100
+Player1 folds
+*** FLOP *** [9d 3h Kh]
+Player9 checks
+Player6 checks
+Player7 bets 440
+Player9 folds
+Player6 raises to 1,320, and is all in
+Player7 calls 880, and is all in
+Player6 shows [Kd Ad]
+Player7 shows [Qc Kc]
+*** TURN *** [9d 3h Kh] [6d]
+*** RIVER *** [9d 3h Kh 6d] [Jh]
+Player6 shows a pair of Kings
+Player7 shows a pair of Kings
+Player6 wins the pot (3,040) with a pair of Kings
+*** SUMMARY ***
+Duration 48s
+Total pot 3,040 | Rake 0
+Board: [9d 3h Kh 6d Jh]
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 showed [Kd Ad] and won (3,040) with a pair of Kings
+Seat 7: Player7 showed [Qc Kc] and lost with a pair of Kings
+Seat 8: Player8 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) folded on the Flop
+
+
+******************** # 10 ************************
+
+FullTiltPoker Game #27123422052: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 25/50 - No Limit Hold'em - 13:23:57 ET - 2011/01/09
+
+Seat 1: Player1 (1,990)
+Seat 2: Player2 (1,485)
+Seat 3: Player3 (1,605)
+Seat 4: Player4 (1,440)
+Seat 5: Player5 (1,540)
+Seat 6: Player6 (3,040)
+Seat 8: Player8 (660)
+Seat 9: Player9 (1,740)
+Player1 posts the small blind of 25
+Player2 posts the big blind of 50
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player6 [Js 8d]
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Player8 folds
+Player9 folds
+Player1 has 15 seconds left to act
+Player1 folds
+Uncalled bet of 25 returned to Player2
+Player2 mucks
+Player2 wins the pot (50)
+*** SUMMARY ***
+Duration 29s
+Total pot 50 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 2: Player2 (big blind) collected (50)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 11 ************************
+
+FullTiltPoker Game #27123437156: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 25/50 - No Limit Hold'em - 13:24:27 ET - 2011/01/09
+
+Seat 1: Player1 (1,965)
+Seat 2: Player2 (1,510)
+Seat 3: Player3 (1,605)
+Seat 4: Player4 (1,440)
+Seat 5: Player5 (1,540)
+Seat 6: Player6 (3,040)
+Seat 8: Player8 (660)
+Seat 9: Player9 (1,740)
+Player2 posts the small blind of 25
+Player3 posts the big blind of 50
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [6c Jc]
+Player4 folds
+Player5 folds
+Player6 folds
+Player8 folds
+Player9 folds
+Player1 raises to 150
+Player2 folds
+Player3 folds
+Uncalled bet of 100 returned to Player1
+Player1 mucks
+Player1 wins the pot (125)
+*** SUMMARY ***
+Duration 28s
+Total pot 125 | Rake 0
+Seat 1: Player1 (button) collected (125)
+Seat 2: Player2 (small blind) folded before the Flop
+Seat 3: Player3 (big blind) folded before the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 12 ************************
+
+FullTiltPoker Game #27123451421: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 25/50 - No Limit Hold'em - 13:24:56 ET - 2011/01/09
+
+Seat 1: Player1 (2,040)
+Seat 2: Player2 (1,485)
+Seat 3: Player3 (1,555)
+Seat 4: Player4 (1,440)
+Seat 5: Player5 (1,540)
+Seat 6: Player6 (3,040)
+Seat 8: Player8 (660)
+Seat 9: Player9 (1,740)
+Player3 posts the small blind of 25
+Player4 posts the big blind of 50
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Player6 [6c Js]
+Player5 folds
+Player6 has 15 seconds left to act
+Player6 folds
+Player8 folds
+Player9 folds
+Player1 raises to 100
+Player2 folds
+Player3 has 15 seconds left to act
+Player3 folds
+Player4 folds
+Uncalled bet of 50 returned to Player1
+Player1 mucks
+Player1 wins the pot (125)
+*** SUMMARY ***
+Duration 47s
+Total pot 125 | Rake 0
+Seat 1: Player1 collected (125)
+Seat 2: Player2 (button) didn't bet (folded)
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 13 ************************
+
+FullTiltPoker Game #27123475692: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 25/50 - No Limit Hold'em - 13:25:44 ET - 2011/01/09
+
+Seat 1: Player1 (2,115)
+Seat 2: Player2 (1,485)
+Seat 3: Player3 (1,530)
+Seat 4: Player4 (1,390)
+Seat 5: Player5 (1,540)
+Seat 6: Player6 (3,040)
+Seat 8: Player8 (660)
+Seat 9: Player9 (1,740)
+Player4 posts the small blind of 25
+Player5 posts the big blind of 50
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player6 [9d 7c]
+Player6 has 15 seconds left to act
+Player6 folds
+Player8 folds
+Player9 folds
+Player1 folds
+Player2 calls 50
+Player3 calls 50
+Player4 calls 25
+Player5 checks
+*** FLOP *** [Qs Ac Js]
+Player4 checks
+Player5 checks
+Player2 checks
+Player3 bets 150
+Player4 folds
+Player5 folds
+Player2 folds
+Uncalled bet of 150 returned to Player3
+Player3 mucks
+Player3 wins the pot (200)
+*** SUMMARY ***
+Duration 52s
+Total pot 200 | Rake 0
+Board: [Qs Ac Js]
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 folded on the Flop
+Seat 3: Player3 (button) collected (200)
+Seat 4: Player4 (small blind) folded on the Flop
+Seat 5: Player5 (big blind) folded on the Flop
+Seat 6: Player6 didn't bet (folded)
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 14 ************************
+
+FullTiltPoker Game #27123502601: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 30/60 - No Limit Hold'em - 13:26:37 ET - 2011/01/09
+
+Seat 1: Player1 (2,115)
+Seat 2: Player2 (1,435)
+Seat 3: Player3 (1,680)
+Seat 4: Player4 (1,340)
+Seat 5: Player5 (1,490)
+Seat 6: Player6 (3,040)
+Seat 8: Player8 (660)
+Seat 9: Player9 (1,740)
+Player5 posts the small blind of 30
+Player6 posts the big blind of 60
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [2h Kd]
+Player8 folds
+Player9 folds
+Player1 has 15 seconds left to act
+Player1 raises to 180
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Uncalled bet of 120 returned to Player1
+Player1 mucks
+Player1 wins the pot (150)
+*** SUMMARY ***
+Duration 19s
+Total pot 150 | Rake 0
+Seat 1: Player1 collected (150)
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 5: Player5 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded before the Flop
+Seat 8: Player8 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 15 ************************
+
+FullTiltPoker Game #27123512575: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 30/60 - No Limit Hold'em - 13:26:57 ET - 2011/01/09
+
+Seat 1: Player1 (2,205)
+Seat 2: Player2 (1,435)
+Seat 3: Player3 (1,680)
+Seat 4: Player4 (1,340)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (2,980)
+Seat 8: Player8 (660)
+Seat 9: Player9 (1,740)
+Player6 posts the small blind of 30
+Player8 posts the big blind of 60
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player6 [5d 5s]
+Player9 folds
+Player1 folds
+Player2 folds
+Player3 folds
+Player4 raises to 120
+Player5 folds
+Player6 calls 90
+Player8 has 15 seconds left to act
+Player8 folds
+*** FLOP *** [Tc 3h Qs]
+Player6 checks
+Player4 checks
+*** TURN *** [Tc 3h Qs] [3c]
+Player6 bets 60
+Player4 calls 60
+*** RIVER *** [Tc 3h Qs 3c] [2d]
+Player6 bets 60
+Player4 folds
+Uncalled bet of 60 returned to Player6
+Player6 mucks
+Player6 wins the pot (420)
+*** SUMMARY ***
+Duration 50s
+Total pot 420 | Rake 0
+Board: [Tc 3h Qs 3c 2d]
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 folded on the River
+Seat 5: Player5 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) collected (420)
+Seat 8: Player8 (big blind) folded before the Flop
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 16 ************************
+
+FullTiltPoker Game #27123538487: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 30/60 - No Limit Hold'em - 13:27:47 ET - 2011/01/09
+
+Seat 1: Player1 (2,205)
+Seat 2: Player2 (1,435)
+Seat 3: Player3 (1,680)
+Seat 4: Player4 (1,160)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (3,220)
+Seat 8: Player8 (600)
+Seat 9: Player9 (1,740)
+Player8 posts the small blind of 30
+Player9 posts the big blind of 60
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [2s Tc]
+Player1 folds
+Player2 folds
+Player3 folds
+Player4 calls 60
+Player5 folds
+Player6 folds
+Player8 calls 30
+Player9 checks
+*** FLOP *** [3c Jd Jc]
+Player8 bets 60
+Player9 folds
+Player4 folds
+Uncalled bet of 60 returned to Player8
+Player8 mucks
+Player8 wins the pot (180)
+*** SUMMARY ***
+Duration 33s
+Total pot 180 | Rake 0
+Board: [3c Jd Jc]
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 folded on the Flop
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 (button) didn't bet (folded)
+Seat 8: Player8 (small blind) collected (180)
+Seat 9: Player9 (big blind) folded on the Flop
+
+
+******************** # 17 ************************
+
+FullTiltPoker Game #27123555529: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 30/60 - No Limit Hold'em - 13:28:21 ET - 2011/01/09
+
+Seat 1: Player1 (2,205)
+Seat 2: Player2 (1,435)
+Seat 3: Player3 (1,680)
+Seat 4: Player4 (1,100)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (3,220)
+Seat 8: Player8 (720)
+Seat 9: Player9 (1,680)
+Player9 posts the small blind of 30
+Player1 posts the big blind of 60
+The button is in seat #8
+*** HOLE CARDS ***
+Dealt to Player6 [Td Th]
+Player2 calls 60
+Player3 folds
+Player4 raises to 270
+Player5 folds
+Player6 raises to 480
+Player8 raises to 690
+Player9 folds
+Player1 folds
+Player2 folds
+Player4 calls 420
+Player6 raises to 3,220, and is all in
+Player8 calls 30, and is all in
+Player4 calls 410, and is all in
+Player6 shows [Td Th]
+Player8 shows [Qd Ah]
+Player4 shows [Qs Qh]
+Uncalled bet of 2,120 returned to Player6
+*** FLOP *** [Kc 2d 3c]
+*** TURN *** [Kc 2d 3c] [7s]
+*** RIVER *** [Kc 2d 3c 7s] [4c]
+Player6 shows a pair of Tens
+Player4 shows a pair of Queens
+Player4 wins the side pot (760) with a pair of Queens
+Player8 shows Ace King high
+Player4 wins the main pot (2,310) with a pair of Queens
+*** SUMMARY ***
+Duration 50s
+Total pot 3,070 Main pot 2,310. Side pot 760. | Rake 0
+Board: [Kc 2d 3c 7s 4c]
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 2: Player2 folded before the Flop
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 showed [Qs Qh] and won (3,070) with a pair of Queens
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 showed [Td Th] and lost with a pair of Tens
+Seat 8: Player8 (button) showed [Qd Ah] and lost with Ace King high
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 18 ************************
+
+FullTiltPoker Game #27123581395: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 30/60 - No Limit Hold'em - 13:29:12 ET - 2011/01/09
+
+Seat 1: Player1 (2,145)
+Seat 2: Player2 (1,375)
+Seat 3: Player3 (1,680)
+Seat 4: Player4 (3,070)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (2,120)
+Seat 9: Player9 (1,650)
+Player1 posts the small blind of 30
+Player2 posts the big blind of 60
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player6 [9d Ah]
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 calls 60
+Player9 raises to 240
+Player1 folds
+Player2 folds
+Player6 folds
+Uncalled bet of 180 returned to Player9
+Player9 mucks
+Player9 wins the pot (210)
+*** SUMMARY ***
+Duration 36s
+Total pot 210 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 2: Player2 (big blind) folded before the Flop
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 folded before the Flop
+Seat 9: Player9 (button) collected (210)
+
+
+******************** # 19 ************************
+
+FullTiltPoker Game #27123600332: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 40/80 - No Limit Hold'em - 13:29:48 ET - 2011/01/09
+
+Seat 1: Player1 (2,115)
+Seat 2: Player2 (1,315)
+Seat 3: Player3 (1,680)
+Seat 4: Player4 (3,070)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (2,060)
+Seat 9: Player9 (1,800)
+Player2 posts the small blind of 40
+Player3 posts the big blind of 80
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [9s Jd]
+Player4 folds
+Player5 folds
+Player6 folds
+Player9 raises to 240
+Player1 folds
+Player2 folds
+Player3 calls 160
+*** FLOP *** [4s Qh Kd]
+Player3 checks
+Player9 checks
+*** TURN *** [4s Qh Kd] [Js]
+Player3 checks
+Player9 checks
+*** RIVER *** [4s Qh Kd Js] [4h]
+Player3 checks
+Player9 checks
+*** SHOW DOWN ***
+Player9 shows [Ks As] two pair, Kings and Fours
+Player3 mucks
+Player9 wins the pot (520) with two pair, Kings and Fours
+*** SUMMARY ***
+Duration 41s
+Total pot 520 | Rake 0
+Board: [4s Qh Kd Js 4h]
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 2: Player2 (small blind) folded before the Flop
+Seat 3: Player3 (big blind) mucked [Ac 3c] - a pair of Fours
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 showed [Ks As] and won (520) with two pair, Kings and Fours
+
+
+******************** # 20 ************************
+
+FullTiltPoker Game #27123621951: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 40/80 - No Limit Hold'em - 13:30:30 ET - 2011/01/09
+
+Seat 1: Player1 (2,115)
+Seat 2: Player2 (1,275)
+Seat 3: Player3 (1,440)
+Seat 4: Player4 (3,070)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (2,060)
+Seat 9: Player9 (2,080)
+Player3 posts the small blind of 40
+Player4 posts the big blind of 80
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Player6 [Qs 5c]
+Player5 folds
+Player6 folds
+Player9 calls 80
+Player1 calls 80
+Player2 folds
+Player3 calls 40
+Player4 raises to 400
+Player9 folds
+Player1 folds
+Player3 folds
+Uncalled bet of 320 returned to Player4
+Player4 mucks
+Player4 wins the pot (320)
+*** SUMMARY ***
+Duration 30s
+Total pot 320 | Rake 0
+Seat 1: Player1 folded before the Flop
+Seat 2: Player2 (button) didn't bet (folded)
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) collected (320)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 folded before the Flop
+
+
+******************** # 21 ************************
+
+FullTiltPoker Game #27123637836: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 40/80 - No Limit Hold'em - 13:31:01 ET - 2011/01/09
+
+Seat 1: Player1 (2,035)
+Seat 2: Player2 (1,275)
+Seat 3: Player3 (1,360)
+Seat 4: Player4 (3,310)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (2,060)
+Seat 9: Player9 (2,000)
+Player4 posts the small blind of 40
+Player5 posts the big blind of 80
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player6 [Tc 6d]
+Player6 folds
+Player9 folds
+Player1 folds
+Player2 folds
+Player3 folds
+Player4 has 15 seconds left to act
+Player4 folds
+Uncalled bet of 40 returned to Player5
+Player5 mucks
+Player5 wins the pot (80)
+*** SUMMARY ***
+Duration 28s
+Total pot 80 | Rake 0
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 5: Player5 (big blind) collected (80)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 22 ************************
+
+FullTiltPoker Game #27123652918: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 40/80 - No Limit Hold'em - 13:31:30 ET - 2011/01/09
+
+Seat 1: Player1 (2,035)
+Seat 2: Player2 (1,275)
+Seat 3: Player3 (1,360)
+Seat 4: Player4 (3,270)
+Seat 5: Player5 (1,500)
+Seat 6: Player6 (2,060)
+Seat 9: Player9 (2,000)
+Player5 posts the small blind of 40
+Player6 posts the big blind of 80
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [2c Qc]
+Player9 calls 80
+Player1 folds
+Player2 folds
+Player3 folds
+Player4 has 15 seconds left to act
+Player4 calls 80
+Player5 folds
+Player6 checks
+*** FLOP *** [9c 9h 7h]
+Player6 has been disconnected
+Player6 has 15 seconds left to act
+Player6 has reconnected
+Player6 has 15 seconds left to act
+Player6 checks
+Player9 bets 160
+Player4 has 15 seconds left to act
+Player4 folds
+Player6 folds
+Uncalled bet of 160 returned to Player9
+Player9 mucks
+Player9 wins the pot (280)
+*** SUMMARY ***
+Duration 60s
+Total pot 280 | Rake 0
+Board: [9c 9h 7h]
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) folded on the Flop
+Seat 5: Player5 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded on the Flop
+Seat 9: Player9 collected (280)
+
+
+******************** # 23 ************************
+
+FullTiltPoker Game #27123684570: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 40/80 - No Limit Hold'em - 13:32:31 ET - 2011/01/09
+
+Seat 1: Player1 (2,035)
+Seat 2: Player2 (1,275)
+Seat 3: Player3 (1,360)
+Seat 4: Player4 (3,190)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (1,980)
+Seat 9: Player9 (2,200)
+Player6 posts the small blind of 40
+Player9 posts the big blind of 80
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player6 [2h Ah]
+Player1 folds
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 raises to 160
+Player9 calls 80
+*** FLOP *** [3s 8h Td]
+Player6 checks
+Player9 checks
+*** TURN *** [3s 8h Td] [Kc]
+Player6 checks
+Player9 checks
+*** RIVER *** [3s 8h Td Kc] [8s]
+Player6 checks
+Player9 bets 160
+Player6 folds
+Uncalled bet of 160 returned to Player9
+Player9 mucks
+Player9 wins the pot (320)
+*** SUMMARY ***
+Duration 43s
+Total pot 320 | Rake 0
+Board: [3s 8h Td Kc 8s]
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded on the River
+Seat 9: Player9 (big blind) collected (320)
+
+
+******************** # 24 ************************
+
+FullTiltPoker Game #27123706940: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 50/100 - No Limit Hold'em - 13:33:14 ET - 2011/01/09
+
+Seat 1: Player1 (2,035)
+Seat 2: Player2 (1,275)
+Seat 3: Player3 (1,360)
+Seat 4: Player4 (3,190)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (1,820)
+Seat 9: Player9 (2,360)
+Player9 posts the small blind of 50
+Player1 posts the big blind of 100
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [Kh Jc]
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Player9 folds
+Uncalled bet of 50 returned to Player1
+Player1 mucks
+Player1 wins the pot (100)
+*** SUMMARY ***
+Duration 14s
+Total pot 100 | Rake 0
+Seat 1: Player1 (big blind) collected (100)
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 25 ************************
+
+FullTiltPoker Game #27123714678: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 50/100 - No Limit Hold'em - 13:33:29 ET - 2011/01/09
+
+Seat 1: Player1 (2,085)
+Seat 2: Player2 (1,275)
+Seat 3: Player3 (1,360)
+Seat 4: Player4 (3,190)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (1,820)
+Seat 9: Player9 (2,310)
+Player1 posts the small blind of 50
+Player2 posts the big blind of 100
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player6 [Tc 4c]
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Player9 raises to 200
+Player1 has 15 seconds left to act
+Player1 calls 150
+Player2 calls 100
+*** FLOP *** [7s Kd 5d]
+Player1 checks
+Player2 bets 400
+Player9 folds
+Player1 folds
+Uncalled bet of 400 returned to Player2
+Player2 mucks
+Player2 wins the pot (600)
+*** SUMMARY ***
+Duration 46s
+Total pot 600 | Rake 0
+Board: [7s Kd 5d]
+Seat 1: Player1 (small blind) folded on the Flop
+Seat 2: Player2 (big blind) collected (600)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 (button) folded on the Flop
+
+
+******************** # 26 ************************
+
+FullTiltPoker Game #27123738768: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 50/100 - No Limit Hold'em - 13:34:16 ET - 2011/01/09
+
+Seat 1: Player1 (1,885)
+Seat 2: Player2 (1,675)
+Seat 3: Player3 (1,360)
+Seat 4: Player4 (3,190)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (1,820)
+Seat 9: Player9 (2,110)
+Player2 posts the small blind of 50
+Player3 posts the big blind of 100
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Jh Jd]
+Player4 folds
+Player5 folds
+Player6 raises to 200
+Player9 folds
+Player1 has 15 seconds left to act
+Player1 folds
+Player2 folds
+Player3 folds
+Uncalled bet of 100 returned to Player6
+Player6 mucks
+Player6 wins the pot (250)
+*** SUMMARY ***
+Duration 20s
+Total pot 250 | Rake 0
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 2: Player2 (small blind) folded before the Flop
+Seat 3: Player3 (big blind) folded before the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 collected (250)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 27 ************************
+
+FullTiltPoker Game #27123749298: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 50/100 - No Limit Hold'em - 13:34:36 ET - 2011/01/09
+
+Seat 1: Player1 (1,885)
+Seat 2: Player2 (1,625)
+Seat 3: Player3 (1,260)
+Seat 4: Player4 (3,190)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (1,970)
+Seat 9: Player9 (2,110)
+Player3 posts the small blind of 50
+Player4 posts the big blind of 100
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Player6 [2s 5c]
+Player5 folds
+Player6 folds
+Player9 folds
+Player1 folds
+Player2 raises to 250
+Player3 folds
+Player4 calls 150
+*** FLOP *** [Kc 6c Ad]
+Player4 checks
+Player2 checks
+*** TURN *** [Kc 6c Ad] [4s]
+Player4 checks
+Player2 bets 250
+Player4 calls 250
+*** RIVER *** [Kc 6c Ad 4s] [Tc]
+Player4 checks
+Player2 checks
+*** SHOW DOWN ***
+Player2 shows [Th Qc] a pair of Tens
+Player4 shows [Jd Jh] a pair of Jacks
+Player4 wins the pot (1,050) with a pair of Jacks
+*** SUMMARY ***
+Duration 44s
+Total pot 1,050 | Rake 0
+Board: [Kc 6c Ad 4s Tc]
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 (button) showed [Th Qc] and lost with a pair of Tens
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) showed [Jd Jh] and won (1,050) with a pair of Jacks
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 28 ************************
+
+FullTiltPoker Game #27123772024: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 50/100 - No Limit Hold'em - 13:35:20 ET - 2011/01/09
+
+Seat 1: Player1 (1,885)
+Seat 2: Player2 (1,125)
+Seat 3: Player3 (1,210)
+Seat 4: Player4 (3,740)
+Seat 5: Player5 (1,460)
+Seat 6: Player6 (1,970)
+Seat 9: Player9 (2,110)
+Player4 posts the small blind of 50
+Player5 posts the big blind of 100
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player6 [8h 7c]
+Player6 folds
+Player9 raises to 200
+Player1 folds
+Player2 raises to 1,125, and is all in
+Player3 folds
+Player4 folds
+Player5 folds
+Player9 calls 925
+Player2 shows [Jd Ac]
+Player9 shows [Ad Kh]
+*** FLOP *** [2d 2s 3h]
+*** TURN *** [2d 2s 3h] [5c]
+*** RIVER *** [2d 2s 3h 5c] [4d]
+Player2 shows a straight, Five high
+Player9 shows a straight, Five high
+Player9 ties for the pot (1,200) with a straight, Five high
+Player2 ties for the pot (1,200) with a straight, Five high
+*** SUMMARY ***
+Duration 33s
+Total pot 2,400 | Rake 0
+Board: [2d 2s 3h 5c 4d]
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 showed [Jd Ac] and won (1,200) with a straight, Five high
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 5: Player5 (big blind) folded before the Flop
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 showed [Ad Kh] and won (1,200) with a straight, Five high
+
+
+******************** # 29 ************************
+
+FullTiltPoker Game #27123789532: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 60/120 - No Limit Hold'em - 13:35:54 ET - 2011/01/09
+
+Seat 1: Player1 (1,885)
+Seat 2: Player2 (1,200)
+Seat 3: Player3 (1,210)
+Seat 4: Player4 (3,690)
+Seat 5: Player5 (1,360)
+Seat 6: Player6 (1,970)
+Seat 9: Player9 (2,185)
+Player5 posts the small blind of 60
+Player6 posts the big blind of 120
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [Ac 7c]
+Player9 folds
+Player1 folds
+Player2 folds
+Player3 raises to 420
+Player4 folds
+Player5 folds
+Player6 calls 300
+*** FLOP *** [6c 9s Ks]
+Player6 checks
+Player3 bets 790, and is all in
+Player6 folds
+Uncalled bet of 790 returned to Player3
+Player3 mucks
+Player3 wins the pot (900)
+*** SUMMARY ***
+Duration 25s
+Total pot 900 | Rake 0
+Board: [6c 9s Ks]
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 collected (900)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 5: Player5 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded on the Flop
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 30 ************************
+
+FullTiltPoker Game #27123802973: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 60/120 - No Limit Hold'em - 13:36:20 ET - 2011/01/09
+
+Seat 1: Player1 (1,885)
+Seat 2: Player2 (1,200)
+Seat 3: Player3 (1,690)
+Seat 4: Player4 (3,690)
+Seat 5: Player5 (1,300)
+Seat 6: Player6 (1,550)
+Seat 9: Player9 (2,185)
+Player6 posts the small blind of 60
+Player9 posts the big blind of 120
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player6 [8d 9h]
+Player1 folds
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Uncalled bet of 60 returned to Player9
+Player9 mucks
+Player9 wins the pot (120)
+*** SUMMARY ***
+Duration 16s
+Total pot 120 | Rake 0
+Seat 1: Player1 didn't bet (folded)
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) collected (120)
+
+
+******************** # 31 ************************
+
+FullTiltPoker Game #27123811780: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 60/120 - No Limit Hold'em - 13:36:37 ET - 2011/01/09
+
+Seat 1: Player1 (1,885)
+Seat 2: Player2 (1,200)
+Seat 3: Player3 (1,690)
+Seat 4: Player4 (3,690)
+Seat 5: Player5 (1,300)
+Seat 6: Player6 (1,490)
+Seat 9: Player9 (2,245)
+Player9 posts the small blind of 60
+Player1 posts the big blind of 120
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [Jc 5d]
+Player2 raises to 1,200, and is all in
+Player3 folds
+Player4 folds
+Player5 folds
+Player6 folds
+Player9 folds
+Player1 folds
+Uncalled bet of 1,080 returned to Player2
+Player2 mucks
+Player2 wins the pot (300)
+*** SUMMARY ***
+Duration 19s
+Total pot 300 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 2: Player2 collected (300)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 32 ************************
+
+FullTiltPoker Game #27123821842: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 60/120 - No Limit Hold'em - 13:36:56 ET - 2011/01/09
+
+Seat 1: Player1 (1,765)
+Seat 2: Player2 (1,380)
+Seat 3: Player3 (1,690)
+Seat 4: Player4 (3,690)
+Seat 5: Player5 (1,300)
+Seat 6: Player6 (1,490)
+Seat 9: Player9 (2,185)
+Player1 posts the small blind of 60
+Player2 posts the big blind of 120
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player6 [Tc Ad]
+Player3 calls 120
+Player4 folds
+Player5 folds
+Player6 calls 120
+Player9 folds
+Player1 folds
+Player2 checks
+*** FLOP *** [9d 6d 4h]
+Player2 checks
+Player3 checks
+Player6 checks
+*** TURN *** [9d 6d 4h] [3h]
+Player2 checks
+Player3 bets 420
+Player6 folds
+Player2 folds
+Uncalled bet of 420 returned to Player3
+Player3 mucks
+Player3 wins the pot (420)
+*** SUMMARY ***
+Duration 32s
+Total pot 420 | Rake 0
+Board: [9d 6d 4h 3h]
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 2: Player2 (big blind) folded on the Turn
+Seat 3: Player3 collected (420)
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 folded on the Turn
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 33 ************************
+
+FullTiltPoker Game #27123838701: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 60/120 - No Limit Hold'em - 13:37:29 ET - 2011/01/09
+
+Seat 1: Player1 (1,705)
+Seat 2: Player2 (1,260)
+Seat 3: Player3 (1,990)
+Seat 4: Player4 (3,690)
+Seat 5: Player5 (1,300)
+Seat 6: Player6 (1,370)
+Seat 9: Player9 (2,185)
+Player2 posts the small blind of 60
+Player3 posts the big blind of 120
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [7c 5s]
+Player4 folds
+Player5 folds
+Player6 folds
+Player9 folds
+Player1 has 15 seconds left to act
+Player1 raises to 1,705, and is all in
+Player2 calls 1,200, and is all in
+Player3 folds
+Player1 shows [7d 7h]
+Player2 shows [Qs Ac]
+Uncalled bet of 445 returned to Player1
+*** FLOP *** [Td 6c 5c]
+*** TURN *** [Td 6c 5c] [Ks]
+*** RIVER *** [Td 6c 5c Ks] [Tc]
+Player1 shows two pair, Tens and Sevens
+Player2 shows a pair of Tens
+Player1 wins the pot (2,640) with two pair, Tens and Sevens
+*** SUMMARY ***
+Duration 35s
+Total pot 2,640 | Rake 0
+Board: [Td 6c 5c Ks Tc]
+Seat 1: Player1 (button) showed [7d 7h] and won (2,640) with two pair, Tens and Sevens
+Seat 2: Player2 (small blind) showed [Qs Ac] and lost with a pair of Tens
+Seat 3: Player3 (big blind) folded before the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 5: Player5 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 34 ************************
+
+FullTiltPoker Game #27123856608: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 60/120 - No Limit Hold'em - 13:38:04 ET - 2011/01/09
+
+Seat 1: Player1 (3,085)
+Seat 3: Player3 (1,870)
+Seat 4: Player4 (3,690)
+Seat 5: Player5 (1,300)
+Seat 6: Player6 (1,370)
+Seat 9: Player9 (2,185)
+Player3 posts the small blind of 60
+Player4 posts the big blind of 120
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Player6 [Qd 9c]
+Player5 raises to 1,300, and is all in
+Player6 folds
+Player9 folds
+Player1 folds
+Player3 folds
+Player4 has 15 seconds left to act
+Player4 folds
+Uncalled bet of 1,180 returned to Player5
+Player5 mucks
+Player5 wins the pot (300)
+*** SUMMARY ***
+Duration 22s
+Total pot 300 | Rake 0
+Seat 1: Player1 didn't bet (folded)
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 5: Player5 collected (300)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 35 ************************
+
+FullTiltPoker Game #27123868274: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 60/120 - No Limit Hold'em - 13:38:27 ET - 2011/01/09
+
+Seat 1: Player1 (3,085)
+Seat 3: Player3 (1,810)
+Seat 4: Player4 (3,570)
+Seat 5: Player5 (1,480)
+Seat 6: Player6 (1,370)
+Seat 9: Player9 (2,185)
+Player4 posts the small blind of 60
+Player5 posts the big blind of 120
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player6 [Ac 5c]
+Player6 folds
+Player9 folds
+Player1 calls 120
+Player3 folds
+Player4 folds
+Player5 checks
+*** FLOP *** [8c Qc 9s]
+Player5 bets 240
+Player1 calls 240
+*** TURN *** [8c Qc 9s] [Ts]
+Player5 bets 1,120, and is all in
+Player1 calls 1,120
+Player5 shows [Kc Qs]
+Player1 shows [7c 6c]
+*** RIVER *** [8c Qc 9s Ts] [Kd]
+Player5 shows two pair, Kings and Queens
+Player1 shows a straight, Ten high
+Player1 wins the pot (3,020) with a straight, Ten high
+*** SUMMARY ***
+Duration 41s
+Total pot 3,020 | Rake 0
+Board: [8c Qc 9s Ts Kd]
+Seat 1: Player1 showed [7c 6c] and won (3,020) with a straight, Ten high
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 5: Player5 (big blind) showed [Kc Qs] and lost with two pair, Kings and Queens
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 36 ************************
+
+FullTiltPoker Game #27123889734: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 80/160 - No Limit Hold'em - 13:39:09 ET - 2011/01/09
+
+Seat 1: Player1 (4,625)
+Seat 3: Player3 (1,810)
+Seat 4: Player4 (3,510)
+Seat 6: Player6 (1,370)
+Seat 9: Player9 (2,185)
+Player6 posts the big blind of 160
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [3s 7d]
+Player9 calls 160
+Player1 folds
+Player3 folds
+Player4 folds
+Player6 checks
+*** FLOP *** [2c 4s Jc]
+Player6 checks
+Player9 checks
+*** TURN *** [2c 4s Jc] [Jh]
+Player6 checks
+Player9 checks
+*** RIVER *** [2c 4s Jc Jh] [8c]
+Player6 checks
+Player9 bets 320
+Player6 folds
+Uncalled bet of 320 returned to Player9
+Player9 mucks
+Player9 wins the pot (320)
+*** SUMMARY ***
+Duration 31s
+Total pot 320 | Rake 0
+Board: [2c 4s Jc Jh 8c]
+Seat 1: Player1 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (big blind) folded on the River
+Seat 9: Player9 collected (320)
+
+
+******************** # 37 ************************
+
+FullTiltPoker Game #27123905692: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 80/160 - No Limit Hold'em - 13:39:40 ET - 2011/01/09
+
+Seat 1: Player1 (4,625)
+Seat 3: Player3 (1,810)
+Seat 4: Player4 (3,510)
+Seat 6: Player6 (1,210)
+Seat 9: Player9 (2,345)
+Player6 posts the small blind of 80
+Player9 posts the big blind of 160
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Player6 [Js 7c]
+Player1 folds
+Player3 folds
+Player4 folds
+Player6 folds
+Uncalled bet of 80 returned to Player9
+Player9 mucks
+Player9 wins the pot (160)
+*** SUMMARY ***
+Duration 17s
+Total pot 160 | Rake 0
+Seat 1: Player1 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) collected (160)
+
+
+******************** # 38 ************************
+
+FullTiltPoker Game #27123914683: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 80/160 - No Limit Hold'em - 13:39:58 ET - 2011/01/09
+
+Seat 1: Player1 (4,625)
+Seat 3: Player3 (1,810)
+Seat 4: Player4 (3,510)
+Seat 6: Player6 (1,130)
+Seat 9: Player9 (2,425)
+Player9 posts the small blind of 80
+Player1 posts the big blind of 160
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [Ks Qd]
+Player3 folds
+Player4 folds
+Player6 raises to 320
+Player9 folds
+Player1 has 15 seconds left to act
+Player1 calls 160
+*** FLOP *** [Qh 9s 7d]
+Player1 checks
+Player6 bets 320
+Player1 raises to 4,305, and is all in
+Player6 calls 490, and is all in
+Player1 shows [8h Th]
+Player6 shows [Ks Qd]
+Uncalled bet of 3,495 returned to Player1
+*** TURN *** [Qh 9s 7d] [5h]
+*** RIVER *** [Qh 9s 7d 5h] [2d]
+Player1 shows Queen Ten high
+Player6 shows a pair of Queens
+Player6 wins the pot (2,340) with a pair of Queens
+*** SUMMARY ***
+Duration 52s
+Total pot 2,340 | Rake 0
+Board: [Qh 9s 7d 5h 2d]
+Seat 1: Player1 (big blind) showed [8h Th] and lost with Queen Ten high
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 6: Player6 (button) showed [Ks Qd] and won (2,340) with a pair of Queens
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 39 ************************
+
+FullTiltPoker Game #27123941564: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 80/160 - No Limit Hold'em - 13:40:51 ET - 2011/01/09
+
+Seat 1: Player1 (3,495)
+Seat 3: Player3 (1,810)
+Seat 4: Player4 (3,510)
+Seat 6: Player6 (2,340)
+Seat 9: Player9 (2,345)
+Player1 posts the small blind of 80
+Player3 posts the big blind of 160
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player6 [Kc Jh]
+Player4 folds
+Player6 folds
+Player9 folds
+Player1 folds
+Uncalled bet of 80 returned to Player3
+Player3 mucks
+Player3 wins the pot (160)
+*** SUMMARY ***
+Duration 12s
+Total pot 160 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 3: Player3 (big blind) collected (160)
+Seat 4: Player4 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 40 ************************
+
+FullTiltPoker Game #27123947750: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 80/160 - No Limit Hold'em - 13:41:04 ET - 2011/01/09
+
+Seat 1: Player1 (3,415)
+Seat 3: Player3 (1,890)
+Seat 4: Player4 (3,510)
+Seat 6: Player6 (2,340)
+Seat 9: Player9 (2,345)
+Player3 posts the small blind of 80
+Player4 posts the big blind of 160
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [5d Kd]
+Player6 has 15 seconds left to act
+Player6 folds
+Player9 raises to 320
+Player1 folds
+Player3 folds
+Player4 folds
+Uncalled bet of 160 returned to Player9
+Player9 mucks
+Player9 wins the pot (400)
+*** SUMMARY ***
+Duration 27s
+Total pot 400 | Rake 0
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 collected (400)
+
+
+******************** # 41 ************************
+
+FullTiltPoker Game #27123961999: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 80/160 - No Limit Hold'em - 13:41:32 ET - 2011/01/09
+
+Seat 1: Player1 (3,415)
+Seat 3: Player3 (1,810)
+Seat 4: Player4 (3,350)
+Seat 6: Player6 (2,340)
+Seat 9: Player9 (2,585)
+Player4 posts the small blind of 80
+Player6 posts the big blind of 160
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player6 [Jc 6d]
+Player9 folds
+Player1 folds
+Player3 raises to 480
+Player4 folds
+Player6 folds
+Uncalled bet of 320 returned to Player3
+Player3 mucks
+Player3 wins the pot (400)
+*** SUMMARY ***
+Duration 19s
+Total pot 400 | Rake 0
+Seat 1: Player1 didn't bet (folded)
+Seat 3: Player3 (button) collected (400)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded before the Flop
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 42 ************************
+
+FullTiltPoker Game #27123972020: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 100/200 - No Limit Hold'em - 13:41:51 ET - 2011/01/09
+
+Seat 1: Player1 (3,415)
+Seat 3: Player3 (2,050)
+Seat 4: Player4 (3,270)
+Seat 6: Player6 (2,180)
+Seat 9: Player9 (2,585)
+Player6 posts the small blind of 100
+Player9 posts the big blind of 200
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [4c 3d]
+Player1 has 15 seconds left to act
+Player1 raises to 400
+Player3 folds
+Player4 folds
+Player6 folds
+Player9 folds
+Uncalled bet of 200 returned to Player1
+Player1 mucks
+Player1 wins the pot (500)
+*** SUMMARY ***
+Duration 33s
+Total pot 500 | Rake 0
+Seat 1: Player1 collected (500)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) folded before the Flop
+
+
+******************** # 43 ************************
+
+FullTiltPoker Game #27123989074: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 100/200 - No Limit Hold'em - 13:42:25 ET - 2011/01/09
+
+Seat 1: Player1 (3,715)
+Seat 3: Player3 (2,050)
+Seat 4: Player4 (3,270)
+Seat 6: Player6 (2,080)
+Seat 9: Player9 (2,385)
+Player9 posts the small blind of 100
+Player1 posts the big blind of 200
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [9h As]
+Player3 folds
+Player4 folds
+Player6 raises to 400
+Player9 folds
+Player1 calls 200
+*** FLOP *** [5s Td Ac]
+Player1 checks
+Player6 bets 400
+Player1 calls 400
+*** TURN *** [5s Td Ac] [Tc]
+Player1 bets 2,915, and is all in
+Player6 folds
+Uncalled bet of 2,915 returned to Player1
+Player1 mucks
+Player1 wins the pot (1,700)
+*** SUMMARY ***
+Duration 34s
+Total pot 1,700 | Rake 0
+Board: [5s Td Ac Tc]
+Seat 1: Player1 (big blind) collected (1,700)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 6: Player6 (button) folded on the Turn
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 44 ************************
+
+FullTiltPoker Game #27124006548: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 100/200 - No Limit Hold'em - 13:42:59 ET - 2011/01/09
+
+Seat 1: Player1 (4,615)
+Seat 3: Player3 (2,050)
+Seat 4: Player4 (3,270)
+Seat 6: Player6 (1,280)
+Seat 9: Player9 (2,285)
+Player1 posts the small blind of 100
+Player3 posts the big blind of 200
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player6 [8s 6c]
+Player4 folds
+Player6 folds
+Player9 folds
+Player1 calls 100
+Player3 checks
+*** FLOP *** [Th 3h 9d]
+Player1 checks
+Player3 checks
+*** TURN *** [Th 3h 9d] [Qd]
+Player1 checks
+Player3 checks
+*** RIVER *** [Th 3h 9d Qd] [5s]
+Player1 checks
+Player3 checks
+*** SHOW DOWN ***
+Player1 shows [7c Kc] King Queen high
+Player3 shows [As Ks] Ace King high
+Player3 wins the pot (400) with Ace King high
+*** SUMMARY ***
+Duration 30s
+Total pot 400 | Rake 0
+Board: [Th 3h 9d Qd 5s]
+Seat 1: Player1 (small blind) showed [7c Kc] and lost with King Queen high
+Seat 3: Player3 (big blind) showed [As Ks] and won (400) with Ace King high
+Seat 4: Player4 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 45 ************************
+
+FullTiltPoker Game #27124022892: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 100/200 - No Limit Hold'em - 13:43:30 ET - 2011/01/09
+
+Seat 1: Player1 (4,415)
+Seat 3: Player3 (2,250)
+Seat 4: Player4 (3,270)
+Seat 6: Player6 (1,280)
+Seat 9: Player9 (2,285)
+Player3 posts the small blind of 100
+Player4 posts the big blind of 200
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Jc 9h]
+Player6 folds
+Player9 folds
+Player1 calls 200
+Player3 folds
+Player4 checks
+*** FLOP *** [Tc 7d Kd]
+Player4 checks
+Player1 bets 200
+Player4 folds
+Uncalled bet of 200 returned to Player1
+Player1 mucks
+Player1 wins the pot (500)
+*** SUMMARY ***
+Duration 25s
+Total pot 500 | Rake 0
+Board: [Tc 7d Kd]
+Seat 1: Player1 (button) collected (500)
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded on the Flop
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 46 ************************
+
+FullTiltPoker Game #27124035802: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 100/200 - No Limit Hold'em - 13:43:55 ET - 2011/01/09
+
+Seat 1: Player1 (4,715)
+Seat 3: Player3 (2,150)
+Seat 4: Player4 (3,070)
+Seat 6: Player6 (1,280)
+Seat 9: Player9 (2,285)
+Player4 posts the small blind of 100
+Player6 posts the big blind of 200
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player6 [Ks 8d]
+Player9 folds
+Player1 folds
+Player3 folds
+Player4 raises to 400
+Player6 folds
+Uncalled bet of 200 returned to Player4
+Player4 mucks
+Player4 wins the pot (400)
+*** SUMMARY ***
+Duration 11s
+Total pot 400 | Rake 0
+Seat 1: Player1 didn't bet (folded)
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) collected (400)
+Seat 6: Player6 (big blind) folded before the Flop
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 47 ************************
+
+FullTiltPoker Game #27124041926: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 100/200 - No Limit Hold'em - 13:44:07 ET - 2011/01/09
+
+Seat 1: Player1 (4,715)
+Seat 3: Player3 (2,150)
+Seat 4: Player4 (3,270)
+Seat 6: Player6 (1,080)
+Seat 9: Player9 (2,285)
+Player6 posts the small blind of 100
+Player9 posts the big blind of 200
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [2d Jh]
+Player1 has 15 seconds left to act
+Player1 folds
+Player3 folds
+Player4 folds
+Player6 folds
+Uncalled bet of 100 returned to Player9
+Player9 mucks
+Player9 wins the pot (200)
+*** SUMMARY ***
+Duration 17s
+Total pot 200 | Rake 0
+Seat 1: Player1 didn't bet (folded)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) collected (200)
+
+
+******************** # 48 ************************
+
+FullTiltPoker Game #27124050935: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 100/200 - No Limit Hold'em - 13:44:25 ET - 2011/01/09
+
+Seat 1: Player1 (4,715)
+Seat 3: Player3 (2,150)
+Seat 4: Player4 (3,270)
+Seat 6: Player6 (980)
+Seat 9: Player9 (2,385)
+Player9 posts the small blind of 100
+Player1 posts the big blind of 200
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [Jh 4c]
+Player3 calls 200
+Player4 folds
+Player6 folds
+Player9 calls 100
+Player1 checks
+*** FLOP *** [6s Ac Qc]
+Player9 checks
+Player1 checks
+Player3 bets 400
+Player9 folds
+Player1 calls 400
+*** TURN *** [6s Ac Qc] [8s]
+Player1 checks
+Player3 checks
+*** RIVER *** [6s Ac Qc 8s] [3d]
+Player1 bets 200
+Player3 calls 200
+*** SHOW DOWN ***
+Player1 shows [3c Ah] two pair, Aces and Threes
+Player3 mucks
+Player1 wins the pot (1,800) with two pair, Aces and Threes
+*** SUMMARY ***
+Duration 39s
+Total pot 1,800 | Rake 0
+Board: [6s Ac Qc 8s 3d]
+Seat 1: Player1 (big blind) showed [3c Ah] and won (1,800) with two pair, Aces and Threes
+Seat 3: Player3 mucked [Kc Qh] - a pair of Queens
+Seat 4: Player4 didn't bet (folded)
+Seat 6: Player6 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) folded on the Flop
+
+
+******************** # 49 ************************
+
+FullTiltPoker Game #27124071519: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 120/240 - No Limit Hold'em - 13:45:05 ET - 2011/01/09
+
+Seat 1: Player1 (5,715)
+Seat 3: Player3 (1,350)
+Seat 4: Player4 (3,270)
+Seat 6: Player6 (980)
+Seat 9: Player9 (2,185)
+Player1 posts the small blind of 120
+Player3 posts the big blind of 240
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player6 [6d Kd]
+Player4 folds
+Player6 folds
+Player9 folds
+Player1 folds
+Uncalled bet of 120 returned to Player3
+Player3 mucks
+Player3 wins the pot (240)
+*** SUMMARY ***
+Duration 14s
+Total pot 240 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 3: Player3 (big blind) collected (240)
+Seat 4: Player4 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 50 ************************
+
+FullTiltPoker Game #27124079011: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 120/240 - No Limit Hold'em - 13:45:20 ET - 2011/01/09
+
+Seat 1: Player1 (5,595)
+Seat 3: Player3 (1,470)
+Seat 4: Player4 (3,270)
+Seat 6: Player6 (980)
+Seat 9: Player9 (2,185)
+Player3 posts the small blind of 120
+Player4 posts the big blind of 240
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Ks 4d]
+Player6 folds
+Player9 folds
+Player1 calls 240
+Player3 calls 120
+Player4 checks
+*** FLOP *** [9c Tc 5d]
+Player3 checks
+Player4 checks
+Player1 checks
+*** TURN *** [9c Tc 5d] [Ac]
+Player3 has 15 seconds left to act
+Player3 bets 240
+Player4 has 15 seconds left to act
+Player4 folds
+Player1 folds
+Uncalled bet of 240 returned to Player3
+Player3 mucks
+Player3 wins the pot (720)
+*** SUMMARY ***
+Duration 46s
+Total pot 720 | Rake 0
+Board: [9c Tc 5d Ac]
+Seat 1: Player1 (button) folded on the Turn
+Seat 3: Player3 (small blind) collected (720)
+Seat 4: Player4 (big blind) folded on the Turn
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 51 ************************
+
+FullTiltPoker Game #27124103245: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 120/240 - No Limit Hold'em - 13:46:07 ET - 2011/01/09
+
+Seat 1: Player1 (5,355)
+Seat 3: Player3 (1,950)
+Seat 4: Player4 (3,030)
+Seat 6: Player6 (980)
+Seat 9: Player9 (2,185)
+Player4 posts the small blind of 120
+Player6 posts the big blind of 240
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player6 [Jh Jd]
+Player9 folds
+Player1 folds
+Player3 calls 240
+Player4 folds
+Player6 raises to 980, and is all in
+Player3 has 15 seconds left to act
+Player3 folds
+Uncalled bet of 740 returned to Player6
+Player6 mucks
+Player6 wins the pot (600)
+*** SUMMARY ***
+Duration 24s
+Total pot 600 | Rake 0
+Seat 1: Player1 didn't bet (folded)
+Seat 3: Player3 (button) folded before the Flop
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (600)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 52 ************************
+
+FullTiltPoker Game #27124115799: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 120/240 - No Limit Hold'em - 13:46:32 ET - 2011/01/09
+
+Seat 1: Player1 (5,355)
+Seat 3: Player3 (1,710)
+Seat 4: Player4 (2,910)
+Seat 6: Player6 (1,340)
+Seat 9: Player9 (2,185)
+Player6 posts the small blind of 120
+Player9 posts the big blind of 240
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [Jd 3h]
+Player1 has 15 seconds left to act
+Player1 calls 240
+Player3 folds
+Player4 folds
+Player6 folds
+Player9 checks
+*** FLOP *** [2d Td 9d]
+Player9 checks
+Player1 checks
+*** TURN *** [2d Td 9d] [4d]
+Player9 checks
+Player1 bets 240
+Player9 folds
+Uncalled bet of 240 returned to Player1
+Player1 mucks
+Player1 wins the pot (600)
+*** SUMMARY ***
+Duration 35s
+Total pot 600 | Rake 0
+Board: [2d Td 9d 4d]
+Seat 1: Player1 collected (600)
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+Seat 9: Player9 (big blind) folded on the Turn
+
+
+******************** # 53 ************************
+
+FullTiltPoker Game #27124134180: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 120/240 - No Limit Hold'em - 13:47:08 ET - 2011/01/09
+
+Seat 1: Player1 (5,715)
+Seat 3: Player3 (1,710)
+Seat 4: Player4 (2,910)
+Seat 6: Player6 (1,220)
+Seat 9: Player9 (1,945)
+Player9 posts the small blind of 120
+Player1 posts the big blind of 240
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [7h 9c]
+Player3 folds
+Player4 folds
+Player6 folds
+Player9 raises to 480
+Player1 folds
+Uncalled bet of 240 returned to Player9
+Player9 mucks
+Player9 wins the pot (480)
+*** SUMMARY ***
+Duration 13s
+Total pot 480 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 6: Player6 (button) didn't bet (folded)
+Seat 9: Player9 (small blind) collected (480)
+
+
+******************** # 54 ************************
+
+FullTiltPoker Game #27124141209: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 120/240 - No Limit Hold'em - 13:47:21 ET - 2011/01/09
+
+Seat 1: Player1 (5,475)
+Seat 3: Player3 (1,710)
+Seat 4: Player4 (2,910)
+Seat 6: Player6 (1,220)
+Seat 9: Player9 (2,185)
+Player1 posts the small blind of 120
+Player3 posts the big blind of 240
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player6 [4c 6s]
+Player4 folds
+Player6 folds
+Player9 folds
+Player1 folds
+Uncalled bet of 120 returned to Player3
+Player3 mucks
+Player3 wins the pot (240)
+*** SUMMARY ***
+Duration 10s
+Total pot 240 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 3: Player3 (big blind) collected (240)
+Seat 4: Player4 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 (button) didn't bet (folded)
+
+
+******************** # 55 ************************
+
+FullTiltPoker Game #27124146517: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 120/240 - No Limit Hold'em - 13:47:32 ET - 2011/01/09
+
+Seat 1: Player1 (5,355)
+Seat 3: Player3 (1,830)
+Seat 4: Player4 (2,910)
+Seat 6: Player6 (1,220)
+Seat 9: Player9 (2,185)
+Player3 posts the small blind of 120
+Player4 posts the big blind of 240
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [2s 5d]
+Player6 folds
+Player9 folds
+Player1 has 15 seconds left to act
+Player1 folds
+Player3 calls 120
+Player4 checks
+*** FLOP *** [7h 8d 4s]
+Player3 bets 240
+Player4 calls 240
+*** TURN *** [7h 8d 4s] [As]
+Player3 checks
+Player4 checks
+*** RIVER *** [7h 8d 4s As] [Qh]
+Player3 checks
+Player4 checks
+*** SHOW DOWN ***
+Player3 shows [4c 7c] two pair, Sevens and Fours
+Player4 mucks
+Player3 wins the pot (960) with two pair, Sevens and Fours
+*** SUMMARY ***
+Duration 43s
+Total pot 960 | Rake 0
+Board: [7h 8d 4s As Qh]
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 3: Player3 (small blind) showed [4c 7c] and won (960) with two pair, Sevens and Fours
+Seat 4: Player4 (big blind) mucked [Kh 8s] - a pair of Eights
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 56 ************************
+
+FullTiltPoker Game #27124168966: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 150/300 - No Limit Hold'em - 13:48:15 ET - 2011/01/09
+
+Seat 1: Player1 (5,355)
+Seat 3: Player3 (2,310)
+Seat 4: Player4 (2,430)
+Seat 6: Player6 (1,220)
+Seat 9: Player9 (2,185)
+Player4 posts the small blind of 150
+Player6 posts the big blind of 300
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player6 [5c Th]
+Player9 folds
+Player1 has 15 seconds left to act
+Player1 raises to 600
+Player3 folds
+Player4 folds
+Player6 folds
+Uncalled bet of 300 returned to Player1
+Player1 mucks
+Player1 wins the pot (750)
+*** SUMMARY ***
+Duration 21s
+Total pot 750 | Rake 0
+Seat 1: Player1 collected (750)
+Seat 3: Player3 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded before the Flop
+Seat 9: Player9 didn't bet (folded)
+
+
+******************** # 57 ************************
+
+FullTiltPoker Game #27124179950: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 150/300 - No Limit Hold'em - 13:48:36 ET - 2011/01/09
+
+Seat 1: Player1 (5,805)
+Seat 3: Player3 (2,310)
+Seat 4: Player4 (2,280)
+Seat 6: Player6 (920)
+Seat 9: Player9 (2,185)
+Player6 posts the small blind of 150
+Player9 posts the big blind of 300
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [Ac 3c]
+Player1 raises to 600
+Player3 has 15 seconds left to act
+Player3 folds
+Player4 folds
+Player6 raises to 920, and is all in
+Player9 folds
+Player1 calls 320
+Player6 shows [Ac 3c]
+Player1 shows [4c 2d]
+*** FLOP *** [Tc Qh 7c]
+*** TURN *** [Tc Qh 7c] [As]
+*** RIVER *** [Tc Qh 7c As] [6s]
+Player6 shows a pair of Aces
+Player1 shows Ace Queen high
+Player6 wins the pot (2,140) with a pair of Aces
+*** SUMMARY ***
+Duration 40s
+Total pot 2,140 | Rake 0
+Board: [Tc Qh 7c As 6s]
+Seat 1: Player1 showed [4c 2d] and lost with Ace Queen high
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) showed [Ac 3c] and won (2,140) with a pair of Aces
+Seat 9: Player9 (big blind) folded before the Flop
+
+
+******************** # 58 ************************
+
+FullTiltPoker Game #27124201522: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 150/300 - No Limit Hold'em - 13:49:17 ET - 2011/01/09
+
+Seat 1: Player1 (4,885)
+Seat 3: Player3 (2,310)
+Seat 4: Player4 (2,280)
+Seat 6: Player6 (2,140)
+Seat 9: Player9 (1,885)
+Player9 posts the small blind of 150
+Player1 posts the big blind of 300
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [Ac 5c]
+Player3 folds
+Player4 folds
+Player6 calls 300
+Player9 folds
+Player1 checks
+*** FLOP *** [Th 3d As]
+Player1 checks
+Player6 bets 300
+Player1 folds
+Uncalled bet of 300 returned to Player6
+Player6 mucks
+Player6 wins the pot (750)
+*** SUMMARY ***
+Duration 28s
+Total pot 750 | Rake 0
+Board: [Th 3d As]
+Seat 1: Player1 (big blind) folded on the Flop
+Seat 3: Player3 didn't bet (folded)
+Seat 4: Player4 didn't bet (folded)
+Seat 6: Player6 (button) collected (750)
+Seat 9: Player9 (small blind) folded before the Flop
+
+
+******************** # 59 ************************
+
+FullTiltPoker Game #27124216444: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 150/300 - No Limit Hold'em - 13:49:46 ET - 2011/01/09
+
+Seat 1: Player1 (4,585)
+Seat 3: Player3 (2,310)
+Seat 4: Player4 (2,280)
+Seat 6: Player6 (2,590)
+Seat 9: Player9 (1,735)
+Player1 posts the small blind of 150
+Player3 posts the big blind of 300
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Player6 [4s 7d]
+Player4 folds
+Player6 folds
+Player9 raises to 600
+Player1 raises to 4,585, and is all in
+Player3 folds
+Player9 calls 1,135, and is all in
+Player1 shows [9d 9c]
+Player9 shows [As Qd]
+Uncalled bet of 2,850 returned to Player1
+*** FLOP *** [8c Qc 4c]
+*** TURN *** [8c Qc 4c] [7h]
+*** RIVER *** [8c Qc 4c 7h] [Ac]
+Player1 shows a flush, Ace high
+Player9 shows two pair, Aces and Queens
+Player1 wins the pot (3,770) with a flush, Ace high
+*** SUMMARY ***
+Duration 30s
+Total pot 3,770 | Rake 0
+Board: [8c Qc 4c 7h Ac]
+Seat 1: Player1 (small blind) showed [9d 9c] and won (3,770) with a flush, Ace high
+Seat 3: Player3 (big blind) folded before the Flop
+Seat 4: Player4 didn't bet (folded)
+Seat 6: Player6 didn't bet (folded)
+Seat 9: Player9 (button) showed [As Qd] and lost with two pair, Aces and Queens
+
+
+******************** # 60 ************************
+
+FullTiltPoker Game #27124232592: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 150/300 - No Limit Hold'em - 13:50:17 ET - 2011/01/09
+
+Seat 1: Player1 (6,620)
+Seat 3: Player3 (2,010)
+Seat 4: Player4 (2,280)
+Seat 6: Player6 (2,590)
+Player3 posts the small blind of 150
+Player4 posts the big blind of 300
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Jd Ah]
+Player6 raises to 600
+Player1 folds
+Player3 folds
+Player4 folds
+Uncalled bet of 300 returned to Player6
+Player6 mucks
+Player6 wins the pot (750)
+*** SUMMARY ***
+Duration 14s
+Total pot 750 | Rake 0
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 3: Player3 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 6: Player6 collected (750)
+
+
+******************** # 61 ************************
+
+FullTiltPoker Game #27124240318: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 150/300 - No Limit Hold'em - 13:50:32 ET - 2011/01/09
+
+Seat 1: Player1 (6,620)
+Seat 3: Player3 (1,860)
+Seat 4: Player4 (1,980)
+Seat 6: Player6 (3,040)
+Player4 posts the small blind of 150
+Player6 posts the big blind of 300
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Player6 [Ts As]
+Player1 folds
+Player3 raises to 1,860, and is all in
+Player4 folds
+Player6 calls 1,560
+Player3 shows [5h Ah]
+Player6 shows [Ts As]
+*** FLOP *** [Th Td 8h]
+*** TURN *** [Th Td 8h] [2c]
+*** RIVER *** [Th Td 8h 2c] [4c]
+Player3 shows a pair of Tens
+Player6 shows three of a kind, Tens
+Player6 wins the pot (3,870) with three of a kind, Tens
+*** SUMMARY ***
+Duration 24s
+Total pot 3,870 | Rake 0
+Board: [Th Td 8h 2c 4c]
+Seat 1: Player1 didn't bet (folded)
+Seat 3: Player3 (button) showed [5h Ah] and lost with a pair of Tens
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) showed [Ts As] and won (3,870) with three of a kind, Tens
+
+
+******************** # 62 ************************
+
+FullTiltPoker Game #27124253026: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 200/400 - No Limit Hold'em - 13:50:56 ET - 2011/01/09
+
+Seat 1: Player1 (6,620)
+Seat 4: Player4 (1,830)
+Seat 6: Player6 (5,050)
+Player6 posts the small blind of 200
+Player1 posts the big blind of 400
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [4h Jh]
+Player4 folds
+Player6 folds
+Uncalled bet of 200 returned to Player1
+Player1 mucks
+Player1 wins the pot (400)
+*** SUMMARY ***
+Duration 6s
+Total pot 400 | Rake 0
+Seat 1: Player1 (big blind) collected (400)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 63 ************************
+
+FullTiltPoker Game #27124256990: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 200/400 - No Limit Hold'em - 13:51:03 ET - 2011/01/09
+
+Seat 1: Player1 (6,820)
+Seat 4: Player4 (1,830)
+Seat 6: Player6 (4,850)
+Player1 posts the small blind of 200
+Player4 posts the big blind of 400
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [2d Qh]
+Player6 folds
+Player1 folds
+Uncalled bet of 200 returned to Player4
+Player4 mucks
+Player4 wins the pot (400)
+*** SUMMARY ***
+Duration 10s
+Total pot 400 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) collected (400)
+Seat 6: Player6 (button) didn't bet (folded)
+
+
+******************** # 64 ************************
+
+FullTiltPoker Game #27124262331: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 200/400 - No Limit Hold'em - 13:51:14 ET - 2011/01/09
+
+Seat 1: Player1 (6,620)
+Seat 4: Player4 (2,030)
+Seat 6: Player6 (4,850)
+Player4 posts the small blind of 200
+Player6 posts the big blind of 400
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [9h Ks]
+Player1 folds
+Player4 folds
+Uncalled bet of 200 returned to Player6
+Player6 mucks
+Player6 wins the pot (400)
+*** SUMMARY ***
+Duration 7s
+Total pot 400 | Rake 0
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (400)
+
+
+******************** # 65 ************************
+
+FullTiltPoker Game #27124266063: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 200/400 - No Limit Hold'em - 13:51:21 ET - 2011/01/09
+
+Seat 1: Player1 (6,620)
+Seat 4: Player4 (1,830)
+Seat 6: Player6 (5,050)
+Player6 posts the small blind of 200
+Player1 posts the big blind of 400
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [Ah 4h]
+Player4 folds
+Player6 calls 200
+Player1 checks
+*** FLOP *** [Qc 7c 9d]
+Player6 checks
+Player1 checks
+*** TURN *** [Qc 7c 9d] [3h]
+Player6 checks
+Player1 checks
+*** RIVER *** [Qc 7c 9d 3h] [Jc]
+Player6 checks
+Player1 bets 400
+Player6 folds
+Uncalled bet of 400 returned to Player1
+Player1 mucks
+Player1 wins the pot (800)
+*** SUMMARY ***
+Duration 33s
+Total pot 800 | Rake 0
+Board: [Qc 7c 9d 3h Jc]
+Seat 1: Player1 (big blind) collected (800)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded on the River
+
+
+******************** # 66 ************************
+
+FullTiltPoker Game #27124283214: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 200/400 - No Limit Hold'em - 13:51:54 ET - 2011/01/09
+
+Seat 1: Player1 (7,020)
+Seat 4: Player4 (1,830)
+Seat 6: Player6 (4,650)
+Player1 posts the small blind of 200
+Player4 posts the big blind of 400
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [Qd 9s]
+Player6 folds
+Player1 folds
+Uncalled bet of 200 returned to Player4
+Player4 mucks
+Player4 wins the pot (400)
+*** SUMMARY ***
+Duration 8s
+Total pot 400 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) collected (400)
+Seat 6: Player6 (button) didn't bet (folded)
+
+
+******************** # 67 ************************
+
+FullTiltPoker Game #27124287445: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 200/400 - No Limit Hold'em - 13:52:03 ET - 2011/01/09
+
+Seat 1: Player1 (6,820)
+Seat 4: Player4 (2,030)
+Seat 6: Player6 (4,650)
+Player4 posts the small blind of 200
+Player6 posts the big blind of 400
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Td Ad]
+Player1 raises to 800
+Player4 folds
+Player6 calls 400
+*** FLOP *** [6d Kc 3c]
+Player6 bets 400
+Player1 raises to 800
+Player6 folds
+Uncalled bet of 400 returned to Player1
+Player1 mucks
+Player1 wins the pot (2,600)
+*** SUMMARY ***
+Duration 18s
+Total pot 2,600 | Rake 0
+Board: [6d Kc 3c]
+Seat 1: Player1 (button) collected (2,600)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded on the Flop
+
+
+******************** # 68 ************************
+
+FullTiltPoker Game #27124297195: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 200/400 - No Limit Hold'em - 13:52:22 ET - 2011/01/09
+
+Seat 1: Player1 (8,220)
+Seat 4: Player4 (1,830)
+Seat 6: Player6 (3,450)
+Player6 posts the small blind of 200
+Player1 posts the big blind of 400
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [Jd 5c]
+Player4 folds
+Player6 folds
+Uncalled bet of 200 returned to Player1
+Player1 mucks
+Player1 wins the pot (400)
+*** SUMMARY ***
+Duration 6s
+Total pot 400 | Rake 0
+Seat 1: Player1 (big blind) collected (400)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 69 ************************
+
+FullTiltPoker Game #27124300560: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 200/400 - No Limit Hold'em - 13:52:28 ET - 2011/01/09
+
+Seat 1: Player1 (8,420)
+Seat 4: Player4 (1,830)
+Seat 6: Player6 (3,250)
+Player1 posts the small blind of 200
+Player4 posts the big blind of 400
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [3s 7h]
+Player6 folds
+Player1 raises to 800
+Player4 raises to 1,830, and is all in
+Player1 calls 1,030
+Player4 shows [9c Ac]
+Player1 shows [Qd Kc]
+*** FLOP *** [9h 2c 6h]
+*** TURN *** [9h 2c 6h] [Jh]
+*** RIVER *** [9h 2c 6h Jh] [5h]
+Player4 shows a pair of Nines
+Player1 shows King Queen high
+Player4 wins the pot (3,660) with a pair of Nines
+*** SUMMARY ***
+Duration 22s
+Total pot 3,660 | Rake 0
+Board: [9h 2c 6h Jh 5h]
+Seat 1: Player1 (small blind) showed [Qd Kc] and lost with King Queen high
+Seat 4: Player4 (big blind) showed [9c Ac] and won (3,660) with a pair of Nines
+Seat 6: Player6 (button) didn't bet (folded)
+
+
+******************** # 70 ************************
+
+FullTiltPoker Game #27124312331: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 200/400 - No Limit Hold'em - 13:52:51 ET - 2011/01/09
+
+Seat 1: Player1 (6,590)
+Seat 4: Player4 (3,660)
+Seat 6: Player6 (3,250)
+Player4 posts the small blind of 200
+Player6 posts the big blind of 400
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [4d 9c]
+Player1 calls 400
+Player4 folds
+Player6 checks
+*** FLOP *** [5h 6h 6c]
+Player6 checks
+Player1 checks
+*** TURN *** [5h 6h 6c] [7h]
+Player6 bets 400
+Player1 has 15 seconds left to act
+Player1 folds
+Uncalled bet of 400 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,000)
+*** SUMMARY ***
+Duration 37s
+Total pot 1,000 | Rake 0
+Board: [5h 6h 6c 7h]
+Seat 1: Player1 (button) folded on the Turn
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (1,000)
+
+
+******************** # 71 ************************
+
+FullTiltPoker Game #27124331905: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 200/400 - No Limit Hold'em - 13:53:28 ET - 2011/01/09
+
+Seat 1: Player1 (6,190)
+Seat 4: Player4 (3,460)
+Seat 6: Player6 (3,850)
+Player6 posts the small blind of 200
+Player1 posts the big blind of 400
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [4d 3h]
+Player4 raises to 3,460, and is all in
+Player6 folds
+Player1 folds
+Uncalled bet of 3,060 returned to Player4
+Player4 mucks
+Player4 wins the pot (1,000)
+*** SUMMARY ***
+Duration 11s
+Total pot 1,000 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 4: Player4 (button) collected (1,000)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 72 ************************
+
+FullTiltPoker Game #27124338133: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:53:40 ET - 2011/01/09
+
+Seat 1: Player1 (5,790)
+Seat 4: Player4 (4,060)
+Seat 6: Player6 (3,650)
+Player1 posts the small blind of 250
+Player4 posts the big blind of 500
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [3d Kc]
+Player6 folds
+Player1 folds
+Uncalled bet of 250 returned to Player4
+Player4 mucks
+Player4 wins the pot (500)
+*** SUMMARY ***
+Duration 5s
+Total pot 500 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) collected (500)
+Seat 6: Player6 (button) didn't bet (folded)
+
+
+******************** # 73 ************************
+
+FullTiltPoker Game #27124340949: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:53:45 ET - 2011/01/09
+
+Seat 1: Player1 (5,540)
+Seat 4: Player4 (4,310)
+Seat 6: Player6 (3,650)
+Player4 posts the small blind of 250
+Player6 posts the big blind of 500
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Th 8s]
+Player1 folds
+Player4 folds
+Uncalled bet of 250 returned to Player6
+Player6 mucks
+Player6 wins the pot (500)
+*** SUMMARY ***
+Duration 8s
+Total pot 500 | Rake 0
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (500)
+
+
+******************** # 74 ************************
+
+FullTiltPoker Game #27124345295: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:53:54 ET - 2011/01/09
+
+Seat 1: Player1 (5,540)
+Seat 4: Player4 (4,060)
+Seat 6: Player6 (3,900)
+Player6 posts the small blind of 250
+Player1 posts the big blind of 500
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [6d 6h]
+Player4 folds
+Player6 raises to 1,000
+Player1 calls 500
+*** FLOP *** [2c Qd 2s]
+Player6 bets 2,900, and is all in
+Player1 has 15 seconds left to act
+Player1 folds
+Uncalled bet of 2,900 returned to Player6
+Player6 mucks
+Player6 wins the pot (2,000)
+*** SUMMARY ***
+Duration 22s
+Total pot 2,000 | Rake 0
+Board: [2c Qd 2s]
+Seat 1: Player1 (big blind) folded on the Flop
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) collected (2,000)
+
+
+******************** # 75 ************************
+
+FullTiltPoker Game #27124357324: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:54:17 ET - 2011/01/09
+
+Seat 1: Player1 (4,540)
+Seat 4: Player4 (4,060)
+Seat 6: Player6 (4,900)
+Player1 posts the small blind of 250
+Player4 posts the big blind of 500
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [2c Ah]
+Player6 folds
+Player1 has 15 seconds left to act
+Player1 folds
+Uncalled bet of 250 returned to Player4
+Player4 mucks
+Player4 wins the pot (500)
+*** SUMMARY ***
+Duration 22s
+Total pot 500 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) collected (500)
+Seat 6: Player6 (button) didn't bet (folded)
+
+
+******************** # 76 ************************
+
+FullTiltPoker Game #27124368970: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:54:39 ET - 2011/01/09
+
+Seat 1: Player1 (4,290)
+Seat 4: Player4 (4,310)
+Seat 6: Player6 (4,900)
+Player4 posts the small blind of 250
+Player6 posts the big blind of 500
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Tc Qd]
+Player1 raises to 1,000
+Player4 folds
+Player6 folds
+Uncalled bet of 500 returned to Player1
+Player1 mucks
+Player1 wins the pot (1,250)
+*** SUMMARY ***
+Duration 10s
+Total pot 1,250 | Rake 0
+Seat 1: Player1 (button) collected (1,250)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded before the Flop
+
+
+******************** # 77 ************************
+
+FullTiltPoker Game #27124374300: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:54:49 ET - 2011/01/09
+
+Seat 1: Player1 (5,040)
+Seat 4: Player4 (4,060)
+Seat 6: Player6 (4,400)
+Player6 posts the small blind of 250
+Player1 posts the big blind of 500
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [2s 3d]
+Player4 folds
+Player6 folds
+Uncalled bet of 250 returned to Player1
+Player1 mucks
+Player1 wins the pot (500)
+*** SUMMARY ***
+Duration 5s
+Total pot 500 | Rake 0
+Seat 1: Player1 (big blind) collected (500)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 78 ************************
+
+FullTiltPoker Game #27124377527: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:54:55 ET - 2011/01/09
+
+Seat 1: Player1 (5,290)
+Seat 4: Player4 (4,060)
+Seat 6: Player6 (4,150)
+Player1 posts the small blind of 250
+Player4 posts the big blind of 500
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [3d 9s]
+Player6 folds
+Player1 folds
+Uncalled bet of 250 returned to Player4
+Player4 mucks
+Player4 wins the pot (500)
+*** SUMMARY ***
+Duration 8s
+Total pot 500 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) collected (500)
+Seat 6: Player6 (button) didn't bet (folded)
+
+
+******************** # 79 ************************
+
+FullTiltPoker Game #27124381511: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:55:04 ET - 2011/01/09
+
+Seat 1: Player1 (5,040)
+Seat 4: Player4 (4,310)
+Seat 6: Player6 (4,150)
+Player4 posts the small blind of 250
+Player6 posts the big blind of 500
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [7d Tc]
+Player1 has 15 seconds left to act
+Player1 folds
+Player4 raises to 1,000
+Player6 folds
+Uncalled bet of 500 returned to Player4
+Player4 mucks
+Player4 wins the pot (1,000)
+*** SUMMARY ***
+Duration 18s
+Total pot 1,000 | Rake 0
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) collected (1,000)
+Seat 6: Player6 (big blind) folded before the Flop
+
+
+******************** # 80 ************************
+
+FullTiltPoker Game #27124388851: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:55:23 ET - 2011/01/09
+
+Seat 1: Player1 (5,040)
+Seat 4: Player4 (4,810)
+Seat 6: Player6 (3,650)
+Player6 posts the small blind of 250
+Player1 posts the big blind of 500
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [Ad Kc]
+Player4 folds
+Player6 raises to 1,000
+Player1 has 15 seconds left to act
+Player1 folds
+Uncalled bet of 500 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,000)
+*** SUMMARY ***
+Duration 22s
+Total pot 1,000 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) collected (1,000)
+
+
+******************** # 81 ************************
+
+FullTiltPoker Game #27124397648: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:55:45 ET - 2011/01/09
+
+Seat 1: Player1 (4,540)
+Seat 4: Player4 (4,810)
+Seat 6: Player6 (4,150)
+Player1 posts the small blind of 250
+Player4 posts the big blind of 500
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [6d 2d]
+Player6 raises to 1,000
+Player1 folds
+Player4 folds
+Uncalled bet of 500 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,250)
+*** SUMMARY ***
+Duration 14s
+Total pot 1,250 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 6: Player6 (button) collected (1,250)
+
+
+******************** # 82 ************************
+
+FullTiltPoker Game #27124403710: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:56:00 ET - 2011/01/09
+
+Seat 1: Player1 (4,290)
+Seat 4: Player4 (4,310)
+Seat 6: Player6 (4,900)
+Player4 posts the small blind of 250
+Player6 posts the big blind of 500
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Ks 7s]
+Player1 has 15 seconds left to act
+Player1 raises to 1,750
+Player4 folds
+Player6 folds
+Uncalled bet of 1,250 returned to Player1
+Player1 mucks
+Player1 wins the pot (1,250)
+*** SUMMARY ***
+Duration 22s
+Total pot 1,250 | Rake 0
+Seat 1: Player1 (button) collected (1,250)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded before the Flop
+
+
+******************** # 83 ************************
+
+FullTiltPoker Game #27124412512: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:56:22 ET - 2011/01/09
+
+Seat 1: Player1 (5,040)
+Seat 4: Player4 (4,060)
+Seat 6: Player6 (4,400)
+Player6 posts the small blind of 250
+Player1 posts the big blind of 500
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [4c Ts]
+Player4 folds
+Player6 folds
+Uncalled bet of 250 returned to Player1
+Player1 mucks
+Player1 wins the pot (500)
+*** SUMMARY ***
+Duration 7s
+Total pot 500 | Rake 0
+Seat 1: Player1 (big blind) collected (500)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 84 ************************
+
+FullTiltPoker Game #27124415491: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 250/500 - No Limit Hold'em - 13:56:29 ET - 2011/01/09
+
+Seat 1: Player1 (5,290)
+Seat 4: Player4 (4,060)
+Seat 6: Player6 (4,150)
+Player1 posts the small blind of 250
+Player4 posts the big blind of 500
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [5d 4s]
+Player6 raises to 1,000
+Player1 calls 750
+Player4 folds
+*** FLOP *** [Jd 9d Jc]
+Player1 has 15 seconds left to act
+Player1 checks
+Player6 checks
+*** TURN *** [Jd 9d Jc] [Kc]
+Player1 checks
+Player6 bets 500
+Player1 folds
+Uncalled bet of 500 returned to Player6
+Player6 mucks
+Player6 wins the pot (2,500)
+*** SUMMARY ***
+Duration 38s
+Total pot 2,500 | Rake 0
+Board: [Jd 9d Jc Kc]
+Seat 1: Player1 (small blind) folded on the Turn
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 6: Player6 (button) collected (2,500)
+
+
+******************** # 85 ************************
+
+FullTiltPoker Game #27124431169: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 300/600 - No Limit Hold'em - 13:57:08 ET - 2011/01/09
+
+Seat 1: Player1 (4,290)
+Seat 4: Player4 (3,560)
+Seat 6: Player6 (5,650)
+Player4 posts the small blind of 300
+Player6 posts the big blind of 600
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [2s 7d]
+Player1 folds
+Player4 folds
+Uncalled bet of 300 returned to Player6
+Player6 mucks
+Player6 wins the pot (600)
+*** SUMMARY ***
+Duration 11s
+Total pot 600 | Rake 0
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (600)
+
+
+******************** # 86 ************************
+
+FullTiltPoker Game #27124435755: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 300/600 - No Limit Hold'em - 13:57:20 ET - 2011/01/09
+
+Seat 1: Player1 (4,290)
+Seat 4: Player4 (3,260)
+Seat 6: Player6 (5,950)
+Player6 posts the small blind of 300
+Player1 posts the big blind of 600
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [Js 7c]
+Player4 folds
+Player6 folds
+Uncalled bet of 300 returned to Player1
+Player1 mucks
+Player1 wins the pot (600)
+*** SUMMARY ***
+Duration 6s
+Total pot 600 | Rake 0
+Seat 1: Player1 (big blind) collected (600)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 87 ************************
+
+FullTiltPoker Game #27124438511: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 300/600 - No Limit Hold'em - 13:57:27 ET - 2011/01/09
+
+Seat 1: Player1 (4,590)
+Seat 4: Player4 (3,260)
+Seat 6: Player6 (5,650)
+Player1 posts the small blind of 300
+Player4 posts the big blind of 600
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [7s 8d]
+Player6 folds
+Player1 raises to 4,590, and is all in
+Player4 has 15 seconds left to act
+Player4 folds
+Uncalled bet of 3,990 returned to Player1
+Player1 mucks
+Player1 wins the pot (1,200)
+*** SUMMARY ***
+Duration 34s
+Total pot 1,200 | Rake 0
+Seat 1: Player1 (small blind) collected (1,200)
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 6: Player6 (button) didn't bet (folded)
+
+
+******************** # 88 ************************
+
+FullTiltPoker Game #27124452262: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 300/600 - No Limit Hold'em - 13:58:01 ET - 2011/01/09
+
+Seat 1: Player1 (5,190)
+Seat 4: Player4 (2,660)
+Seat 6: Player6 (5,650)
+Player4 posts the small blind of 300
+Player6 posts the big blind of 600
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Ah Qh]
+Player1 folds
+Player4 raises to 2,660, and is all in
+Player6 calls 2,060
+Player4 shows [Jc Js]
+Player6 shows [Ah Qh]
+*** FLOP *** [Ks Jh Kd]
+*** TURN *** [Ks Jh Kd] [7c]
+*** RIVER *** [Ks Jh Kd 7c] [4h]
+Player4 shows a full house, Jacks full of Kings
+Player6 shows a pair of Kings
+Player4 wins the pot (5,320) with a full house, Jacks full of Kings
+*** SUMMARY ***
+Duration 21s
+Total pot 5,320 | Rake 0
+Board: [Ks Jh Kd 7c 4h]
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) showed [Jc Js] and won (5,320) with a full house, Jacks full of Kings
+Seat 6: Player6 (big blind) showed [Ah Qh] and lost with a pair of Kings
+
+
+******************** # 89 ************************
+
+FullTiltPoker Game #27124460940: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 300/600 - No Limit Hold'em - 13:58:22 ET - 2011/01/09
+
+Seat 1: Player1 (5,190)
+Seat 4: Player4 (5,320)
+Seat 6: Player6 (2,990)
+Player6 posts the small blind of 300
+Player1 posts the big blind of 600
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [6c 4s]
+Player4 folds
+Player6 folds
+Uncalled bet of 300 returned to Player1
+Player1 mucks
+Player1 wins the pot (600)
+*** SUMMARY ***
+Duration 6s
+Total pot 600 | Rake 0
+Seat 1: Player1 (big blind) collected (600)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 90 ************************
+
+FullTiltPoker Game #27124463482: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 300/600 - No Limit Hold'em - 13:58:28 ET - 2011/01/09
+
+Seat 1: Player1 (5,490)
+Seat 4: Player4 (5,320)
+Seat 6: Player6 (2,690)
+Player1 posts the small blind of 300
+Player4 posts the big blind of 600
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [5h 5d]
+Player6 raises to 2,690, and is all in
+Player1 folds
+Player4 folds
+Uncalled bet of 2,090 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,500)
+*** SUMMARY ***
+Duration 16s
+Total pot 1,500 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 6: Player6 (button) collected (1,500)
+
+
+******************** # 91 ************************
+
+FullTiltPoker Game #27124470304: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 300/600 - No Limit Hold'em - 13:58:45 ET - 2011/01/09
+
+Seat 1: Player1 (5,190)
+Seat 4: Player4 (4,720)
+Seat 6: Player6 (3,590)
+Player4 posts the small blind of 300
+Player6 posts the big blind of 600
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Jc 6s]
+Player1 raises to 5,190, and is all in
+Player4 folds
+Player6 folds
+Uncalled bet of 4,590 returned to Player1
+Player1 mucks
+Player1 wins the pot (1,500)
+*** SUMMARY ***
+Duration 17s
+Total pot 1,500 | Rake 0
+Seat 1: Player1 (button) collected (1,500)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) folded before the Flop
+
+
+******************** # 92 ************************
+
+FullTiltPoker Game #27124477383: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 300/600 - No Limit Hold'em - 13:59:03 ET - 2011/01/09
+
+Seat 1: Player1 (6,090)
+Seat 4: Player4 (4,420)
+Seat 6: Player6 (2,990)
+Player6 posts the small blind of 300
+Player1 posts the big blind of 600
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [9s 4c]
+Player4 has 15 seconds left to act
+Player4 folds
+Player6 folds
+Uncalled bet of 300 returned to Player1
+Player1 mucks
+Player1 wins the pot (600)
+*** SUMMARY ***
+Duration 12s
+Total pot 600 | Rake 0
+Seat 1: Player1 (big blind) collected (600)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 93 ************************
+
+FullTiltPoker Game #27124482508: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 300/600 - No Limit Hold'em - 13:59:15 ET - 2011/01/09
+
+Seat 1: Player1 (6,390)
+Seat 4: Player4 (4,420)
+Seat 6: Player6 (2,690)
+Player1 posts the small blind of 300
+Player4 posts the big blind of 600
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [2c As]
+Player6 raises to 2,690, and is all in
+Player1 folds
+Player4 folds
+Uncalled bet of 2,090 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,500)
+*** SUMMARY ***
+Duration 15s
+Total pot 1,500 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) folded before the Flop
+Seat 6: Player6 (button) collected (1,500)
+
+
+******************** # 94 ************************
+
+FullTiltPoker Game #27124488872: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 300/600 - No Limit Hold'em - 13:59:31 ET - 2011/01/09
+
+Seat 1: Player1 (6,090)
+Seat 4: Player4 (3,820)
+Seat 6: Player6 (3,590)
+Player4 posts the small blind of 300
+Player6 posts the big blind of 600
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [8c Qh]
+Player1 folds
+Player4 folds
+Uncalled bet of 300 returned to Player6
+Player6 mucks
+Player6 wins the pot (600)
+*** SUMMARY ***
+Duration 9s
+Total pot 600 | Rake 0
+Seat 1: Player1 (button) didn't bet (folded)
+Seat 4: Player4 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (600)
+
+
+******************** # 95 ************************
+
+FullTiltPoker Game #27124492827: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 13:59:40 ET - 2011/01/09
+
+Seat 1: Player1 (6,090)
+Seat 4: Player4 (3,520)
+Seat 6: Player6 (3,890)
+Player6 posts the small blind of 400
+Player1 posts the big blind of 800
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Player6 [3c 8d]
+Player4 folds
+Player6 folds
+Uncalled bet of 400 returned to Player1
+Player1 mucks
+Player1 wins the pot (800)
+*** SUMMARY ***
+Duration 8s
+Total pot 800 | Rake 0
+Seat 1: Player1 (big blind) collected (800)
+Seat 4: Player4 (button) didn't bet (folded)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 96 ************************
+
+FullTiltPoker Game #27124496353: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 13:59:49 ET - 2011/01/09
+
+Seat 1: Player1 (6,490)
+Seat 4: Player4 (3,520)
+Seat 6: Player6 (3,490)
+Player1 posts the small blind of 400
+Player4 posts the big blind of 800
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [3c Ad]
+Player6 folds
+Player1 folds
+Uncalled bet of 400 returned to Player4
+Player4 mucks
+Player4 wins the pot (800)
+*** SUMMARY ***
+Duration 9s
+Total pot 800 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 4: Player4 (big blind) collected (800)
+Seat 6: Player6 (button) didn't bet (folded)
+
+
+******************** # 97 ************************
+
+FullTiltPoker Game #27124500308: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 13:59:59 ET - 2011/01/09
+
+Seat 1: Player1 (6,090)
+Seat 4: Player4 (3,920)
+Seat 6: Player6 (3,490)
+Player4 posts the small blind of 400
+Player6 posts the big blind of 800
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [4c 5s]
+Player1 raises to 2,800
+Player4 raises to 3,920, and is all in
+Player6 folds
+Player1 has 15 seconds left to act
+Player1 calls 1,120
+Player4 shows [8c Ac]
+Player1 shows [Qs Qc]
+*** FLOP *** [4d 3d Kc]
+*** TURN *** [4d 3d Kc] [2s]
+*** RIVER *** [4d 3d Kc 2s] [3c]
+Player4 shows a pair of Threes
+Player1 shows two pair, Queens and Threes
+Player1 wins the pot (8,640) with two pair, Queens and Threes
+*** SUMMARY ***
+Duration 28s
+Total pot 8,640 | Rake 0
+Board: [4d 3d Kc 2s 3c]
+Seat 1: Player1 (button) showed [Qs Qc] and won (8,640) with two pair, Queens and Threes
+Seat 4: Player4 (small blind) showed [8c Ac] and lost with a pair of Threes
+Seat 6: Player6 (big blind) folded before the Flop
+
+
+******************** # 98 ************************
+
+FullTiltPoker Game #27124512407: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:00:27 ET - 2011/01/09
+
+Seat 1: Player1 (10,810)
+Seat 6: Player6 (2,690)
+Player6 posts the small blind of 400
+Player1 posts the big blind of 800
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [5d 4s]
+Player6 folds
+Uncalled bet of 400 returned to Player1
+Player1 mucks
+Player1 wins the pot (800)
+*** SUMMARY ***
+Duration 5s
+Total pot 800 | Rake 0
+Seat 1: Player1 (big blind) collected (800)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 99 ************************
+
+FullTiltPoker Game #27124514786: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:00:33 ET - 2011/01/09
+
+Seat 1: Player1 (11,210)
+Seat 6: Player6 (2,290)
+Player1 posts the small blind of 400
+Player6 posts the big blind of 800
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [6c Kh]
+Player1 folds
+Uncalled bet of 400 returned to Player6
+Player6 mucks
+Player6 wins the pot (800)
+*** SUMMARY ***
+Duration 9s
+Total pot 800 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (800)
+
+
+******************** # 100 ***********************
+
+FullTiltPoker Game #27124519194: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:00:43 ET - 2011/01/09
+
+Seat 1: Player1 (10,810)
+Seat 6: Player6 (2,690)
+Player6 posts the small blind of 400
+Player1 posts the big blind of 800
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [2d 6h]
+Player6 folds
+Uncalled bet of 400 returned to Player1
+Player1 mucks
+Player1 wins the pot (800)
+*** SUMMARY ***
+Duration 5s
+Total pot 800 | Rake 0
+Seat 1: Player1 (big blind) collected (800)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 101 ***********************
+
+FullTiltPoker Game #27124521548: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:00:48 ET - 2011/01/09
+
+Seat 1: Player1 (11,210)
+Seat 6: Player6 (2,290)
+Player1 posts the small blind of 400
+Player6 posts the big blind of 800
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Ad Kh]
+Player1 folds
+Uncalled bet of 400 returned to Player6
+Player6 mucks
+Player6 wins the pot (800)
+*** SUMMARY ***
+Duration 5s
+Total pot 800 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (800)
+
+
+******************** # 102 ***********************
+
+FullTiltPoker Game #27124523927: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:00:53 ET - 2011/01/09
+
+Seat 1: Player1 (10,810)
+Seat 6: Player6 (2,690)
+Player6 posts the small blind of 400
+Player1 posts the big blind of 800
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [As 6s]
+Player6 raises to 2,690, and is all in
+Player1 folds
+Uncalled bet of 1,890 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,600)
+*** SUMMARY ***
+Duration 12s
+Total pot 1,600 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 6: Player6 (small blind) collected (1,600)
+
+
+******************** # 103 ***********************
+
+FullTiltPoker Game #27124530206: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:01:06 ET - 2011/01/09
+
+Seat 1: Player1 (10,010)
+Seat 6: Player6 (3,490)
+Player1 posts the small blind of 400
+Player6 posts the big blind of 800
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [8h 7c]
+Player1 folds
+Uncalled bet of 400 returned to Player6
+Player6 mucks
+Player6 wins the pot (800)
+*** SUMMARY ***
+Duration 5s
+Total pot 800 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (800)
+
+
+******************** # 104 ***********************
+
+FullTiltPoker Game #27124533045: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:01:12 ET - 2011/01/09
+
+Seat 1: Player1 (9,610)
+Seat 6: Player6 (3,890)
+Player6 posts the small blind of 400
+Player1 posts the big blind of 800
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [8h 7s]
+Player6 raises to 3,890, and is all in
+Player1 folds
+Uncalled bet of 3,090 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,600)
+*** SUMMARY ***
+Duration 11s
+Total pot 1,600 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 6: Player6 (small blind) collected (1,600)
+
+
+******************** # 105 ***********************
+
+FullTiltPoker Game #27124538601: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:01:23 ET - 2011/01/09
+
+Seat 1: Player1 (8,810)
+Seat 6: Player6 (4,690)
+Player1 posts the small blind of 400
+Player6 posts the big blind of 800
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [4s 6h]
+Player1 folds
+Uncalled bet of 400 returned to Player6
+Player6 mucks
+Player6 wins the pot (800)
+*** SUMMARY ***
+Duration 5s
+Total pot 800 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (800)
+
+
+******************** # 106 ***********************
+
+FullTiltPoker Game #27124541361: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:01:29 ET - 2011/01/09
+
+Seat 1: Player1 (8,410)
+Seat 6: Player6 (5,090)
+Player6 posts the small blind of 400
+Player1 posts the big blind of 800
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [4h As]
+Player6 folds
+Uncalled bet of 400 returned to Player1
+Player1 mucks
+Player1 wins the pot (800)
+*** SUMMARY ***
+Duration 5s
+Total pot 800 | Rake 0
+Seat 1: Player1 (big blind) collected (800)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 107 ***********************
+
+FullTiltPoker Game #27124544204: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:01:34 ET - 2011/01/09
+
+Seat 1: Player1 (8,810)
+Seat 6: Player6 (4,690)
+Player1 posts the small blind of 400
+Player6 posts the big blind of 800
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [7c Qh]
+Player1 raises to 8,810, and is all in
+Player6 folds
+Uncalled bet of 8,010 returned to Player1
+Player1 mucks
+Player1 wins the pot (1,600)
+*** SUMMARY ***
+Duration 12s
+Total pot 1,600 | Rake 0
+Seat 1: Player1 (small blind) collected (1,600)
+Seat 6: Player6 (big blind) folded before the Flop
+
+
+******************** # 108 ***********************
+
+FullTiltPoker Game #27124550621: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:01:46 ET - 2011/01/09
+
+Seat 1: Player1 (9,610)
+Seat 6: Player6 (3,890)
+Player6 posts the small blind of 400
+Player1 posts the big blind of 800
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [5h Jh]
+Player6 raises to 3,890, and is all in
+Player1 folds
+Uncalled bet of 3,090 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,600)
+*** SUMMARY ***
+Duration 10s
+Total pot 1,600 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 6: Player6 (small blind) collected (1,600)
+
+
+******************** # 109 ***********************
+
+FullTiltPoker Game #27124556171: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:01:57 ET - 2011/01/09
+
+Seat 1: Player1 (8,810)
+Seat 6: Player6 (4,690)
+Player1 posts the small blind of 400
+Player6 posts the big blind of 800
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [6c 4s]
+Player1 folds
+Uncalled bet of 400 returned to Player6
+Player6 mucks
+Player6 wins the pot (800)
+*** SUMMARY ***
+Duration 6s
+Total pot 800 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (800)
+
+
+******************** # 110 ***********************
+
+FullTiltPoker Game #27124559558: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:02:03 ET - 2011/01/09
+
+Seat 1: Player1 (8,410)
+Seat 6: Player6 (5,090)
+Player6 posts the small blind of 400
+Player1 posts the big blind of 800
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [As Qh]
+Player6 raises to 5,090, and is all in
+Player1 folds
+Uncalled bet of 4,290 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,600)
+*** SUMMARY ***
+Duration 9s
+Total pot 1,600 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 6: Player6 (small blind) collected (1,600)
+
+
+******************** # 111 ***********************
+
+FullTiltPoker Game #27124564665: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:02:13 ET - 2011/01/09
+
+Seat 1: Player1 (7,610)
+Seat 6: Player6 (5,890)
+Player1 posts the small blind of 400
+Player6 posts the big blind of 800
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [3s Js]
+Player1 raises to 7,610, and is all in
+Player6 folds
+Uncalled bet of 6,810 returned to Player1
+Player1 mucks
+Player1 wins the pot (1,600)
+*** SUMMARY ***
+Duration 8s
+Total pot 1,600 | Rake 0
+Seat 1: Player1 (small blind) collected (1,600)
+Seat 6: Player6 (big blind) folded before the Flop
+
+
+******************** # 112 ***********************
+
+FullTiltPoker Game #27124569072: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:02:21 ET - 2011/01/09
+
+Seat 1: Player1 (8,410)
+Seat 6: Player6 (5,090)
+Player6 posts the small blind of 400
+Player1 posts the big blind of 800
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [3c Qh]
+Player6 folds
+Uncalled bet of 400 returned to Player1
+Player1 mucks
+Player1 wins the pot (800)
+*** SUMMARY ***
+Duration 5s
+Total pot 800 | Rake 0
+Seat 1: Player1 (big blind) collected (800)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 113 ***********************
+
+FullTiltPoker Game #27124572259: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:02:27 ET - 2011/01/09
+
+Seat 1: Player1 (8,810)
+Seat 6: Player6 (4,690)
+Player1 posts the small blind of 400
+Player6 posts the big blind of 800
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Ad Qh]
+Player1 folds
+Uncalled bet of 400 returned to Player6
+Player6 mucks
+Player6 wins the pot (800)
+*** SUMMARY ***
+Duration 7s
+Total pot 800 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (800)
+
+
+******************** # 114 ***********************
+
+FullTiltPoker Game #27124576552: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 400/800 - No Limit Hold'em - 14:02:34 ET - 2011/01/09
+
+Seat 1: Player1 (8,410)
+Seat 6: Player6 (5,090)
+Player6 posts the small blind of 400
+Player1 posts the big blind of 800
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [7h Ts]
+Player6 folds
+Uncalled bet of 400 returned to Player1
+Player1 mucks
+Player1 wins the pot (800)
+*** SUMMARY ***
+Duration 5s
+Total pot 800 | Rake 0
+Seat 1: Player1 (big blind) collected (800)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 115 ***********************
+
+FullTiltPoker Game #27124579675: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:02:40 ET - 2011/01/09
+
+Seat 1: Player1 (8,810)
+Seat 6: Player6 (4,690)
+Player1 posts the small blind of 500
+Player6 posts the big blind of 1,000
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Qc 8h]
+Player1 raises to 8,810, and is all in
+Player6 calls 3,690, and is all in
+Player1 shows [5c 5s]
+Player6 shows [Qc 8h]
+Uncalled bet of 4,120 returned to Player1
+*** FLOP *** [Qd 3s Jh]
+*** TURN *** [Qd 3s Jh] [Js]
+*** RIVER *** [Qd 3s Jh Js] [9c]
+Player1 shows two pair, Jacks and Fives
+Player6 shows two pair, Queens and Jacks
+Player6 wins the pot (9,380) with two pair, Queens and Jacks
+*** SUMMARY ***
+Duration 17s
+Total pot 9,380 | Rake 0
+Board: [Qd 3s Jh Js 9c]
+Seat 1: Player1 (small blind) showed [5c 5s] and lost with two pair, Jacks and Fives
+Seat 6: Player6 (big blind) showed [Qc 8h] and won (9,380) with two pair, Queens and Jacks
+
+
+******************** # 116 ***********************
+
+FullTiltPoker Game #27124589092: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:02:57 ET - 2011/01/09
+
+Seat 1: Player1 (4,120)
+Seat 6: Player6 (9,380)
+Player6 posts the small blind of 500
+Player1 posts the big blind of 1,000
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [6h Tc]
+Player6 folds
+Uncalled bet of 500 returned to Player1
+Player1 mucks
+Player1 wins the pot (1,000)
+*** SUMMARY ***
+Duration 6s
+Total pot 1,000 | Rake 0
+Seat 1: Player1 (big blind) collected (1,000)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 117 ***********************
+
+FullTiltPoker Game #27124592741: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:03:04 ET - 2011/01/09
+
+Seat 1: Player1 (4,620)
+Seat 6: Player6 (8,880)
+Player1 posts the small blind of 500
+Player6 posts the big blind of 1,000
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Th 3d]
+Player1 raises to 4,620, and is all in
+Player6 folds
+Uncalled bet of 3,620 returned to Player1
+Player1 mucks
+Player1 wins the pot (2,000)
+*** SUMMARY ***
+Duration 9s
+Total pot 2,000 | Rake 0
+Seat 1: Player1 (small blind) collected (2,000)
+Seat 6: Player6 (big blind) folded before the Flop
+
+
+******************** # 118 ***********************
+
+FullTiltPoker Game #27124597781: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:03:14 ET - 2011/01/09
+
+Seat 1: Player1 (5,620)
+Seat 6: Player6 (7,880)
+Player6 posts the small blind of 500
+Player1 posts the big blind of 1,000
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [Th Ts]
+Player6 raises to 7,880, and is all in
+Player1 folds
+Uncalled bet of 6,880 returned to Player6
+Player6 mucks
+Player6 wins the pot (2,000)
+*** SUMMARY ***
+Duration 7s
+Total pot 2,000 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 6: Player6 (small blind) collected (2,000)
+
+
+******************** # 119 ***********************
+
+FullTiltPoker Game #27124602222: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:03:22 ET - 2011/01/09
+
+Seat 1: Player1 (4,620)
+Seat 6: Player6 (8,880)
+Player1 posts the small blind of 500
+Player6 posts the big blind of 1,000
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [5c Qh]
+Player1 raises to 4,620, and is all in
+Player6 folds
+Uncalled bet of 3,620 returned to Player1
+Player1 mucks
+Player1 wins the pot (2,000)
+*** SUMMARY ***
+Duration 8s
+Total pot 2,000 | Rake 0
+Seat 1: Player1 (small blind) collected (2,000)
+Seat 6: Player6 (big blind) folded before the Flop
+
+
+******************** # 120 ***********************
+
+FullTiltPoker Game #27124606956: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:03:30 ET - 2011/01/09
+
+Seat 1: Player1 (5,620)
+Seat 6: Player6 (7,880)
+Player6 posts the small blind of 500
+Player1 posts the big blind of 1,000
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [Jh Qs]
+Player6 raises to 7,880, and is all in
+Player1 folds
+Uncalled bet of 6,880 returned to Player6
+Player6 mucks
+Player6 wins the pot (2,000)
+*** SUMMARY ***
+Duration 7s
+Total pot 2,000 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 6: Player6 (small blind) collected (2,000)
+
+
+******************** # 121 ***********************
+
+FullTiltPoker Game #27124611338: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:03:38 ET - 2011/01/09
+
+Seat 1: Player1 (4,620)
+Seat 6: Player6 (8,880)
+Player1 posts the small blind of 500
+Player6 posts the big blind of 1,000
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Jc 9c]
+Player1 raises to 4,620, and is all in
+Player6 calls 3,620
+Player1 shows [9d As]
+Player6 shows [Jc 9c]
+*** FLOP *** [4h 5h 6s]
+*** TURN *** [4h 5h 6s] [4c]
+*** RIVER *** [4h 5h 6s 4c] [8s]
+Player1 shows a pair of Fours
+Player6 shows a pair of Fours
+Player1 wins the pot (9,240) with a pair of Fours
+*** SUMMARY ***
+Duration 19s
+Total pot 9,240 | Rake 0
+Board: [4h 5h 6s 4c 8s]
+Seat 1: Player1 (small blind) showed [9d As] and won (9,240) with a pair of Fours
+Seat 6: Player6 (big blind) showed [Jc 9c] and lost with a pair of Fours
+
+
+******************** # 122 ***********************
+
+FullTiltPoker Game #27124622268: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:03:58 ET - 2011/01/09
+
+Seat 1: Player1 (9,240)
+Seat 6: Player6 (4,260)
+Player6 posts the small blind of 500
+Player1 posts the big blind of 1,000
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [Ad 6h]
+Player6 raises to 4,260, and is all in
+Player1 folds
+Uncalled bet of 3,260 returned to Player6
+Player6 mucks
+Player6 wins the pot (2,000)
+*** SUMMARY ***
+Duration 8s
+Total pot 2,000 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 6: Player6 (small blind) collected (2,000)
+
+
+******************** # 123 ***********************
+
+FullTiltPoker Game #27124627085: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:04:07 ET - 2011/01/09
+
+Seat 1: Player1 (8,240)
+Seat 6: Player6 (5,260)
+Player1 posts the small blind of 500
+Player6 posts the big blind of 1,000
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [9s Jc]
+Player1 folds
+Uncalled bet of 500 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,000)
+*** SUMMARY ***
+Duration 5s
+Total pot 1,000 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (1,000)
+
+
+******************** # 124 ***********************
+
+FullTiltPoker Game #27124630381: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:04:13 ET - 2011/01/09
+
+Seat 1: Player1 (7,740)
+Seat 6: Player6 (5,760)
+Player6 posts the small blind of 500
+Player1 posts the big blind of 1,000
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [Qh 8d]
+Player6 raises to 5,760, and is all in
+Player1 folds
+Uncalled bet of 4,760 returned to Player6
+Player6 mucks
+Player6 wins the pot (2,000)
+*** SUMMARY ***
+Duration 6s
+Total pot 2,000 | Rake 0
+Seat 1: Player1 (big blind) folded before the Flop
+Seat 6: Player6 (small blind) collected (2,000)
+
+
+******************** # 125 ***********************
+
+FullTiltPoker Game #27124634243: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:04:20 ET - 2011/01/09
+
+Seat 1: Player1 (6,740)
+Seat 6: Player6 (6,760)
+Player1 posts the small blind of 500
+Player6 posts the big blind of 1,000
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Td 7h]
+Player1 folds
+Uncalled bet of 500 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,000)
+*** SUMMARY ***
+Duration 6s
+Total pot 1,000 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (1,000)
+
+
+******************** # 126 ***********************
+
+FullTiltPoker Game #27124638075: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:04:27 ET - 2011/01/09
+
+Seat 1: Player1 (6,240)
+Seat 6: Player6 (7,260)
+Player6 posts the small blind of 500
+Player1 posts the big blind of 1,000
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [6c Js]
+Player6 folds
+Uncalled bet of 500 returned to Player1
+Player1 mucks
+Player1 wins the pot (1,000)
+*** SUMMARY ***
+Duration 5s
+Total pot 1,000 | Rake 0
+Seat 1: Player1 (big blind) collected (1,000)
+Seat 6: Player6 (small blind) folded before the Flop
+
+
+******************** # 127 ***********************
+
+FullTiltPoker Game #27124640970: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:04:32 ET - 2011/01/09
+
+Seat 1: Player1 (6,740)
+Seat 6: Player6 (6,760)
+Player1 posts the small blind of 500
+Player6 posts the big blind of 1,000
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Player6 [Jh 8h]
+Player1 has 15 seconds left to act
+Player1 folds
+Uncalled bet of 500 returned to Player6
+Player6 mucks
+Player6 wins the pot (1,000)
+*** SUMMARY ***
+Duration 12s
+Total pot 1,000 | Rake 0
+Seat 1: Player1 (small blind) folded before the Flop
+Seat 6: Player6 (big blind) collected (1,000)
+
+
+******************** # 128 ***********************
+
+FullTiltPoker Game #27124647862: $2 + $0.25 Madness (Turbo) (210763847), Table 1 - 500/1,000 - No Limit Hold'em - 14:04:45 ET - 2011/01/09
+
+Seat 1: Player1 (6,240)
+Seat 6: Player6 (7,260)
+Player6 posts the small blind of 500
+Player1 posts the big blind of 1,000
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Player6 [7d Ah]
+Player6 raises to 7,260, and is all in
+Player1 calls 5,240, and is all in
+Player6 shows [7d Ah]
+Player1 shows [6d 6s]
+Uncalled bet of 1,020 returned to Player6
+*** FLOP *** [Jh Qs 9s]
+*** TURN *** [Jh Qs 9s] [Ac]
+*** RIVER *** [Jh Qs 9s Ac] [Qh]
+Player6 shows two pair, Aces and Queens
+Player1 shows two pair, Queens and Sixes
+Player6 wins the pot (12,480) with two pair, Aces and Queens
+*** SUMMARY ***
+Duration 16s
+Total pot 12,480 | Rake 0
+Board: [Jh Qs 9s Ac Qh]
+Seat 1: Player1 (big blind) showed [6d 6s] and lost with two pair, Queens and Sixes
+Seat 6: Player6 (small blind) showed [7d Ah] and won (12,480) with two pair, Aces and Queens
+
+

@@ -1,0 +1,12 @@
+validators\emailValidator.class
+controller\SelectCategoryManagedBean.class
+controller\AdministrationLoginManagedBean.class
+validators\creditCardNumberValidator.class
+websocket\chatEndpoint.class
+validators\monthYearValidator.class
+cart\ShoppingCart.class
+controller\AdministrationManagedBean.class
+controller\CustomerRegisterManagedBean.class
+cart\ShoppingCartItem.class
+controller\CustomerLoginManagedBean.class
+controller\ViewCartManagedBean.class

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+    <body>
+
+        <ui:composition template="./storeTemplate.xhtml">
+
+            <ui:define name="top">
+                <h2> On-line supermarket </h2>
+                <h:form id="loginLogoutRegister">
+                    
+                    <p:commandButton value="Logout" action="#{customerLoginManagedBean.logout()}" rendered="#{customerLoginManagedBean.loggedIn}" update=":loginLogoutRegister :form1"/>
+            
+          
+                </h:form>
+            </ui:define>
+
+            <ui:define name="content">
+                <h:form>
+                    <div id="returnHome">
+                        <h:graphicImage library="images" name="returnIcon.jpg" width="20px"/>
+                        <h:commandLink action="storeHome.xhtml" value="HOME CATEGORY PAGE"/>
+                    </div>
+                </h:form>
+                <fieldset style="border: #ff0000 3px solid; background-color: white; width: 700px">
+                    <legend style="border: #ff0000 3px solid; background-color: white;">Purchase confirmation</legend>
+                    <p:spacer />
+                    <div style="border-bottom: 50px"> Thank you for your purchase #{viewCartManagedBean.user.fullName}, #{viewCartManagedBean.totalOrderPrice} $ were taken from your credit card.</div>
+                    <p:spacer />
+                    <div>
+                        <p:dataTable id="listProducts" value="#{viewCartManagedBean.orderedProducts}" var="p" rowIndexVar="rowIndex" style="width: 500px">
+                            <p:column style="width:150px">
+                                <img src="#{initParam.productsImgPath}#{viewCartManagedBean.products[rowIndex].name}.png" />
+                            </p:column>
+                            <p:column headerText="Product name" style="width:150px">
+                                <h:outputText value="#{viewCartManagedBean.products[rowIndex].name}" />  
+                            </p:column>
+                            <p:column headerText="Quantity">
+                                <h:outputText value="#{p.getQuantity()}" />  
+                            </p:column>
+                        </p:dataTable>
+                       
+                    </div>
+                    <p:spacer />
+                    <div>
+                        <h:outputText value="The above products will be sent to the following adress: #{viewCartManagedBean.user.adress}, #{viewCartManagedBean.user.postCode}, #{viewCartManagedBean.user.country}." />  
+                    </div>
+                </fieldset>
+
+
+            </ui:define>
+
+        </ui:composition>
+
+    </body>
+</html>

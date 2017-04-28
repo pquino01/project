@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+    <body>
+
+        <ui:composition template="./storeTemplate.xhtml">
+
+            <ui:define name="top">
+                <h2> On-line supermarket </h2>
+                <h:form id="loginLogoutRegister">
+                    <p:commandButton value="Login" action="storeLogin.xhtml" rendered="#{!selectCategoryManagedBean.loggedIn}" />
+                    <p:commandButton value="Logout" action="#{customerLoginManagedBean.logout()}" rendered="#{selectCategoryManagedBean.loggedIn}" />
+                    <h:commandLink action="storeRegister.xhtml" value="Register" rendered="#{!selectCategoryManagedBean.loggedIn}"/>
+
+                    <div id="language">
+                        <h:commandLink action="#{travellerSearchFlightsManagedBean.register()}" value="English" rendered="#{!travellerSearchFlightsManagedBean.loggedIn}"/>
+                        <h:commandLink action="#{travellerSearchFlightsManagedBean.register()}" value="/Spanish" rendered="#{!travellerSearchFlightsManagedBean.loggedIn}"/>
+                    </div>
+                </h:form>
+            </ui:define>
+
+            <ui:define name="content">
+                <h:form id="cart">
+                    <p:growl id="messages" showDetail="true"/>
+                    <p:dataTable value="#{viewCartManagedBean.cart.items}" var="i"  widgetVar="50"  editable="true">
+
+                        <f:facet name="header">  
+                            My cart  
+                        </f:facet> 
+                        <p:ajax event="rowEdit" listener="#{viewCartManagedBean.onRowEdit}" update=":cart:messages :cart:total" />
+                        <p:ajax event="rowEditCancel" listener="#{viewCartManagedBean.onRowCancel}" update=":cart:messages :cart:total" />
+                   
+                        <p:column>
+                            <img src="#{initParam.productsImgPath}#{i.product.name}.png" /> 
+                        </p:column>
+                        <p:column>
+                            <f:facet name="header">  
+                                <h:outputText value="Product name" />  
+                            </f:facet>
+
+
+                            <h:outputText value="#{i.product.name}" />  
+
+
+                        </p:column>
+
+                        <p:column>
+                            <f:facet name="header">  
+                                <h:outputText value="Price" />  
+                            </f:facet>
+
+
+                            <h:outputText value="#{i.total}" />  
+
+
+                        </p:column>
+
+                        <p:column>
+                            <f:facet name="header">  
+                                <h:outputText value="Quantity" />  
+                            </f:facet>
+                            <p:cellEditor>  
+                                <f:facet name="output">  
+                                    <h:outputText value="#{i.quantity}" />  
+                                </f:facet>  
+                                <f:facet name="input">  
+                                    <p:inputText value="#{i.quantity}" style="width:100%"/>  
+                                </f:facet>  
+                            </p:cellEditor>
+                        </p:column> 
+
+                        <p:column headerText="Options">  
+                            <p:rowEditor/>  
+                        </p:column> 
+                        
+
+                    </p:dataTable>
+                    <p:spacer/>
+                    <h:outputText id="total" value="Total cart: #{viewCartManagedBean.cart.totalCartPrice}$" style="background-color: #ffffff"/> 
+                    <p:commandButton value="Purchase items" action="#{viewCartManagedBean.purchaseItems()}" />
+                </h:form>
+                <h:form id="productsSuggestions">
+
+                    <p:commandButton id="productsBtn" value="Suggest products to add to cart to reach discount" type="button" />
+                    <p:overlayPanel showCloseIcon="true" id="productsCloseToDiscountPanel" for="productsBtn" hideEffect="fade" dynamic="true" style="width:600px">
+                        
+                        <p:dataTable var="p" value="#{viewCartManagedBean.productsCloseToDiscount}" rows="5" paginator="true">
+                            <p:column>
+                                <img src="#{initParam.productsImgPath}#{p.name}.png" /> 
+                            </p:column>
+                            <p:column headerText="Product name">
+                                <h:outputText value="#{p.name}" />  
+                            </p:column>
+                            <p:column headerText="Price">
+                                <h:outputText value="#{p.price}" />  
+                            </p:column>
+                            <p:column>
+
+                                <div id="addToCart">
+                                    <p:commandButton value="Add to cart" action="#{viewCartManagedBean.addToCartSingleProduct(p)}"  update=":cart"/>
+                                </div>
+
+                            </p:column>
+                        </p:dataTable>
+                    </p:overlayPanel>
+                </h:form>
+            </ui:define>
+
+        </ui:composition>
+
+    </body>
+</html>
+

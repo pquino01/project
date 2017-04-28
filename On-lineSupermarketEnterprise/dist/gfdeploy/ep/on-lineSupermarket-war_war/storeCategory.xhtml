@@ -1,0 +1,74 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+    <body>
+
+        <ui:composition template="./storeTemplate.xhtml">
+
+            <ui:define name="top">
+                <h2> On-line supermarket </h2>
+                <h:form id="loginLogoutRegister">
+                    <p:commandButton value="Login" action="storeLogin.xhtml" rendered="#{!selectCategoryManagedBean.loggedIn}" />
+                    <p:commandButton value="Logout" action="#{customerLoginManagedBean.logout()}" rendered="#{selectCategoryManagedBean.loggedIn}" />
+                    <h:commandLink action="storeRegister.xhtml" value="Register" rendered="#{!selectCategoryManagedBean.loggedIn}"/>
+                    <div id="viewCart">
+                        <h:graphicImage library="images" name="cart.png" alt="View Cart" width="20px"/>
+                        <h:commandLink action="viewCart.xhtml" value="View Cart"/>
+                    </div>
+                    <div id="language">
+                        <h:commandLink action="#{travellerSearchFlightsManagedBean.register()}" value="English" rendered="#{!travellerSearchFlightsManagedBean.loggedIn}"/>
+                        <h:commandLink action="#{travellerSearchFlightsManagedBean.register()}" value="/Spanish" rendered="#{!travellerSearchFlightsManagedBean.loggedIn}"/>
+                    </div>
+                </h:form>
+            </ui:define>
+
+            <ui:define name="content">
+                <h:form>
+                    <div id="returnHome">
+                        <h:graphicImage library="images" name="returnIcon.jpg" width="20px"/>
+                        <h:commandLink action="storeHome.xhtml" value="HOME CATEGORY PAGE"/>
+                    </div>
+                </h:form>
+
+                <p:dataTable id="listProducts" value="#{selectCategoryManagedBean.productsInCategory}" var="p" >
+
+                    <f:facet name="header"> 
+                        <h:outputText value="#{selectCategoryManagedBean.categorySelected.name}" /> 
+                    </f:facet>
+                    <p:column style="width:150px">
+                        <img src="#{initParam.productsImgPath}#{p.name}.png" />
+                    </p:column>
+                    <p:column headerText="Product name" style="width:150px">
+                        <h:outputText value="#{p.name}" />  
+                    </p:column>
+                    <p:column headerText="Product description">
+                        <h:outputText value="#{p.description}" />  
+                    </p:column>
+                    <p:column headerText="Price" style="width:50px">
+                        <h:outputText value="#{p.price} $" />  
+                    </p:column>
+                    <p:column>
+                        <h:form>
+                            <div id="addToCart">
+                                <h:outputText value="Select quantity: "/> 
+                                <h:inputText required="true" value="#{viewCartManagedBean.quantityProduct}" size="2" style="margin-right: 10px;"/>
+                                <p:commandButton value="Add to cart" action="#{viewCartManagedBean.addToCart(p)}"  update=":form1"/>
+                            </div>
+                        </h:form>
+                    </p:column>
+
+                </p:dataTable>
+                <h:form id="form1">
+                <p:stack icon="resources/images/stack.png" expanded="true" model="#{viewCartManagedBean.model}">
+                    
+                </p:stack>
+                </h:form>
+            </ui:define>
+
+        </ui:composition>
+
+    </body>
+</html>

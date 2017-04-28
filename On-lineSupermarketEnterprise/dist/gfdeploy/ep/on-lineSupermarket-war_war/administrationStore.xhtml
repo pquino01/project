@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+    <body>
+
+        <ui:composition template="./storeTemplate.xhtml">
+
+            <ui:define name="top">
+                <h2> On-line supermarket administration </h2>
+                <h:form id="loginLogoutRegister">
+                    <p:commandButton value="Login" action="#{travellerSearchFlightsManagedBean.login()}" rendered="#{!travellerSearchFlightsManagedBean.loggedIn}" />
+                    <p:commandButton value="Logout" action="#{travellerSearchFlightsManagedBean.loginBean.logout()}" rendered="#{travellerSearchFlightsManagedBean.loggedIn}" />
+                    <div id="language">
+                        
+                        <h:commandLink action="customerSupportChatRoom.xhtml" value="Customer support chatroom"/>
+                    </div>
+                </h:form>
+            </ui:define>
+
+            <ui:define name="content">
+                <p:tabView id="tab">
+
+                    <p:tab title="Manage products">
+                        <h:form enctype="multipart/form-data">
+                            <p:growl id="messages" showDetail="true" />
+                            <p:panel header="Add a product" style="width: 800px">
+                                <h:panelGrid columns="4">
+
+                                    <p:row>
+                                        <h:outputLabel for="productName" value="Product Name: " style="width: 250px"/>
+                                    </p:row>
+                                    <p:row>
+                                        <h:inputText id="productName" label="Product Name"
+                                                     value="#{administrationManagedBean.productName}"
+                                                     required="true"/>
+                                    </p:row>
+                                    <p:row>
+                                        <h:outputLabel for="productDescription" value="Product Description: " style="width: 200px"/>
+                                    </p:row>
+                                    <p:row>  
+                                        <h:inputText id="productDescription" label="Product Description"
+                                                     value="#{administrationManagedBean.productDescription}"
+                                                     required="true" style="width: 200px"/>
+                                    </p:row>
+                                    <p:row>
+                                        <h:outputLabel for="productPrice" value="Product Price: " style="width: 250px"/>
+                                    </p:row>
+                                    <p:row>
+                                        <h:inputText id="productPrice" label="Product Price"
+                                                     value="#{administrationManagedBean.price}"
+                                                     required="true"/>
+                                    </p:row>
+                                    <p:row>
+                                        <h:outputLabel for="productCategory" value="Product Category: " style="width: 200px"/>
+                                    </p:row>
+                                    <p:row>
+                                        <h:inputText id="productCategory" label="Product Category"
+                                                     value="#{administrationManagedBean.category}"
+                                                     required="true" style="width: 200px"/>
+                                    </p:row>
+                                    <p:row>
+                                        <h:outputLabel for="productMarketCost" value="Product Market Cost: " style="width: 250px"/>
+                                    </p:row>
+                                    <p:row>
+                                        <h:inputText id="productMarketCost" label="Product Market Cost"
+                                                     value="#{administrationManagedBean.marketCost}"
+                                                     required="true"/>
+                                    </p:row>
+                                    <p:row>
+                                        <h:outputLabel for="fileUpload" value="Product Image: "/>
+                                    </p:row>
+                                    <p:row>
+                                        <p:fileUpload id="fileUpload" value="#{administrationManagedBean.file}" mode="simple" allowTypes="/(\.|\/)(png)$/"/>
+                                    </p:row>
+                                    <p:row/><p:row/><p:row/>
+
+                                    <p:row>
+                                        <p:commandButton style="left: 250px"  value="Add product" ajax="false" action="#{administrationManagedBean.addProductToDB()}"/>
+                                    </p:row>
+                                </h:panelGrid>
+                            </p:panel>
+                        </h:form>
+                        <p:spacer/>
+                        <h:form id="products">
+                            <p:growl id="messages" showDetail="true"/>
+                            <p:dataTable value="#{administrationManagedBean.products}" rows="5" paginator="true" var="product"  widgetVar="50"  editable="true">
+
+                                <f:facet name="header">  
+                                    All products  
+                                </f:facet>
+
+                                <p:ajax event="rowEdit" listener="#{administrationManagedBean.onRowEdit}" update=":tab:products:messages" />
+                                <p:ajax event="rowEditCancel" listener="#{administrationManagedBean.onRowCancel}" update=":tab:products:messages" />
+
+                                <p:column>
+                                    <p:graphicImage value="#{administrationManagedBean.imageAsStreamedContent}" style="width: 150px">
+                                        <f:param name="productName" value="#{product.name}" />
+                                    </p:graphicImage>
+                                </p:column>
+
+                                <p:column headerText="Product name">
+                                    <p:cellEditor>
+                                        <f:facet name="output"><h:outputText value="#{product.name}" /></f:facet>
+                                        <f:facet name="input"><p:inputText value="#{product.name}" style="width:100%"/></f:facet>
+                                    </p:cellEditor>
+
+                                </p:column>
+
+                                <p:column headerText="Product description">
+                                    <p:cellEditor>
+                                        <f:facet name="output"><h:outputText value="#{product.description}" /></f:facet>
+                                        <f:facet name="input"><p:inputText value="#{product.description}" style="width:100%"/></f:facet>
+                                    </p:cellEditor>
+
+                                </p:column>
+
+                                <p:column headerText="Price">
+                                    <p:cellEditor>
+                                        <f:facet name="output"><h:outputText value="#{product.price}" /></f:facet>
+                                        <f:facet name="input"><p:inputText value="#{product.price}" style="width:100%"/></f:facet>
+                                    </p:cellEditor>
+
+                                </p:column>
+
+                                <p:column headerText="Market cost">
+                                    <p:cellEditor>
+                                        <f:facet name="output"><h:outputText value="#{product.marketCost}" /></f:facet>
+                                        <f:facet name="input"><p:inputText value="#{product.marketCost}" style="width:100%"/></f:facet>
+                                    </p:cellEditor>
+
+                                </p:column>
+
+                                <p:column headerText="Product category">
+                                    <p:cellEditor>
+                                        <f:facet name="output"><h:outputText value="#{product.categoryId.name}" /></f:facet>
+                                        <f:facet name="input"><p:inputText value="#{product.categoryId.name}" style="width:100%"/></f:facet>
+                                    </p:cellEditor>
+
+
+
+                                </p:column>
+                                <p:column headerText="Options">  
+                                    <p:rowEditor/>  
+                                </p:column> 
+                            </p:dataTable>
+                        </h:form>
+
+
+
+                    </p:tab>
+                    <p:tab title="Accounting">
+                        <table style="border-collapse: collapse; width: 600px; font-size: large;">
+                            <tr>
+                                <th style="border: 3px solid #000000;"> <h:outputText value="Sales Returns" /> </th>
+                                <th style="border: 3px solid #000000;"> <h:outputText style="color: red;" value="- Cost of Goods Sold" />  </th> 
+                                <th style="border: 3px solid #000000;"> <h:outputText  value="Net Sales (day 1-->today)" />  </th>
+                            </tr>
+                            <tr>
+                                <td style="border: 3px solid #000000;"> <h:outputText value="#{administrationManagedBean.salesReturn}" /> </td>
+                                <td style="border: 3px solid #000000;"> <h:outputText style="color: red;" value="#{administrationManagedBean.costOfGoods}" /> </td> 
+                                <td style="border: 3px solid #000000;"> <h:outputText value="#{administrationManagedBean.netSales}" /> </td>
+                            </tr>
+                        </table>
+                        
+                    </p:tab>
+                    <p:tab title="Customers Preferences">
+                        <p:graphicImage value="#{administrationManagedBean.chart}" />
+                    </p:tab>
+
+                </p:tabView>
+                
+            </ui:define>
+
+        </ui:composition>
+
+    </body>
+</html>
